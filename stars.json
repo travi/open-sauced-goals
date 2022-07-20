@@ -14,7 +14,7 @@
   {
     "full_name": "mampfes/hacs_waste_collection_schedule",
     "stargazers_count": 200,
-    "open_issues_count": 29,
+    "open_issues_count": 32,
     "forks_count": 106
   },
   {
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "blakeblackshear/frigate",
-    "stargazers_count": 5048,
-    "open_issues_count": 222,
-    "forks_count": 536
+    "stargazers_count": 5052,
+    "open_issues_count": 217,
+    "forks_count": 537
   },
   {
     "full_name": "thomasloven/lovelace-fold-entity-row",
@@ -43,20 +43,20 @@
   },
   {
     "full_name": "acd/infinitive",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 19,
     "forks_count": 31
   },
   {
     "full_name": "lewagon/wait-on-check-action",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 16,
     "forks_count": 27
   },
   {
     "full_name": "Yelp/detect-secrets",
     "stargazers_count": 2384,
-    "open_issues_count": 96,
+    "open_issues_count": 95,
     "forks_count": 299
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "music-assistant/hass-music-assistant",
-    "stargazers_count": 236,
-    "open_issues_count": 50,
+    "stargazers_count": 238,
+    "open_issues_count": 52,
     "forks_count": 12
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "frenck/awesome-home-assistant",
-    "stargazers_count": 3880,
+    "stargazers_count": 3881,
     "open_issues_count": 8,
-    "forks_count": 304
+    "forks_count": 305
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 1372,
-    "open_issues_count": 6,
-    "forks_count": 101
+    "stargazers_count": 1415,
+    "open_issues_count": 4,
+    "forks_count": 106
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
@@ -122,8 +122,8 @@
   {
     "full_name": "bruxy70/Garbage-Collection",
     "stargazers_count": 297,
-    "open_issues_count": 1,
-    "forks_count": 57
+    "open_issues_count": 2,
+    "forks_count": 58
   },
   {
     "full_name": "georgegebbett/recipe-buddy",
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "mrk-its/homeassistant-blitzortung",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 15,
     "forks_count": 20
   },
   {
     "full_name": "1technophile/OpenMQTTGateway",
-    "stargazers_count": 2643,
-    "open_issues_count": 69,
+    "stargazers_count": 2644,
+    "open_issues_count": 67,
     "forks_count": 577
   },
   {
@@ -158,12 +158,12 @@
   {
     "full_name": "MindFreeze/ha-sankey-chart",
     "stargazers_count": 56,
-    "open_issues_count": 9,
+    "open_issues_count": 6,
     "forks_count": 3
   },
   {
     "full_name": "amannn/action-semantic-pull-request",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 11,
     "forks_count": 58
   },

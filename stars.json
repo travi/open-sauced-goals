@@ -1,21 +1,39 @@
 [
   {
+    "full_name": "github/safe-settings",
+    "stargazers_count": 175,
+    "open_issues_count": 25,
+    "forks_count": 42
+  },
+  {
+    "full_name": "basnijholt/adaptive-lighting",
+    "stargazers_count": 618,
+    "open_issues_count": 107,
+    "forks_count": 63
+  },
+  {
+    "full_name": "southqaw/HatchRest-MQTT-HomeAssistant",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "elax46/custom-brand-icons",
     "stargazers_count": 165,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 25
   },
   {
     "full_name": "zewelor/bt-mqtt-gateway",
     "stargazers_count": 477,
     "open_issues_count": 64,
-    "forks_count": 107
+    "forks_count": 106
   },
   {
     "full_name": "mampfes/hacs_waste_collection_schedule",
-    "stargazers_count": 200,
-    "open_issues_count": 32,
-    "forks_count": 106
+    "stargazers_count": 201,
+    "open_issues_count": 33,
+    "forks_count": 108
   },
   {
     "full_name": "LRvdLinden/unifi_dashboard_dd_addon",
@@ -25,15 +43,15 @@
   },
   {
     "full_name": "mszostok/codeowners-validator",
-    "stargazers_count": 125,
-    "open_issues_count": 26,
+    "stargazers_count": 126,
+    "open_issues_count": 25,
     "forks_count": 31
   },
   {
     "full_name": "blakeblackshear/frigate",
-    "stargazers_count": 5052,
-    "open_issues_count": 217,
-    "forks_count": 537
+    "stargazers_count": 5073,
+    "open_issues_count": 219,
+    "forks_count": 538
   },
   {
     "full_name": "thomasloven/lovelace-fold-entity-row",
@@ -49,15 +67,15 @@
   },
   {
     "full_name": "lewagon/wait-on-check-action",
-    "stargazers_count": 154,
+    "stargazers_count": 156,
     "open_issues_count": 16,
     "forks_count": 27
   },
   {
     "full_name": "Yelp/detect-secrets",
-    "stargazers_count": 2384,
+    "stargazers_count": 2386,
     "open_issues_count": 95,
-    "forks_count": 299
+    "forks_count": 301
   },
   {
     "full_name": "reverentgeek/reverentgeek-card",
@@ -79,27 +97,27 @@
   },
   {
     "full_name": "music-assistant/hass-music-assistant",
-    "stargazers_count": 238,
-    "open_issues_count": 52,
+    "stargazers_count": 240,
+    "open_issues_count": 35,
     "forks_count": 12
   },
   {
     "full_name": "test-summary/action",
     "stargazers_count": 268,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 11
   },
   {
     "full_name": "frenck/awesome-home-assistant",
-    "stargazers_count": 3881,
+    "stargazers_count": 3888,
     "open_issues_count": 8,
-    "forks_count": 305
+    "forks_count": 304
   },
   {
     "full_name": "Schweinepriester/github-profile-achievements",
-    "stargazers_count": 1415,
+    "stargazers_count": 1493,
     "open_issues_count": 4,
-    "forks_count": 106
+    "forks_count": 112
   },
   {
     "full_name": "Flet/rejected-github-profile-achievements",
@@ -122,13 +140,13 @@
   {
     "full_name": "bruxy70/Garbage-Collection",
     "stargazers_count": 297,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 58
   },
   {
     "full_name": "georgegebbett/recipe-buddy",
-    "stargazers_count": 13,
-    "open_issues_count": 7,
+    "stargazers_count": 14,
+    "open_issues_count": 9,
     "forks_count": 0
   },
   {
@@ -139,8 +157,8 @@
   },
   {
     "full_name": "1technophile/OpenMQTTGateway",
-    "stargazers_count": 2644,
-    "open_issues_count": 67,
+    "stargazers_count": 2648,
+    "open_issues_count": 68,
     "forks_count": 577
   },
   {
@@ -160,23 +178,5 @@
     "stargazers_count": 56,
     "open_issues_count": 6,
     "forks_count": 3
-  },
-  {
-    "full_name": "amannn/action-semantic-pull-request",
-    "stargazers_count": 374,
-    "open_issues_count": 11,
-    "forks_count": 58
-  },
-  {
-    "full_name": "pkgjs/support",
-    "stargazers_count": 22,
-    "open_issues_count": 2,
-    "forks_count": 7
-  },
-  {
-    "full_name": "arenglish/nx-semantic-release-demo",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

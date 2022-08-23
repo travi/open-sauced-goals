@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "remcohaszing/remark-prettier",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "nathanfaber/meaterble",
+    "stargazers_count": 50,
+    "open_issues_count": 7,
+    "forks_count": 14
+  },
+  {
+    "full_name": "drknzz/GitHub-Achievements",
+    "stargazers_count": 53,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "ptrkcsk/auto-terminal-profile",
     "stargazers_count": 10,
     "open_issues_count": 1,
@@ -7,8 +25,8 @@
   },
   {
     "full_name": "antfu/case-police",
-    "stargazers_count": 905,
-    "open_issues_count": 4,
+    "stargazers_count": 910,
+    "open_issues_count": 6,
     "forks_count": 74
   },
   {
@@ -26,14 +44,14 @@
   {
     "full_name": "ossf/package-manager-best-practices",
     "stargazers_count": 19,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 139,
-    "open_issues_count": 92,
-    "forks_count": 1
+    "stargazers_count": 140,
+    "open_issues_count": 93,
+    "forks_count": 2
   },
   {
     "full_name": "remarkjs/remark-preset-prettier",
@@ -61,19 +79,19 @@
   },
   {
     "full_name": "moralmunky/Home-Assistant-Mail-And-Packages",
-    "stargazers_count": 344,
+    "stargazers_count": 346,
     "open_issues_count": 2,
     "forks_count": 37
   },
   {
     "full_name": "bramstroker/homeassistant-powercalc",
-    "stargazers_count": 357,
-    "open_issues_count": 16,
-    "forks_count": 95
+    "stargazers_count": 360,
+    "open_issues_count": 10,
+    "forks_count": 97
   },
   {
     "full_name": "olafhartong/sysmon-modular",
-    "stargazers_count": 1887,
+    "stargazers_count": 1891,
     "open_issues_count": 21,
     "forks_count": 416
   },
@@ -91,15 +109,15 @@
   },
   {
     "full_name": "dawidchyrzynski/arduino-home-assistant",
-    "stargazers_count": 101,
+    "stargazers_count": 105,
     "open_issues_count": 11,
     "forks_count": 33
   },
   {
     "full_name": "github/safe-settings",
-    "stargazers_count": 185,
-    "open_issues_count": 36,
-    "forks_count": 49
+    "stargazers_count": 186,
+    "open_issues_count": 27,
+    "forks_count": 50
   },
   {
     "full_name": "basnijholt/adaptive-lighting",
@@ -111,7 +129,7 @@
     "full_name": "southqaw/HatchRest-MQTT-HomeAssistant",
     "stargazers_count": 5,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "elax46/custom-brand-icons",
@@ -122,13 +140,13 @@
   {
     "full_name": "zewelor/bt-mqtt-gateway",
     "stargazers_count": 478,
-    "open_issues_count": 65,
+    "open_issues_count": 66,
     "forks_count": 107
   },
   {
     "full_name": "mampfes/hacs_waste_collection_schedule",
-    "stargazers_count": 220,
-    "open_issues_count": 28,
+    "stargazers_count": 225,
+    "open_issues_count": 30,
     "forks_count": 116
   },
   {
@@ -139,15 +157,15 @@
   },
   {
     "full_name": "mszostok/codeowners-validator",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 26,
     "forks_count": 33
   },
   {
     "full_name": "blakeblackshear/frigate",
-    "stargazers_count": 5310,
-    "open_issues_count": 243,
-    "forks_count": 559
+    "stargazers_count": 5350,
+    "open_issues_count": 249,
+    "forks_count": 562
   },
   {
     "full_name": "thomasloven/lovelace-fold-entity-row",
@@ -160,23 +178,5 @@
     "stargazers_count": 77,
     "open_issues_count": 19,
     "forks_count": 33
-  },
-  {
-    "full_name": "lewagon/wait-on-check-action",
-    "stargazers_count": 165,
-    "open_issues_count": 17,
-    "forks_count": 31
-  },
-  {
-    "full_name": "Yelp/detect-secrets",
-    "stargazers_count": 2430,
-    "open_issues_count": 104,
-    "forks_count": 310
-  },
-  {
-    "full_name": "reverentgeek/reverentgeek-card",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]

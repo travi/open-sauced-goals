@@ -1,15 +1,15 @@
 [
   {
     "full_name": "rbaron/b-parasite",
-    "stargazers_count": 691,
+    "stargazers_count": 692,
     "open_issues_count": 13,
     "forks_count": 61
   },
   {
     "full_name": "antfu/ni",
-    "stargazers_count": 2290,
-    "open_issues_count": 1,
-    "forks_count": 69
+    "stargazers_count": 2308,
+    "open_issues_count": 2,
+    "forks_count": 70
   },
   {
     "full_name": "module-federation/node",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "pnbruckner/ha-sun2",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 4,
     "forks_count": 13
   },
@@ -33,7 +33,7 @@
     "full_name": "ihormelnyk/opentherm_library",
     "stargazers_count": 129,
     "open_issues_count": 23,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "remcohaszing/remark-prettier",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "drknzz/GitHub-Achievements",
-    "stargazers_count": 98,
+    "stargazers_count": 101,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 10
   },
   {
     "full_name": "ptrkcsk/auto-terminal-profile",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "antfu/case-police",
-    "stargazers_count": 935,
+    "stargazers_count": 936,
     "open_issues_count": 4,
     "forks_count": 75
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "ossf/package-manager-best-practices",
-    "stargazers_count": 130,
-    "open_issues_count": 5,
+    "stargazers_count": 133,
+    "open_issues_count": 4,
     "forks_count": 17
   },
   {
@@ -117,19 +117,19 @@
     "full_name": "moralmunky/Home-Assistant-Mail-And-Packages",
     "stargazers_count": 358,
     "open_issues_count": 2,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "bramstroker/homeassistant-powercalc",
-    "stargazers_count": 412,
-    "open_issues_count": 8,
+    "stargazers_count": 419,
+    "open_issues_count": 9,
     "forks_count": 105
   },
   {
     "full_name": "olafhartong/sysmon-modular",
-    "stargazers_count": 1931,
-    "open_issues_count": 15,
-    "forks_count": 422
+    "stargazers_count": 1944,
+    "open_issues_count": 14,
+    "forks_count": 424
   },
   {
     "full_name": "custom-cards/surveillance-card",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "dawidchyrzynski/arduino-home-assistant",
-    "stargazers_count": 146,
-    "open_issues_count": 7,
-    "forks_count": 39
+    "stargazers_count": 148,
+    "open_issues_count": 8,
+    "forks_count": 40
   },
   {
     "full_name": "github/safe-settings",
     "stargazers_count": 212,
-    "open_issues_count": 36,
-    "forks_count": 56
+    "open_issues_count": 42,
+    "forks_count": 57
   },
   {
     "full_name": "basnijholt/adaptive-lighting",
-    "stargazers_count": 667,
-    "open_issues_count": 98,
+    "stargazers_count": 674,
+    "open_issues_count": 99,
     "forks_count": 67
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "zewelor/bt-mqtt-gateway",
-    "stargazers_count": 486,
+    "stargazers_count": 488,
     "open_issues_count": 67,
     "forks_count": 110
   }

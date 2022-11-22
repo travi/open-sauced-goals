@@ -1,50 +1,68 @@
 [
   {
+    "full_name": "ct-Open-Source/tuya-convert",
+    "stargazers_count": 3818,
+    "open_issues_count": 169,
+    "forks_count": 444
+  },
+  {
+    "full_name": "tuya-cloudcutter/tuya-cloudcutter",
+    "stargazers_count": 130,
+    "open_issues_count": 94,
+    "forks_count": 24
+  },
+  {
+    "full_name": "stanoba/wifi-desk-lamp",
+    "stargazers_count": 34,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "LedFx/LedFx",
-    "stargazers_count": 734,
+    "stargazers_count": 737,
     "open_issues_count": 12,
-    "forks_count": 79
+    "forks_count": 78
   },
   {
     "full_name": "benct/lovelace-xiaomi-vacuum-card",
-    "stargazers_count": 218,
+    "stargazers_count": 219,
     "open_issues_count": 19,
     "forks_count": 38
   },
   {
     "full_name": "rhasspy/rhasspy",
-    "stargazers_count": 1284,
+    "stargazers_count": 1287,
     "open_issues_count": 92,
     "forks_count": 126
   },
   {
     "full_name": "openrewrite/rewrite",
-    "stargazers_count": 740,
+    "stargazers_count": 744,
     "open_issues_count": 186,
     "forks_count": 86
   },
   {
     "full_name": "github/mona-sans",
-    "stargazers_count": 1786,
-    "open_issues_count": 11,
-    "forks_count": 26
+    "stargazers_count": 1915,
+    "open_issues_count": 12,
+    "forks_count": 27
   },
   {
     "full_name": "github/hubot-sans",
-    "stargazers_count": 967,
+    "stargazers_count": 1019,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "anchore/syft",
-    "stargazers_count": 3369,
-    "open_issues_count": 185,
+    "stargazers_count": 3377,
+    "open_issues_count": 184,
     "forks_count": 289
   },
   {
     "full_name": "anchore/sbom-action",
-    "stargazers_count": 89,
-    "open_issues_count": 14,
+    "stargazers_count": 90,
+    "open_issues_count": 15,
     "forks_count": 15
   },
   {
@@ -55,7 +73,7 @@
   },
   {
     "full_name": "vinenoobjelly/jellyfishlights-py",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -67,7 +85,7 @@
   },
   {
     "full_name": "joushx/python-sonicare",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -91,8 +109,8 @@
   },
   {
     "full_name": "ElectricBrainUK/UnraidAPI",
-    "stargazers_count": 95,
-    "open_issues_count": 27,
+    "stargazers_count": 94,
+    "open_issues_count": 28,
     "forks_count": 7
   },
   {
@@ -103,9 +121,9 @@
   },
   {
     "full_name": "getsentry/self-hosted",
-    "stargazers_count": 5614,
-    "open_issues_count": 100,
-    "forks_count": 1445
+    "stargazers_count": 5632,
+    "open_issues_count": 101,
+    "forks_count": 1447
   },
   {
     "full_name": "uwbfritz/grocy-api-tools",
@@ -116,7 +134,7 @@
   {
     "full_name": "skovhus/jest-codemods",
     "stargazers_count": 831,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 92
   },
   {
@@ -127,15 +145,15 @@
   },
   {
     "full_name": "rbaron/b-parasite",
-    "stargazers_count": 1260,
-    "open_issues_count": 17,
+    "stargazers_count": 1264,
+    "open_issues_count": 18,
     "forks_count": 79
   },
   {
     "full_name": "antfu/ni",
-    "stargazers_count": 2668,
+    "stargazers_count": 2679,
     "open_issues_count": 1,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "module-federation/node",
@@ -158,25 +176,7 @@
   {
     "full_name": "ihormelnyk/opentherm_library",
     "stargazers_count": 135,
-    "open_issues_count": 23,
-    "forks_count": 64
-  },
-  {
-    "full_name": "remcohaszing/remark-prettier",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "nathanfaber/meaterble",
-    "stargazers_count": 52,
-    "open_issues_count": 7,
-    "forks_count": 14
-  },
-  {
-    "full_name": "drknzz/GitHub-Achievements",
-    "stargazers_count": 184,
-    "open_issues_count": 0,
-    "forks_count": 15
+    "open_issues_count": 24,
+    "forks_count": 66
   }
 ]

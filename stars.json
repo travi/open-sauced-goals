@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "sacarino/esp32-lora-sensor",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "louislam/uptime-kuma",
+    "stargazers_count": 26306,
+    "open_issues_count": 712,
+    "forks_count": 2181
+  },
+  {
     "full_name": "blakadder/nspanel",
     "stargazers_count": 97,
-    "open_issues_count": 19,
+    "open_issues_count": 13,
     "forks_count": 26
   },
   {
     "full_name": "abiosoft/colima",
-    "stargazers_count": 8318,
-    "open_issues_count": 121,
-    "forks_count": 195
+    "stargazers_count": 8422,
+    "open_issues_count": 126,
+    "forks_count": 198
   },
   {
     "full_name": "package-url/packageurl-js",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "Fishwaldo/esp_ghota",
-    "stargazers_count": 241,
+    "stargazers_count": 265,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 12
   },
   {
     "full_name": "jim11662418/ESP8266-WiFi-Analog-Clock",
@@ -49,9 +61,9 @@
   },
   {
     "full_name": "sopelj/hass-ember-mug-component",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "rode/rode",
@@ -67,27 +79,27 @@
   },
   {
     "full_name": "ct-Open-Source/tuya-convert",
-    "stargazers_count": 3869,
-    "open_issues_count": 172,
-    "forks_count": 450
+    "stargazers_count": 3882,
+    "open_issues_count": 173,
+    "forks_count": 453
   },
   {
     "full_name": "tuya-cloudcutter/tuya-cloudcutter",
-    "stargazers_count": 159,
-    "open_issues_count": 6,
+    "stargazers_count": 161,
+    "open_issues_count": 5,
     "forks_count": 25
   },
   {
     "full_name": "stanoba/wifi-desk-lamp",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "LedFx/LedFx",
-    "stargazers_count": 772,
-    "open_issues_count": 11,
-    "forks_count": 82
+    "stargazers_count": 777,
+    "open_issues_count": 13,
+    "forks_count": 83
   },
   {
     "full_name": "benct/lovelace-xiaomi-vacuum-card",
@@ -97,33 +109,33 @@
   },
   {
     "full_name": "rhasspy/rhasspy",
-    "stargazers_count": 1674,
+    "stargazers_count": 1682,
     "open_issues_count": 97,
     "forks_count": 135
   },
   {
     "full_name": "openrewrite/rewrite",
-    "stargazers_count": 773,
+    "stargazers_count": 776,
     "open_issues_count": 197,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "github/mona-sans",
-    "stargazers_count": 2521,
-    "open_issues_count": 21,
+    "stargazers_count": 2532,
+    "open_issues_count": 23,
     "forks_count": 47
   },
   {
     "full_name": "github/hubot-sans",
-    "stargazers_count": 1429,
+    "stargazers_count": 1440,
     "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "anchore/syft",
-    "stargazers_count": 3489,
-    "open_issues_count": 197,
-    "forks_count": 308
+    "stargazers_count": 3493,
+    "open_issues_count": 198,
+    "forks_count": 309
   },
   {
     "full_name": "anchore/sbom-action",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "arallsopp/hass-hue-icons",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 7,
     "forks_count": 20
-  },
-  {
-    "full_name": "wooorm/npm-high-impact",
-    "stargazers_count": 25,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ElectricBrainUK/UnraidAPI",
-    "stargazers_count": 95,
-    "open_issues_count": 31,
-    "forks_count": 9
   }
 ]

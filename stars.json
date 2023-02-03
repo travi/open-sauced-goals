@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "CycloneDX/cyclonedx-webpack-plugin",
+    "stargazers_count": 9,
+    "open_issues_count": 39,
+    "forks_count": 4
+  },
+  {
+    "full_name": "GlennGoddard/Salt-Level",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "github/dependency-submission-toolkit",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "full_name": "eBay/sbom-scorecard",
-    "stargazers_count": 69,
+    "stargazers_count": 87,
     "open_issues_count": 6,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "ReceiptManager/receipt-parser-legacy",
@@ -20,7 +32,7 @@
   {
     "full_name": "pixelit-project/PixelIt",
     "stargazers_count": 120,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 28
   },
   {
@@ -31,20 +43,20 @@
   },
   {
     "full_name": "ossf/scorecard-action",
-    "stargazers_count": 124,
-    "open_issues_count": 47,
+    "stargazers_count": 123,
+    "open_issues_count": 49,
     "forks_count": 38
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 385,
+    "stargazers_count": 398,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "mchmarny/s3cme",
     "stargazers_count": 28,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
@@ -61,9 +73,9 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 8754,
-    "open_issues_count": 39,
-    "forks_count": 384
+    "stargazers_count": 8869,
+    "open_issues_count": 48,
+    "forks_count": 390
   },
   {
     "full_name": "developit/desky",
@@ -74,20 +86,20 @@
   {
     "full_name": "mchmarny/disco",
     "stargazers_count": 8,
-    "open_issues_count": 8,
+    "open_issues_count": 11,
     "forks_count": 2
   },
   {
     "full_name": "Eandrju/cellular-automaton.nvim",
-    "stargazers_count": 1229,
-    "open_issues_count": 5,
+    "stargazers_count": 1228,
+    "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "pucherot/Pi.Alert",
-    "stargazers_count": 1360,
-    "open_issues_count": 97,
-    "forks_count": 150
+    "stargazers_count": 1363,
+    "open_issues_count": 100,
+    "forks_count": 151
   },
   {
     "full_name": "niceboygithub/AqaraSmartSwitchS1E",
@@ -97,13 +109,13 @@
   },
   {
     "full_name": "bluwy/publint",
-    "stargazers_count": 358,
-    "open_issues_count": 8,
-    "forks_count": 7
+    "stargazers_count": 361,
+    "open_issues_count": 10,
+    "forks_count": 8
   },
   {
     "full_name": "joBr99/nspanel-lovelace-ui",
-    "stargazers_count": 544,
+    "stargazers_count": 548,
     "open_issues_count": 15,
     "forks_count": 146
   },
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "bdunn44/hass-jellyfish-lighting",
-    "stargazers_count": 6,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "louislam/uptime-kuma",
-    "stargazers_count": 28828,
-    "open_issues_count": 779,
-    "forks_count": 2419
+    "stargazers_count": 29021,
+    "open_issues_count": 781,
+    "forks_count": 2431
   },
   {
     "full_name": "blakadder/nspanel",
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "abiosoft/colima",
-    "stargazers_count": 9228,
-    "open_issues_count": 135,
-    "forks_count": 213
+    "stargazers_count": 9298,
+    "open_issues_count": 138,
+    "forks_count": 214
   },
   {
     "full_name": "package-url/packageurl-js",
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "Fishwaldo/esp_ghota",
-    "stargazers_count": 304,
+    "stargazers_count": 303,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "jim11662418/ESP8266-WiFi-Analog-Clock",
@@ -163,19 +175,7 @@
   },
   {
     "full_name": "dahlb/ha_hatch",
-    "stargazers_count": 24,
-    "open_issues_count": 2,
-    "forks_count": 4
-  },
-  {
-    "full_name": "kdzwinel/betwixt",
-    "stargazers_count": 4462,
-    "open_issues_count": 22,
-    "forks_count": 154
-  },
-  {
-    "full_name": "stefanbuck/github-issue-parser",
-    "stargazers_count": 40,
+    "stargazers_count": 23,
     "open_issues_count": 2,
     "forks_count": 6
   }

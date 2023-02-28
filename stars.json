@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "markdoc/markdoc",
+    "stargazers_count": 5999,
+    "open_issues_count": 11,
+    "forks_count": 117
+  },
+  {
+    "full_name": "moonrepo/moon",
+    "stargazers_count": 1653,
+    "open_issues_count": 18,
+    "forks_count": 40
+  },
+  {
     "full_name": "sdkman/sdkman-action",
     "stargazers_count": 13,
     "open_issues_count": 7,
@@ -25,39 +37,39 @@
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 2824,
-    "open_issues_count": 10,
-    "forks_count": 33
+    "stargazers_count": 2988,
+    "open_issues_count": 9,
+    "forks_count": 34
   },
   {
     "full_name": "nielsfaber/scheduler-card",
-    "stargazers_count": 591,
+    "stargazers_count": 593,
     "open_issues_count": 19,
     "forks_count": 90
   },
   {
     "full_name": "nielsfaber/scheduler-component",
-    "stargazers_count": 402,
-    "open_issues_count": 8,
+    "stargazers_count": 403,
+    "open_issues_count": 9,
     "forks_count": 34
   },
   {
     "full_name": "oss-review-toolkit/ort",
-    "stargazers_count": 1072,
-    "open_issues_count": 291,
-    "forks_count": 221
+    "stargazers_count": 1077,
+    "open_issues_count": 294,
+    "forks_count": 223
   },
   {
     "full_name": "dummylabs/thewatchman",
-    "stargazers_count": 204,
+    "stargazers_count": 205,
     "open_issues_count": 31,
     "forks_count": 10
   },
   {
     "full_name": "kalkih/mini-graph-card",
-    "stargazers_count": 2256,
+    "stargazers_count": 2260,
     "open_issues_count": 108,
-    "forks_count": 197
+    "forks_count": 198
   },
   {
     "full_name": "MrRoundRobin/homeassistant-teams",
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "CycloneDX/cyclonedx-webpack-plugin",
-    "stargazers_count": 14,
-    "open_issues_count": 8,
-    "forks_count": 4
+    "stargazers_count": 16,
+    "open_issues_count": 22,
+    "forks_count": 5
   },
   {
     "full_name": "GlennGoddard/Salt-Level",
@@ -85,20 +97,20 @@
   },
   {
     "full_name": "eBay/sbom-scorecard",
-    "stargazers_count": 132,
-    "open_issues_count": 10,
-    "forks_count": 10
+    "stargazers_count": 140,
+    "open_issues_count": 11,
+    "forks_count": 11
   },
   {
     "full_name": "ReceiptManager/receipt-parser-legacy",
-    "stargazers_count": 733,
+    "stargazers_count": 734,
     "open_issues_count": 10,
     "forks_count": 193
   },
   {
     "full_name": "pixelit-project/PixelIt",
-    "stargazers_count": 141,
-    "open_issues_count": 15,
+    "stargazers_count": 142,
+    "open_issues_count": 16,
     "forks_count": 30
   },
   {
@@ -109,26 +121,26 @@
   },
   {
     "full_name": "ossf/scorecard-action",
-    "stargazers_count": 131,
-    "open_issues_count": 54,
-    "forks_count": 41
+    "stargazers_count": 132,
+    "open_issues_count": 55,
+    "forks_count": 42
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 443,
+    "stargazers_count": 444,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "mchmarny/s3cme",
     "stargazers_count": 29,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "zpratt/koozie-exporter",
     "stargazers_count": 2,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 1
   },
   {
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 9390,
-    "open_issues_count": 67,
-    "forks_count": 428
+    "stargazers_count": 9604,
+    "open_issues_count": 60,
+    "forks_count": 441
   },
   {
     "full_name": "developit/desky",
@@ -152,31 +164,19 @@
   {
     "full_name": "mchmarny/disco",
     "stargazers_count": 11,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "Eandrju/cellular-automaton.nvim",
-    "stargazers_count": 1246,
-    "open_issues_count": 7,
-    "forks_count": 21
+    "stargazers_count": 1247,
+    "open_issues_count": 9,
+    "forks_count": 22
   },
   {
     "full_name": "pucherot/Pi.Alert",
-    "stargazers_count": 1380,
-    "open_issues_count": 101,
+    "stargazers_count": 1381,
+    "open_issues_count": 103,
     "forks_count": 155
-  },
-  {
-    "full_name": "niceboygithub/AqaraSmartSwitchS1E",
-    "stargazers_count": 38,
-    "open_issues_count": 5,
-    "forks_count": 4
-  },
-  {
-    "full_name": "bluwy/publint",
-    "stargazers_count": 400,
-    "open_issues_count": 10,
-    "forks_count": 9
   }
 ]

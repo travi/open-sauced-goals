@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "jfrog/terraform-provider-artifactory",
+    "stargazers_count": 216,
+    "open_issues_count": 12,
+    "forks_count": 84
+  },
+  {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 5999,
+    "stargazers_count": 6021,
     "open_issues_count": 11,
-    "forks_count": 117
+    "forks_count": 116
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 1653,
-    "open_issues_count": 18,
-    "forks_count": 40
+    "stargazers_count": 1660,
+    "open_issues_count": 20,
+    "forks_count": 39
   },
   {
     "full_name": "sdkman/sdkman-action",
@@ -31,43 +37,43 @@
   },
   {
     "full_name": "Nike-Inc/gimme-aws-creds",
-    "stargazers_count": 815,
+    "stargazers_count": 816,
     "open_issues_count": 97,
     "forks_count": 236
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 2988,
-    "open_issues_count": 9,
-    "forks_count": 34
+    "stargazers_count": 3062,
+    "open_issues_count": 14,
+    "forks_count": 37
   },
   {
     "full_name": "nielsfaber/scheduler-card",
-    "stargazers_count": 593,
-    "open_issues_count": 19,
+    "stargazers_count": 595,
+    "open_issues_count": 20,
     "forks_count": 90
   },
   {
     "full_name": "nielsfaber/scheduler-component",
-    "stargazers_count": 403,
-    "open_issues_count": 9,
+    "stargazers_count": 405,
+    "open_issues_count": 10,
     "forks_count": 34
   },
   {
     "full_name": "oss-review-toolkit/ort",
-    "stargazers_count": 1077,
-    "open_issues_count": 294,
+    "stargazers_count": 1086,
+    "open_issues_count": 300,
     "forks_count": 223
   },
   {
     "full_name": "dummylabs/thewatchman",
     "stargazers_count": 205,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 10
   },
   {
     "full_name": "kalkih/mini-graph-card",
-    "stargazers_count": 2260,
+    "stargazers_count": 2262,
     "open_issues_count": 108,
     "forks_count": 198
   },
@@ -80,7 +86,7 @@
   {
     "full_name": "CycloneDX/cyclonedx-webpack-plugin",
     "stargazers_count": 16,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 5
   },
   {
@@ -97,13 +103,13 @@
   },
   {
     "full_name": "eBay/sbom-scorecard",
-    "stargazers_count": 140,
+    "stargazers_count": 145,
     "open_issues_count": 11,
     "forks_count": 11
   },
   {
     "full_name": "ReceiptManager/receipt-parser-legacy",
-    "stargazers_count": 734,
+    "stargazers_count": 735,
     "open_issues_count": 10,
     "forks_count": 193
   },
@@ -127,14 +133,14 @@
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 444,
+    "stargazers_count": 445,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "mchmarny/s3cme",
     "stargazers_count": 29,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 9604,
-    "open_issues_count": 60,
-    "forks_count": 441
+    "stargazers_count": 10192,
+    "open_issues_count": 59,
+    "forks_count": 466
   },
   {
     "full_name": "developit/desky",
@@ -164,19 +170,13 @@
   {
     "full_name": "mchmarny/disco",
     "stargazers_count": 11,
-    "open_issues_count": 5,
+    "open_issues_count": 8,
     "forks_count": 2
   },
   {
     "full_name": "Eandrju/cellular-automaton.nvim",
-    "stargazers_count": 1247,
+    "stargazers_count": 1252,
     "open_issues_count": 9,
     "forks_count": 22
-  },
-  {
-    "full_name": "pucherot/Pi.Alert",
-    "stargazers_count": 1381,
-    "open_issues_count": 103,
-    "forks_count": 155
   }
 ]

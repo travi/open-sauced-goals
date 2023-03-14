@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "jazzyisj/unavailable-entities-sensor",
+    "stargazers_count": 69,
+    "open_issues_count": 1,
+    "forks_count": 14
+  },
+  {
     "full_name": "github/scientist",
-    "stargazers_count": 6931,
+    "stargazers_count": 6935,
     "open_issues_count": 13,
     "forks_count": 501
   },
@@ -13,14 +19,14 @@
   },
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 6080,
+    "stargazers_count": 6103,
     "open_issues_count": 11,
-    "forks_count": 117
+    "forks_count": 121
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 1674,
-    "open_issues_count": 15,
+    "stargazers_count": 1699,
+    "open_issues_count": 18,
     "forks_count": 39
   },
   {
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "finity69x2/nws_alerts",
-    "stargazers_count": 36,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 3161,
+    "stargazers_count": 3211,
     "open_issues_count": 16,
     "forks_count": 43
   },
   {
     "full_name": "nielsfaber/scheduler-card",
-    "stargazers_count": 603,
+    "stargazers_count": 605,
     "open_issues_count": 17,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "nielsfaber/scheduler-component",
@@ -67,19 +73,19 @@
   },
   {
     "full_name": "oss-review-toolkit/ort",
-    "stargazers_count": 1092,
-    "open_issues_count": 310,
-    "forks_count": 224
+    "stargazers_count": 1093,
+    "open_issues_count": 302,
+    "forks_count": 227
   },
   {
     "full_name": "dummylabs/thewatchman",
-    "stargazers_count": 206,
+    "stargazers_count": 207,
     "open_issues_count": 32,
     "forks_count": 10
   },
   {
     "full_name": "kalkih/mini-graph-card",
-    "stargazers_count": 2272,
+    "stargazers_count": 2276,
     "open_issues_count": 114,
     "forks_count": 198
   },
@@ -92,7 +98,7 @@
   {
     "full_name": "CycloneDX/cyclonedx-webpack-plugin",
     "stargazers_count": 16,
-    "open_issues_count": 27,
+    "open_issues_count": 29,
     "forks_count": 5
   },
   {
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "pixelit-project/PixelIt",
-    "stargazers_count": 145,
+    "stargazers_count": 149,
     "open_issues_count": 16,
     "forks_count": 30
   },
@@ -133,13 +139,13 @@
   },
   {
     "full_name": "ossf/scorecard-action",
-    "stargazers_count": 132,
-    "open_issues_count": 55,
+    "stargazers_count": 138,
+    "open_issues_count": 58,
     "forks_count": 45
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 450,
+    "stargazers_count": 461,
     "open_issues_count": 1,
     "forks_count": 17
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 10649,
-    "open_issues_count": 60,
-    "forks_count": 486
+    "stargazers_count": 10705,
+    "open_issues_count": 63,
+    "forks_count": 492
   },
   {
     "full_name": "developit/desky",
     "stargazers_count": 18,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "mchmarny/disco",
-    "stargazers_count": 11,
-    "open_issues_count": 11,
-    "forks_count": 2
   }
 ]

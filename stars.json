@@ -1,32 +1,50 @@
 [
   {
+    "full_name": "dgreif/homebridge-hatch-baby-rest",
+    "stargazers_count": 53,
+    "open_issues_count": 2,
+    "forks_count": 12
+  },
+  {
+    "full_name": "gcobb321/icloud3_v3",
+    "stargazers_count": 36,
+    "open_issues_count": 12,
+    "forks_count": 3
+  },
+  {
+    "full_name": "rivaborn/Kindle-For-PC-Downloader",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "jazzyisj/unavailable-entities-sensor",
-    "stargazers_count": 69,
+    "stargazers_count": 71,
     "open_issues_count": 1,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "github/scientist",
-    "stargazers_count": 6935,
+    "stargazers_count": 6938,
     "open_issues_count": 13,
     "forks_count": 501
   },
   {
     "full_name": "jfrog/terraform-provider-artifactory",
     "stargazers_count": 218,
-    "open_issues_count": 10,
+    "open_issues_count": 13,
     "forks_count": 84
   },
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 6103,
-    "open_issues_count": 11,
-    "forks_count": 121
+    "stargazers_count": 6117,
+    "open_issues_count": 12,
+    "forks_count": 122
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 1699,
-    "open_issues_count": 18,
+    "stargazers_count": 1712,
+    "open_issues_count": 19,
     "forks_count": 39
   },
   {
@@ -50,44 +68,44 @@
   {
     "full_name": "Nike-Inc/gimme-aws-creds",
     "stargazers_count": 816,
-    "open_issues_count": 97,
+    "open_issues_count": 98,
     "forks_count": 237
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 3211,
+    "stargazers_count": 3272,
     "open_issues_count": 16,
     "forks_count": 43
   },
   {
     "full_name": "nielsfaber/scheduler-card",
-    "stargazers_count": 605,
-    "open_issues_count": 17,
+    "stargazers_count": 606,
+    "open_issues_count": 16,
     "forks_count": 92
   },
   {
     "full_name": "nielsfaber/scheduler-component",
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 11,
     "forks_count": 34
   },
   {
     "full_name": "oss-review-toolkit/ort",
-    "stargazers_count": 1093,
-    "open_issues_count": 302,
-    "forks_count": 227
+    "stargazers_count": 1096,
+    "open_issues_count": 311,
+    "forks_count": 228
   },
   {
     "full_name": "dummylabs/thewatchman",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 32,
     "forks_count": 10
   },
   {
     "full_name": "kalkih/mini-graph-card",
-    "stargazers_count": 2276,
+    "stargazers_count": 2281,
     "open_issues_count": 114,
-    "forks_count": 198
+    "forks_count": 200
   },
   {
     "full_name": "MrRoundRobin/homeassistant-teams",
@@ -98,7 +116,7 @@
   {
     "full_name": "CycloneDX/cyclonedx-webpack-plugin",
     "stargazers_count": 16,
-    "open_issues_count": 29,
+    "open_issues_count": 4,
     "forks_count": 5
   },
   {
@@ -115,21 +133,21 @@
   },
   {
     "full_name": "eBay/sbom-scorecard",
-    "stargazers_count": 147,
+    "stargazers_count": 148,
     "open_issues_count": 11,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "ReceiptManager/receipt-parser-legacy",
     "stargazers_count": 736,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 193
   },
   {
     "full_name": "pixelit-project/PixelIt",
-    "stargazers_count": 149,
+    "stargazers_count": 151,
     "open_issues_count": 16,
-    "forks_count": 30
+    "forks_count": 29
   },
   {
     "full_name": "spbrogan/sensor.mopeka_pro_check",
@@ -139,44 +157,26 @@
   },
   {
     "full_name": "ossf/scorecard-action",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 58,
     "forks_count": 45
   },
   {
     "full_name": "martinwoodward/octolamp",
-    "stargazers_count": 461,
+    "stargazers_count": 463,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "mchmarny/s3cme",
     "stargazers_count": 29,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "zpratt/koozie-exporter",
     "stargazers_count": 2,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 1
-  },
-  {
-    "full_name": "andyfeller/gh-dependency-report",
-    "stargazers_count": 21,
-    "open_issues_count": 4,
-    "forks_count": 4
-  },
-  {
-    "full_name": "google/comprehensive-rust",
-    "stargazers_count": 10705,
-    "open_issues_count": 63,
-    "forks_count": 492
-  },
-  {
-    "full_name": "developit/desky",
-    "stargazers_count": 18,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]

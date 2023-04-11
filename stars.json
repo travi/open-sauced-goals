@@ -3,7 +3,7 @@
     "full_name": "kejadlen/git-together",
     "stargazers_count": 146,
     "open_issues_count": 19,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "advanced-security/policy-as-code",
@@ -13,51 +13,51 @@
   },
   {
     "full_name": "snipe/snipe-it",
-    "stargazers_count": 7880,
-    "open_issues_count": 1317,
-    "forks_count": 2567
+    "stargazers_count": 7888,
+    "open_issues_count": 1318,
+    "forks_count": 2569
   },
   {
     "full_name": "basnijholt/home-assistant-streamdeck-yaml",
-    "stargazers_count": 89,
-    "open_issues_count": 21,
-    "forks_count": 6
+    "stargazers_count": 95,
+    "open_issues_count": 25,
+    "forks_count": 7
   },
   {
     "full_name": "basnijholt/home-assistant-streamdeck-yaml-addon",
     "stargazers_count": 36,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "microsoft/sbom-tool",
-    "stargazers_count": 1042,
-    "open_issues_count": 38,
-    "forks_count": 71
+    "stargazers_count": 1044,
+    "open_issues_count": 40,
+    "forks_count": 73
   },
   {
     "full_name": "dotphiles/dotphiles",
-    "stargazers_count": 746,
+    "stargazers_count": 745,
     "open_issues_count": 4,
-    "forks_count": 373
+    "forks_count": 374
   },
   {
     "full_name": "ossf/criticality_score",
-    "stargazers_count": 1197,
-    "open_issues_count": 64,
+    "stargazers_count": 1198,
+    "open_issues_count": 65,
     "forks_count": 93
   },
   {
     "full_name": "rejuvenate/lovelace-horizon-card",
-    "stargazers_count": 67,
+    "stargazers_count": 75,
     "open_issues_count": 14,
     "forks_count": 5
   },
   {
     "full_name": "edwardtfn/home-assistant-sun-card",
-    "stargazers_count": 19,
+    "stargazers_count": 21,
     "open_issues_count": 4,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "dgreif/homebridge-hatch-baby-rest",
@@ -68,7 +68,7 @@
   {
     "full_name": "gcobb321/icloud3_v3",
     "stargazers_count": 44,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 3
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "jazzyisj/unavailable-entities-sensor",
-    "stargazers_count": 73,
-    "open_issues_count": 1,
+    "stargazers_count": 74,
+    "open_issues_count": 2,
     "forks_count": 16
   },
   {
@@ -92,18 +92,18 @@
   {
     "full_name": "jfrog/terraform-provider-artifactory",
     "stargazers_count": 222,
-    "open_issues_count": 10,
+    "open_issues_count": 8,
     "forks_count": 86
   },
   {
     "full_name": "markdoc/markdoc",
-    "stargazers_count": 6200,
+    "stargazers_count": 6207,
     "open_issues_count": 10,
-    "forks_count": 125
+    "forks_count": 124
   },
   {
     "full_name": "moonrepo/moon",
-    "stargazers_count": 1794,
+    "stargazers_count": 1800,
     "open_issues_count": 14,
     "forks_count": 38
   },
@@ -121,38 +121,38 @@
   },
   {
     "full_name": "petergridge/openweathermaphistory",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "Nike-Inc/gimme-aws-creds",
-    "stargazers_count": 820,
+    "stargazers_count": 821,
     "open_issues_count": 98,
     "forks_count": 241
   },
   {
     "full_name": "natemoo-re/clack",
-    "stargazers_count": 3409,
+    "stargazers_count": 3423,
     "open_issues_count": 25,
     "forks_count": 45
   },
   {
     "full_name": "nielsfaber/scheduler-card",
     "stargazers_count": 619,
-    "open_issues_count": 16,
+    "open_issues_count": 15,
     "forks_count": 96
   },
   {
     "full_name": "nielsfaber/scheduler-component",
-    "stargazers_count": 420,
+    "stargazers_count": 419,
     "open_issues_count": 12,
     "forks_count": 34
   },
   {
     "full_name": "oss-review-toolkit/ort",
-    "stargazers_count": 1113,
-    "open_issues_count": 322,
+    "stargazers_count": 1115,
+    "open_issues_count": 321,
     "forks_count": 234
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "kalkih/mini-graph-card",
-    "stargazers_count": 2302,
-    "open_issues_count": 117,
+    "stargazers_count": 2304,
+    "open_issues_count": 118,
     "forks_count": 205
   },
   {
@@ -176,7 +176,7 @@
   {
     "full_name": "CycloneDX/cyclonedx-webpack-plugin",
     "stargazers_count": 16,
-    "open_issues_count": 9,
+    "open_issues_count": 13,
     "forks_count": 5
   }
 ]

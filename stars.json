@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "arethetypeswrong/arethetypeswrong.github.io",
+    "stargazers_count": 245,
+    "open_issues_count": 7,
+    "forks_count": 2
+  },
+  {
     "full_name": "step-security/harden-runner",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 20,
     "forks_count": 15
   },
@@ -13,50 +19,50 @@
   },
   {
     "full_name": "guacsec/guac",
-    "stargazers_count": 823,
-    "open_issues_count": 88,
-    "forks_count": 85
+    "stargazers_count": 828,
+    "open_issues_count": 67,
+    "forks_count": 86
   },
   {
     "full_name": "cncf/gitdm",
-    "stargazers_count": 7,
+    "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 52
+    "forks_count": 51
   },
   {
     "full_name": "slsa-framework/slsa-verifier",
     "stargazers_count": 105,
-    "open_issues_count": 98,
+    "open_issues_count": 103,
     "forks_count": 32
   },
   {
     "full_name": "erikw/vim-keybindings-everywhere-the-ultimate-list",
-    "stargazers_count": 774,
-    "open_issues_count": 1,
+    "stargazers_count": 782,
+    "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 1644,
+    "stargazers_count": 1647,
     "open_issues_count": 63,
     "forks_count": 108
   },
   {
     "full_name": "simbaja/ha_gehome",
     "stargazers_count": 146,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 33
   },
   {
     "full_name": "todogroup/ospo-career-path",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 13,
     "forks_count": 49
   },
   {
     "full_name": "mermaid-js/mermaid-live-editor",
-    "stargazers_count": 2421,
-    "open_issues_count": 40,
+    "stargazers_count": 2433,
+    "open_issues_count": 35,
     "forks_count": 342
   },
   {
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "github/github-ospo",
-    "stargazers_count": 499,
+    "stargazers_count": 500,
     "open_issues_count": 0,
     "forks_count": 35
   },
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "re-actors/alls-green",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 6
   },
@@ -103,14 +109,14 @@
   },
   {
     "full_name": "snipe/snipe-it",
-    "stargazers_count": 8024,
-    "open_issues_count": 1324,
-    "forks_count": 2603
+    "stargazers_count": 8029,
+    "open_issues_count": 1332,
+    "forks_count": 2609
   },
   {
     "full_name": "basnijholt/home-assistant-streamdeck-yaml",
-    "stargazers_count": 106,
-    "open_issues_count": 38,
+    "stargazers_count": 107,
+    "open_issues_count": 39,
     "forks_count": 7
   },
   {
@@ -121,25 +127,25 @@
   },
   {
     "full_name": "microsoft/sbom-tool",
-    "stargazers_count": 1084,
-    "open_issues_count": 33,
+    "stargazers_count": 1088,
+    "open_issues_count": 31,
     "forks_count": 80
   },
   {
     "full_name": "dotphiles/dotphiles",
-    "stargazers_count": 752,
+    "stargazers_count": 753,
     "open_issues_count": 4,
     "forks_count": 379
   },
   {
     "full_name": "ossf/criticality_score",
-    "stargazers_count": 1208,
-    "open_issues_count": 63,
+    "stargazers_count": 1210,
+    "open_issues_count": 62,
     "forks_count": 95
   },
   {
     "full_name": "rejuvenate/lovelace-horizon-card",
-    "stargazers_count": 112,
+    "stargazers_count": 114,
     "open_issues_count": 14,
     "forks_count": 8
   },
@@ -152,13 +158,13 @@
   {
     "full_name": "dgreif/homebridge-hatch-baby-rest",
     "stargazers_count": 55,
-    "open_issues_count": 4,
-    "forks_count": 13
+    "open_issues_count": 5,
+    "forks_count": 14
   },
   {
     "full_name": "gcobb321/icloud3_v3",
-    "stargazers_count": 64,
-    "open_issues_count": 14,
+    "stargazers_count": 65,
+    "open_issues_count": 15,
     "forks_count": 4
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 78,
     "open_issues_count": 2,
     "forks_count": 16
-  },
-  {
-    "full_name": "github/scientist",
-    "stargazers_count": 6969,
-    "open_issues_count": 14,
-    "forks_count": 504
   }
 ]

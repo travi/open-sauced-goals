@@ -1,14 +1,26 @@
 [
   {
+    "full_name": "Madelena/esphome-weatherman-dashboard",
+    "stargazers_count": 524,
+    "open_issues_count": 1,
+    "forks_count": 23
+  },
+  {
+    "full_name": "pinkywafer/Calendarific",
+    "stargazers_count": 14,
+    "open_issues_count": 5,
+    "forks_count": 8
+  },
+  {
     "full_name": "GitHubSecurityLab/actions-permissions",
-    "stargazers_count": 127,
-    "open_issues_count": 6,
-    "forks_count": 9
+    "stargazers_count": 144,
+    "open_issues_count": 7,
+    "forks_count": 10
   },
   {
     "full_name": "p-m-p/cz-conventional-changelog-coauthors",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -25,13 +37,13 @@
   },
   {
     "full_name": "hapijs/hapi",
-    "stargazers_count": 14304,
+    "stargazers_count": 14301,
     "open_issues_count": 50,
     "forks_count": 1380
   },
   {
     "full_name": "LavaMoat/LavaMoat",
-    "stargazers_count": 673,
+    "stargazers_count": 674,
     "open_issues_count": 72,
     "forks_count": 56
   },
@@ -61,39 +73,39 @@
   },
   {
     "full_name": "antfu/refined-github-notifications",
-    "stargazers_count": 152,
+    "stargazers_count": 153,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "arethetypeswrong/arethetypeswrong.github.io",
-    "stargazers_count": 455,
+    "stargazers_count": 464,
     "open_issues_count": 10,
     "forks_count": 9
   },
   {
     "full_name": "step-security/harden-runner",
-    "stargazers_count": 290,
-    "open_issues_count": 19,
-    "forks_count": 17
+    "stargazers_count": 292,
+    "open_issues_count": 21,
+    "forks_count": 18
   },
   {
     "full_name": "YorkshireIoT/ha-google-fit",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "guacsec/guac",
-    "stargazers_count": 940,
-    "open_issues_count": 92,
-    "forks_count": 106
+    "stargazers_count": 946,
+    "open_issues_count": 86,
+    "forks_count": 107
   },
   {
     "full_name": "cncf/gitdm",
-    "stargazers_count": 11,
-    "open_issues_count": 0,
-    "forks_count": 82
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 86
   },
   {
     "full_name": "slsa-framework/slsa-verifier",
@@ -103,21 +115,21 @@
   },
   {
     "full_name": "erikw/vim-keybindings-everywhere-the-ultimate-list",
-    "stargazers_count": 847,
+    "stargazers_count": 849,
     "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 1742,
+    "stargazers_count": 1746,
     "open_issues_count": 53,
     "forks_count": 115
   },
   {
     "full_name": "simbaja/ha_gehome",
-    "stargazers_count": 159,
+    "stargazers_count": 162,
     "open_issues_count": 34,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "todogroup/ospo-career-path",
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "mermaid-js/mermaid-live-editor",
-    "stargazers_count": 2637,
-    "open_issues_count": 32,
-    "forks_count": 367
+    "stargazers_count": 2649,
+    "open_issues_count": 34,
+    "forks_count": 369
   },
   {
     "full_name": "chuckcharlie/cups-avahi-airprint",
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "AalianKhan/mushroom-strategy",
-    "stargazers_count": 72,
+    "stargazers_count": 75,
     "open_issues_count": 11,
     "forks_count": 8
   },
@@ -157,7 +169,7 @@
   },
   {
     "full_name": "re-actors/alls-green",
-    "stargazers_count": 51,
+    "stargazers_count": 53,
     "open_issues_count": 2,
     "forks_count": 6
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 152,
     "open_issues_count": 19,
     "forks_count": 19
-  },
-  {
-    "full_name": "advanced-security/policy-as-code",
-    "stargazers_count": 25,
-    "open_issues_count": 4,
-    "forks_count": 5
-  },
-  {
-    "full_name": "snipe/snipe-it",
-    "stargazers_count": 8181,
-    "open_issues_count": 1377,
-    "forks_count": 2658
   }
 ]

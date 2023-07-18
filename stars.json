@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "bradfitz/issue-tracker-behaviors",
+    "stargazers_count": 465,
+    "open_issues_count": 8,
+    "forks_count": 12
+  },
+  {
+    "full_name": "libdyson-wg/ha-dyson",
+    "stargazers_count": 67,
+    "open_issues_count": 9,
+    "forks_count": 8
+  },
+  {
+    "full_name": "usernein/tv-card",
+    "stargazers_count": 67,
+    "open_issues_count": 22,
+    "forks_count": 18
+  },
+  {
     "full_name": "Anrolosia/Shopping-List-with-Grocy",
     "stargazers_count": 19,
     "open_issues_count": 0,
@@ -8,7 +26,7 @@
   {
     "full_name": "Madelena/esphome-weatherman-dashboard",
     "stargazers_count": 537,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 23
   },
   {
@@ -19,14 +37,14 @@
   },
   {
     "full_name": "GitHubSecurityLab/actions-permissions",
-    "stargazers_count": 159,
+    "stargazers_count": 161,
     "open_issues_count": 10,
-    "forks_count": 11
+    "forks_count": 13
   },
   {
     "full_name": "p-m-p/cz-conventional-changelog-coauthors",
     "stargazers_count": 3,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -43,19 +61,19 @@
   },
   {
     "full_name": "hapijs/hapi",
-    "stargazers_count": 14307,
+    "stargazers_count": 14311,
     "open_issues_count": 50,
     "forks_count": 1381
   },
   {
     "full_name": "LavaMoat/LavaMoat",
-    "stargazers_count": 680,
-    "open_issues_count": 74,
+    "stargazers_count": 683,
+    "open_issues_count": 76,
     "forks_count": 58
   },
   {
     "full_name": "github/stale-repos",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 4,
     "forks_count": 14
   },
@@ -79,15 +97,15 @@
   },
   {
     "full_name": "antfu/refined-github-notifications",
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "arethetypeswrong/arethetypeswrong.github.io",
-    "stargazers_count": 483,
-    "open_issues_count": 6,
-    "forks_count": 10
+    "stargazers_count": 491,
+    "open_issues_count": 7,
+    "forks_count": 11
   },
   {
     "full_name": "step-security/harden-runner",
@@ -97,21 +115,21 @@
   },
   {
     "full_name": "YorkshireIoT/ha-google-fit",
-    "stargazers_count": 17,
-    "open_issues_count": 5,
-    "forks_count": 1
+    "stargazers_count": 18,
+    "open_issues_count": 8,
+    "forks_count": 2
   },
   {
     "full_name": "guacsec/guac",
     "stargazers_count": 962,
-    "open_issues_count": 90,
+    "open_issues_count": 89,
     "forks_count": 108
   },
   {
     "full_name": "cncf/gitdm",
     "stargazers_count": 14,
-    "open_issues_count": 5,
-    "forks_count": 95
+    "open_issues_count": 0,
+    "forks_count": 97
   },
   {
     "full_name": "slsa-framework/slsa-verifier",
@@ -121,19 +139,19 @@
   },
   {
     "full_name": "erikw/vim-keybindings-everywhere-the-ultimate-list",
-    "stargazers_count": 856,
+    "stargazers_count": 858,
     "open_issues_count": 0,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 1758,
-    "open_issues_count": 50,
+    "stargazers_count": 1759,
+    "open_issues_count": 48,
     "forks_count": 115
   },
   {
     "full_name": "simbaja/ha_gehome",
-    "stargazers_count": 166,
+    "stargazers_count": 167,
     "open_issues_count": 37,
     "forks_count": 38
   },
@@ -145,9 +163,9 @@
   },
   {
     "full_name": "mermaid-js/mermaid-live-editor",
-    "stargazers_count": 2664,
-    "open_issues_count": 31,
-    "forks_count": 372
+    "stargazers_count": 2672,
+    "open_issues_count": 33,
+    "forks_count": 374
   },
   {
     "full_name": "chuckcharlie/cups-avahi-airprint",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "github/github-ospo",
-    "stargazers_count": 531,
-    "open_issues_count": 2,
+    "stargazers_count": 532,
+    "open_issues_count": 1,
     "forks_count": 44
-  },
-  {
-    "full_name": "AalianKhan/mushroom-strategy",
-    "stargazers_count": 77,
-    "open_issues_count": 11,
-    "forks_count": 9
-  },
-  {
-    "full_name": "Exlint/cz-vinyl",
-    "stargazers_count": 10,
-    "open_issues_count": 7,
-    "forks_count": 1
-  },
-  {
-    "full_name": "re-actors/alls-green",
-    "stargazers_count": 53,
-    "open_issues_count": 2,
-    "forks_count": 6
   }
 ]

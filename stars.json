@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bradfitz/issue-tracker-behaviors",
-    "stargazers_count": 465,
+    "stargazers_count": 527,
     "open_issues_count": 8,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "libdyson-wg/ha-dyson",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "Anrolosia/Shopping-List-with-Grocy",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Madelena/esphome-weatherman-dashboard",
-    "stargazers_count": 537,
+    "stargazers_count": 544,
     "open_issues_count": 2,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "pinkywafer/Calendarific",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "GitHubSecurityLab/actions-permissions",
-    "stargazers_count": 161,
+    "stargazers_count": 162,
     "open_issues_count": 10,
     "forks_count": 13
   },
   {
     "full_name": "p-m-p/cz-conventional-changelog-coauthors",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "hapijs/hapi",
-    "stargazers_count": 14311,
+    "stargazers_count": 14315,
     "open_issues_count": 50,
     "forks_count": 1381
   },
   {
     "full_name": "LavaMoat/LavaMoat",
-    "stargazers_count": 683,
-    "open_issues_count": 76,
+    "stargazers_count": 684,
+    "open_issues_count": 79,
     "forks_count": 58
   },
   {
     "full_name": "github/stale-repos",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 4,
     "forks_count": 14
   },
@@ -103,26 +103,26 @@
   },
   {
     "full_name": "arethetypeswrong/arethetypeswrong.github.io",
-    "stargazers_count": 491,
+    "stargazers_count": 498,
     "open_issues_count": 7,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "step-security/harden-runner",
-    "stargazers_count": 293,
+    "stargazers_count": 296,
     "open_issues_count": 24,
     "forks_count": 18
   },
   {
     "full_name": "YorkshireIoT/ha-google-fit",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 8,
     "forks_count": 2
   },
   {
     "full_name": "guacsec/guac",
-    "stargazers_count": 962,
-    "open_issues_count": 89,
+    "stargazers_count": 964,
+    "open_issues_count": 91,
     "forks_count": 108
   },
   {
@@ -134,26 +134,26 @@
   {
     "full_name": "slsa-framework/slsa-verifier",
     "stargazers_count": 125,
-    "open_issues_count": 112,
+    "open_issues_count": 114,
     "forks_count": 34
   },
   {
     "full_name": "erikw/vim-keybindings-everywhere-the-ultimate-list",
-    "stargazers_count": 858,
+    "stargazers_count": 861,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 1759,
-    "open_issues_count": 48,
-    "forks_count": 115
+    "stargazers_count": 1762,
+    "open_issues_count": 46,
+    "forks_count": 114
   },
   {
     "full_name": "simbaja/ha_gehome",
     "stargazers_count": 167,
     "open_issues_count": 37,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "todogroup/ospo-career-path",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "mermaid-js/mermaid-live-editor",
-    "stargazers_count": 2672,
-    "open_issues_count": 33,
+    "stargazers_count": 2686,
+    "open_issues_count": 31,
     "forks_count": 374
   },
   {
@@ -176,7 +176,7 @@
   {
     "full_name": "github/github-ospo",
     "stargazers_count": 532,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 44
   }
 ]

@@ -1,50 +1,50 @@
 [
   {
     "full_name": "bcomnes/npm-run-all2",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "wilsto/pool-monitor-card",
-    "stargazers_count": 15,
-    "open_issues_count": 12,
+    "stargazers_count": 17,
+    "open_issues_count": 14,
     "forks_count": 1
   },
   {
     "full_name": "GrumpyMeow/sonicare-ble-hacs",
     "stargazers_count": 22,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 3
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 823,
-    "open_issues_count": 17,
+    "stargazers_count": 824,
+    "open_issues_count": 18,
     "forks_count": 48
   },
   {
     "full_name": "bradfitz/issue-tracker-behaviors",
-    "stargazers_count": 568,
+    "stargazers_count": 575,
     "open_issues_count": 7,
     "forks_count": 13
   },
   {
     "full_name": "libdyson-wg/ha-dyson",
-    "stargazers_count": 73,
+    "stargazers_count": 78,
     "open_issues_count": 8,
     "forks_count": 8
   },
   {
     "full_name": "usernein/tv-card",
-    "stargazers_count": 68,
+    "stargazers_count": 70,
     "open_issues_count": 22,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "Anrolosia/Shopping-List-with-Grocy",
-    "stargazers_count": 21,
-    "open_issues_count": 1,
+    "stargazers_count": 22,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "GitHubSecurityLab/actions-permissions",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 10,
     "forks_count": 15
   },
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "hapijs/hapi",
-    "stargazers_count": 14324,
-    "open_issues_count": 52,
-    "forks_count": 1382
+    "stargazers_count": 14328,
+    "open_issues_count": 53,
+    "forks_count": 1380
   },
   {
     "full_name": "LavaMoat/LavaMoat",
-    "stargazers_count": 688,
-    "open_issues_count": 88,
+    "stargazers_count": 689,
+    "open_issues_count": 89,
     "forks_count": 58
   },
   {
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "arethetypeswrong/arethetypeswrong.github.io",
-    "stargazers_count": 526,
+    "stargazers_count": 534,
     "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "step-security/harden-runner",
-    "stargazers_count": 300,
-    "open_issues_count": 25,
+    "stargazers_count": 302,
+    "open_issues_count": 26,
     "forks_count": 19
   },
   {
     "full_name": "YorkshireIoT/ha-google-fit",
-    "stargazers_count": 19,
-    "open_issues_count": 5,
+    "stargazers_count": 20,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "guacsec/guac",
-    "stargazers_count": 986,
-    "open_issues_count": 92,
-    "forks_count": 111
+    "stargazers_count": 988,
+    "open_issues_count": 99,
+    "forks_count": 113
   },
   {
     "full_name": "cncf/gitdm",
     "stargazers_count": 13,
-    "open_issues_count": 5,
-    "forks_count": 117
+    "open_issues_count": 1,
+    "forks_count": 118
   },
   {
     "full_name": "slsa-framework/slsa-verifier",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 120,
     "forks_count": 35
   },
   {
     "full_name": "erikw/vim-keybindings-everywhere-the-ultimate-list",
-    "stargazers_count": 868,
+    "stargazers_count": 874,
     "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "rhysd/actionlint",
-    "stargazers_count": 1783,
-    "open_issues_count": 49,
-    "forks_count": 116
+    "stargazers_count": 1791,
+    "open_issues_count": 48,
+    "forks_count": 117
   },
   {
     "full_name": "simbaja/ha_gehome",
-    "stargazers_count": 170,
-    "open_issues_count": 28,
-    "forks_count": 39
+    "stargazers_count": 172,
+    "open_issues_count": 29,
+    "forks_count": 40
   }
 ]

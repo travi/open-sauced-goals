@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "Rich-Harris/dts-buddy",
+    "stargazers_count": 192,
+    "open_issues_count": 4,
+    "forks_count": 9
+  },
+  {
     "full_name": "langestefan/auto-sun-blind",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "PricelessToolkit/MailBoxGuard",
-    "stargazers_count": 80,
+    "stargazers_count": 85,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Daniel-dev22/esphome-econet",
     "stargazers_count": 5,
-    "open_issues_count": 3,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "marchaos/jest-mock-extended",
-    "stargazers_count": 713,
+    "stargazers_count": 714,
     "open_issues_count": 31,
     "forks_count": 47
   },
   {
     "full_name": "jest-community/jest-extended",
-    "stargazers_count": 2232,
+    "stargazers_count": 2233,
     "open_issues_count": 116,
     "forks_count": 222
   },
@@ -50,7 +56,7 @@
   {
     "full_name": "wilsto/pool-monitor-card",
     "stargazers_count": 22,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 3
   },
   {
@@ -61,13 +67,13 @@
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 827,
+    "stargazers_count": 831,
     "open_issues_count": 19,
     "forks_count": 50
   },
   {
     "full_name": "bradfitz/issue-tracker-behaviors",
-    "stargazers_count": 594,
+    "stargazers_count": 597,
     "open_issues_count": 10,
     "forks_count": 15
   },
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "Anrolosia/Shopping-List-with-Grocy",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Madelena/esphome-weatherman-dashboard",
-    "stargazers_count": 576,
+    "stargazers_count": 580,
     "open_issues_count": 2,
     "forks_count": 26
   },
@@ -110,7 +116,7 @@
   {
     "full_name": "p-m-p/cz-conventional-changelog-coauthors",
     "stargazers_count": 3,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -133,8 +139,8 @@
   },
   {
     "full_name": "LavaMoat/LavaMoat",
-    "stargazers_count": 694,
-    "open_issues_count": 110,
+    "stargazers_count": 695,
+    "open_issues_count": 107,
     "forks_count": 59
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "antfu/refined-github-notifications",
-    "stargazers_count": 160,
+    "stargazers_count": 159,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "arethetypeswrong/arethetypeswrong.github.io",
-    "stargazers_count": 592,
-    "open_issues_count": 10,
+    "stargazers_count": 594,
+    "open_issues_count": 11,
     "forks_count": 14
-  },
-  {
-    "full_name": "step-security/harden-runner",
-    "stargazers_count": 313,
-    "open_issues_count": 26,
-    "forks_count": 20
   }
 ]

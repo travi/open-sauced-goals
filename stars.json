@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "usebruno/bruno",
+    "stargazers_count": 4903,
+    "open_issues_count": 202,
+    "forks_count": 150
+  },
+  {
+    "full_name": "AdrianCX/hexlight",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "aszopko/somfy-esp8266",
     "stargazers_count": 27,
     "open_issues_count": 2,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "aderusha/HASwitchPlate",
-    "stargazers_count": 714,
+    "stargazers_count": 713,
     "open_issues_count": 1,
     "forks_count": 128
   },
@@ -19,25 +31,25 @@
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 54,
-    "open_issues_count": 8,
+    "stargazers_count": 56,
+    "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 154,
-    "open_issues_count": 22,
+    "stargazers_count": 157,
+    "open_issues_count": 21,
     "forks_count": 14
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 11971,
+    "stargazers_count": 11979,
     "open_issues_count": 23,
     "forks_count": 895
   },
   {
     "full_name": "joshr120/open-deck",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -56,7 +68,7 @@
   {
     "full_name": "Rich-Harris/dts-buddy",
     "stargazers_count": 247,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 10
   },
   {
@@ -91,27 +103,27 @@
   },
   {
     "full_name": "marchaos/jest-mock-extended",
-    "stargazers_count": 728,
-    "open_issues_count": 31,
-    "forks_count": 48
+    "stargazers_count": 729,
+    "open_issues_count": 32,
+    "forks_count": 49
   },
   {
     "full_name": "jest-community/jest-extended",
-    "stargazers_count": 2249,
-    "open_issues_count": 118,
-    "forks_count": 226
+    "stargazers_count": 2250,
+    "open_issues_count": 115,
+    "forks_count": 227
   },
   {
     "full_name": "bcomnes/npm-run-all2",
-    "stargazers_count": 61,
+    "stargazers_count": 63,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "wilsto/pool-monitor-card",
     "stargazers_count": 27,
-    "open_issues_count": 21,
-    "forks_count": 5
+    "open_issues_count": 22,
+    "forks_count": 6
   },
   {
     "full_name": "GrumpyMeow/sonicare-ble-hacs",
@@ -121,13 +133,13 @@
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 839,
-    "open_issues_count": 19,
+    "stargazers_count": 841,
+    "open_issues_count": 20,
     "forks_count": 50
   },
   {
     "full_name": "bradfitz/issue-tracker-behaviors",
-    "stargazers_count": 608,
+    "stargazers_count": 612,
     "open_issues_count": 10,
     "forks_count": 16
   },
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "Madelena/esphome-weatherman-dashboard",
-    "stargazers_count": 602,
+    "stargazers_count": 604,
     "open_issues_count": 2,
     "forks_count": 28
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "GitHubSecurityLab/actions-permissions",
-    "stargazers_count": 182,
-    "open_issues_count": 12,
+    "stargazers_count": 184,
+    "open_issues_count": 13,
     "forks_count": 17
-  },
-  {
-    "full_name": "p-m-p/cz-conventional-changelog-coauthors",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pkgjs/nv",
-    "stargazers_count": 18,
-    "open_issues_count": 8,
-    "forks_count": 5
   }
 ]

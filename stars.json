@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "opencontainers/image-spec",
+    "stargazers_count": 2978,
+    "open_issues_count": 89,
+    "forks_count": 650
+  },
+  {
+    "full_name": "docker/metadata-action",
+    "stargazers_count": 701,
+    "open_issues_count": 23,
+    "forks_count": 98
+  },
+  {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 5791,
-    "open_issues_count": 222,
-    "forks_count": 180
+    "stargazers_count": 6311,
+    "open_issues_count": 255,
+    "forks_count": 213
   },
   {
     "full_name": "AdrianCX/hexlight",
-    "stargazers_count": 11,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -26,26 +38,26 @@
   {
     "full_name": "ecosyste-ms/packages",
     "stargazers_count": 14,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 1
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 8,
     "forks_count": 6
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 169,
-    "open_issues_count": 26,
+    "stargazers_count": 174,
+    "open_issues_count": 33,
     "forks_count": 14
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 11999,
+    "stargazers_count": 12020,
     "open_issues_count": 24,
-    "forks_count": 896
+    "forks_count": 897
   },
   {
     "full_name": "joshr120/open-deck",
@@ -67,8 +79,8 @@
   },
   {
     "full_name": "Rich-Harris/dts-buddy",
-    "stargazers_count": 247,
-    "open_issues_count": 9,
+    "stargazers_count": 248,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
@@ -80,8 +92,8 @@
   {
     "full_name": "PricelessToolkit/MailBoxGuard",
     "stargazers_count": 108,
-    "open_issues_count": 1,
-    "forks_count": 12
+    "open_issues_count": 2,
+    "forks_count": 13
   },
   {
     "full_name": "Daniel-dev22/esphome-econet",
@@ -91,14 +103,14 @@
   },
   {
     "full_name": "chainguard-dev/bomshell",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "CycloneDX/cyclonedx-node-npm",
     "stargazers_count": 45,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 14
   },
   {
@@ -109,33 +121,33 @@
   },
   {
     "full_name": "jest-community/jest-extended",
-    "stargazers_count": 2252,
-    "open_issues_count": 115,
+    "stargazers_count": 2253,
+    "open_issues_count": 116,
     "forks_count": 227
   },
   {
     "full_name": "bcomnes/npm-run-all2",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "wilsto/pool-monitor-card",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 22,
     "forks_count": 6
   },
   {
     "full_name": "GrumpyMeow/sonicare-ble-hacs",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 9,
     "forks_count": 3
   },
   {
     "full_name": "sigstore/gitsign",
     "stargazers_count": 841,
-    "open_issues_count": 20,
-    "forks_count": 51
+    "open_issues_count": 19,
+    "forks_count": 52
   },
   {
     "full_name": "bradfitz/issue-tracker-behaviors",
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "libdyson-wg/ha-dyson",
-    "stargazers_count": 107,
+    "stargazers_count": 109,
     "open_issues_count": 10,
     "forks_count": 11
   },
@@ -158,25 +170,13 @@
   {
     "full_name": "Anrolosia/Shopping-List-with-Grocy",
     "stargazers_count": 28,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "Madelena/esphome-weatherman-dashboard",
-    "stargazers_count": 606,
+    "stargazers_count": 608,
     "open_issues_count": 2,
-    "forks_count": 28
-  },
-  {
-    "full_name": "pinkywafer/Calendarific",
-    "stargazers_count": 15,
-    "open_issues_count": 7,
-    "forks_count": 7
-  },
-  {
-    "full_name": "GitHubSecurityLab/actions-permissions",
-    "stargazers_count": 185,
-    "open_issues_count": 12,
-    "forks_count": 17
+    "forks_count": 29
   }
 ]

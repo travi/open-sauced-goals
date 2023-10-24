@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "grocy/grocy-pyscanner",
+    "stargazers_count": 39,
+    "open_issues_count": 4,
+    "forks_count": 9
+  },
+  {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 2981,
+    "stargazers_count": 2980,
     "open_issues_count": 91,
-    "forks_count": 650
+    "forks_count": 652
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 704,
+    "stargazers_count": 703,
     "open_issues_count": 24,
     "forks_count": 98
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 6628,
-    "open_issues_count": 284,
-    "forks_count": 235
+    "stargazers_count": 6815,
+    "open_issues_count": 302,
+    "forks_count": 262
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -31,33 +37,33 @@
   },
   {
     "full_name": "aderusha/HASwitchPlate",
-    "stargazers_count": 713,
+    "stargazers_count": 714,
     "open_issues_count": 1,
-    "forks_count": 128
+    "forks_count": 127
   },
   {
     "full_name": "ecosyste-ms/packages",
     "stargazers_count": 15,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 1
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 66,
-    "open_issues_count": 10,
-    "forks_count": 6
+    "stargazers_count": 77,
+    "open_issues_count": 12,
+    "forks_count": 8
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 190,
-    "open_issues_count": 35,
-    "forks_count": 14
+    "stargazers_count": 231,
+    "open_issues_count": 41,
+    "forks_count": 15
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 12036,
-    "open_issues_count": 15,
-    "forks_count": 897
+    "stargazers_count": 12057,
+    "open_issues_count": 13,
+    "forks_count": 898
   },
   {
     "full_name": "joshr120/open-deck",
@@ -74,7 +80,7 @@
   {
     "full_name": "hwstar/8-zone-sensor-panel",
     "stargazers_count": 6,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -109,25 +115,25 @@
   },
   {
     "full_name": "CycloneDX/cyclonedx-node-npm",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 12,
     "forks_count": 14
   },
   {
     "full_name": "marchaos/jest-mock-extended",
-    "stargazers_count": 732,
+    "stargazers_count": 733,
     "open_issues_count": 33,
     "forks_count": 49
   },
   {
     "full_name": "jest-community/jest-extended",
-    "stargazers_count": 2254,
+    "stargazers_count": 2255,
     "open_issues_count": 119,
     "forks_count": 227
   },
   {
     "full_name": "bcomnes/npm-run-all2",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 4,
     "forks_count": 4
   },
@@ -145,13 +151,13 @@
   },
   {
     "full_name": "sigstore/gitsign",
-    "stargazers_count": 841,
+    "stargazers_count": 842,
     "open_issues_count": 19,
     "forks_count": 52
   },
   {
     "full_name": "bradfitz/issue-tracker-behaviors",
-    "stargazers_count": 616,
+    "stargazers_count": 618,
     "open_issues_count": 10,
     "forks_count": 16
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "usernein/tv-card",
-    "stargazers_count": 74,
+    "stargazers_count": 76,
     "open_issues_count": 22,
     "forks_count": 18
   },
   {
     "full_name": "Anrolosia/Shopping-List-with-Grocy",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "Madelena/esphome-weatherman-dashboard",
-    "stargazers_count": 610,
-    "open_issues_count": 4,
-    "forks_count": 29
   }
 ]

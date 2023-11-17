@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "CrowdStrike/falcon-operator",
+    "stargazers_count": 33,
+    "open_issues_count": 11,
+    "forks_count": 24
+  },
+  {
     "full_name": "robdobsn/ScaderESP32",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -8,13 +14,13 @@
   {
     "full_name": "sheerlox/import-from-esm",
     "stargazers_count": 2,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "amanda-mitchell/semantic-release-npm-multiple",
     "stargazers_count": 13,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
@@ -31,21 +37,21 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3003,
-    "open_issues_count": 89,
-    "forks_count": 657
+    "stargazers_count": 3006,
+    "open_issues_count": 86,
+    "forks_count": 658
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 715,
-    "open_issues_count": 22,
-    "forks_count": 98
+    "stargazers_count": 716,
+    "open_issues_count": 23,
+    "forks_count": 99
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 8084,
-    "open_issues_count": 403,
-    "forks_count": 322
+    "stargazers_count": 8188,
+    "open_issues_count": 424,
+    "forks_count": 330
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -68,30 +74,30 @@
   {
     "full_name": "ecosyste-ms/packages",
     "stargazers_count": 15,
-    "open_issues_count": 24,
+    "open_issues_count": 20,
     "forks_count": 1
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 136,
-    "open_issues_count": 22,
+    "stargazers_count": 139,
+    "open_issues_count": 26,
     "forks_count": 22
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 485,
-    "open_issues_count": 64,
+    "stargazers_count": 503,
+    "open_issues_count": 61,
     "forks_count": 32
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 12132,
+    "stargazers_count": 12142,
     "open_issues_count": 18,
     "forks_count": 904
   },
   {
     "full_name": "joshr120/open-deck",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -134,7 +140,7 @@
   {
     "full_name": "chainguard-dev/bomshell",
     "stargazers_count": 49,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "marchaos/jest-mock-extended",
-    "stargazers_count": 740,
+    "stargazers_count": 742,
     "open_issues_count": 34,
     "forks_count": 50
   },
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "bcomnes/npm-run-all2",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 4,
     "forks_count": 4
   },
@@ -165,18 +171,12 @@
     "full_name": "wilsto/pool-monitor-card",
     "stargazers_count": 29,
     "open_issues_count": 22,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "GrumpyMeow/sonicare-ble-hacs",
     "stargazers_count": 26,
     "open_issues_count": 9,
     "forks_count": 4
-  },
-  {
-    "full_name": "sigstore/gitsign",
-    "stargazers_count": 848,
-    "open_issues_count": 19,
-    "forks_count": 52
   }
 ]

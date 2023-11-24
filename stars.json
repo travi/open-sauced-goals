@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "esphome-econet/esphome-econet",
+    "stargazers_count": 30,
+    "open_issues_count": 5,
+    "forks_count": 13
+  },
+  {
+    "full_name": "talent-ideal/semantic-release-hex",
+    "stargazers_count": 5,
+    "open_issues_count": 5,
+    "forks_count": 0
+  },
+  {
     "full_name": "CrowdStrike/falcon-operator",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 11,
     "forks_count": 24
   },
@@ -14,7 +26,7 @@
   {
     "full_name": "sheerlox/import-from-esm",
     "stargazers_count": 2,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -37,21 +49,21 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3008,
+    "stargazers_count": 3011,
     "open_issues_count": 86,
     "forks_count": 658
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 721,
+    "stargazers_count": 725,
     "open_issues_count": 22,
     "forks_count": 99
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 8330,
-    "open_issues_count": 421,
-    "forks_count": 334
+    "stargazers_count": 8477,
+    "open_issues_count": 444,
+    "forks_count": 339
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -73,33 +85,33 @@
   },
   {
     "full_name": "ecosyste-ms/packages",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 20,
     "forks_count": 1
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 151,
-    "open_issues_count": 27,
-    "forks_count": 25
+    "stargazers_count": 155,
+    "open_issues_count": 30,
+    "forks_count": 27
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 526,
+    "stargazers_count": 536,
     "open_issues_count": 59,
     "forks_count": 34
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 12152,
+    "stargazers_count": 12170,
     "open_issues_count": 18,
-    "forks_count": 904
+    "forks_count": 905
   },
   {
     "full_name": "joshr120/open-deck",
     "stargazers_count": 104,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "pnbruckner/ha-composite-tracker",
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "Rich-Harris/dts-buddy",
-    "stargazers_count": 254,
+    "stargazers_count": 255,
     "open_issues_count": 8,
     "forks_count": 11
   },
@@ -157,7 +169,7 @@
   },
   {
     "full_name": "jest-community/jest-extended",
-    "stargazers_count": 2262,
+    "stargazers_count": 2263,
     "open_issues_count": 121,
     "forks_count": 227
   },
@@ -165,18 +177,6 @@
     "full_name": "bcomnes/npm-run-all2",
     "stargazers_count": 75,
     "open_issues_count": 4,
-    "forks_count": 4
-  },
-  {
-    "full_name": "wilsto/pool-monitor-card",
-    "stargazers_count": 30,
-    "open_issues_count": 22,
-    "forks_count": 5
-  },
-  {
-    "full_name": "GrumpyMeow/sonicare-ble-hacs",
-    "stargazers_count": 27,
-    "open_issues_count": 9,
     "forks_count": 4
   }
 ]

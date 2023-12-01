@@ -1,9 +1,9 @@
 [
   {
     "full_name": "esphome-econet/esphome-econet",
-    "stargazers_count": 31,
-    "open_issues_count": 9,
-    "forks_count": 14
+    "stargazers_count": 32,
+    "open_issues_count": 17,
+    "forks_count": 15
   },
   {
     "full_name": "talent-ideal/semantic-release-hex",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3015,
+    "stargazers_count": 3018,
     "open_issues_count": 86,
-    "forks_count": 658
+    "forks_count": 657
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 726,
-    "open_issues_count": 21,
-    "forks_count": 99
+    "stargazers_count": 730,
+    "open_issues_count": 13,
+    "forks_count": 100
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 8720,
-    "open_issues_count": 461,
-    "forks_count": 345
+    "stargazers_count": 8881,
+    "open_issues_count": 470,
+    "forks_count": 350
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -85,31 +85,31 @@
   },
   {
     "full_name": "ecosyste-ms/packages",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 20,
     "forks_count": 1
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 159,
+    "stargazers_count": 161,
     "open_issues_count": 31,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 557,
+    "stargazers_count": 569,
     "open_issues_count": 60,
     "forks_count": 35
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 12179,
+    "stargazers_count": 12190,
     "open_issues_count": 18,
-    "forks_count": 905
+    "forks_count": 907
   },
   {
     "full_name": "joshr120/open-deck",
-    "stargazers_count": 106,
+    "stargazers_count": 108,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "PricelessToolkit/MailBoxGuard",
-    "stargazers_count": 111,
-    "open_issues_count": 1,
+    "stargazers_count": 112,
+    "open_issues_count": 2,
     "forks_count": 13
   },
   {
@@ -151,14 +151,14 @@
   },
   {
     "full_name": "chainguard-dev/bomshell",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "CycloneDX/cyclonedx-node-npm",
-    "stargazers_count": 53,
-    "open_issues_count": 13,
+    "stargazers_count": 54,
+    "open_issues_count": 14,
     "forks_count": 14
   },
   {
@@ -176,7 +176,7 @@
   {
     "full_name": "bcomnes/npm-run-all2",
     "stargazers_count": 75,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 4
   }
 ]

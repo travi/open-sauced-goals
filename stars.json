@@ -2,13 +2,13 @@
   {
     "full_name": "esphome-econet/esphome-econet",
     "stargazers_count": 33,
-    "open_issues_count": 17,
+    "open_issues_count": 20,
     "forks_count": 16
   },
   {
     "full_name": "talent-ideal/semantic-release-hex",
     "stargazers_count": 5,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
@@ -26,7 +26,7 @@
   {
     "full_name": "sheerlox/import-from-esm",
     "stargazers_count": 2,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3024,
+    "stargazers_count": 3027,
     "open_issues_count": 86,
-    "forks_count": 657
+    "forks_count": 659
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 733,
+    "stargazers_count": 739,
     "open_issues_count": 13,
     "forks_count": 100
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 9016,
-    "open_issues_count": 480,
-    "forks_count": 363
+    "stargazers_count": 9107,
+    "open_issues_count": 503,
+    "forks_count": 370
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "aszopko/somfy-esp8266",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 164,
+    "stargazers_count": 166,
     "open_issues_count": 34,
     "forks_count": 29
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 584,
+    "stargazers_count": 595,
     "open_issues_count": 60,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 12203,
-    "open_issues_count": 19,
+    "stargazers_count": 12210,
+    "open_issues_count": 20,
     "forks_count": 906
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "pnbruckner/ha-composite-tracker",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 1,
     "forks_count": 11
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "Rich-Harris/dts-buddy",
-    "stargazers_count": 260,
+    "stargazers_count": 261,
     "open_issues_count": 8,
     "forks_count": 11
   },
   {
     "full_name": "langestefan/auto-sun-blind",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "PricelessToolkit/MailBoxGuard",
-    "stargazers_count": 112,
+    "stargazers_count": 115,
     "open_issues_count": 2,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "Daniel-dev22/esphome-econet",
@@ -152,13 +152,13 @@
   {
     "full_name": "chainguard-dev/bomshell",
     "stargazers_count": 50,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "CycloneDX/cyclonedx-node-npm",
-    "stargazers_count": 54,
-    "open_issues_count": 13,
+    "stargazers_count": 55,
+    "open_issues_count": 14,
     "forks_count": 15
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bcomnes/npm-run-all2",
-    "stargazers_count": 78,
-    "open_issues_count": 5,
+    "stargazers_count": 101,
+    "open_issues_count": 6,
     "forks_count": 5
   }
 ]

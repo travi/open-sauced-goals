@@ -1,31 +1,49 @@
 [
   {
+    "full_name": "Alia5/lovelace-expander-card",
+    "stargazers_count": 156,
+    "open_issues_count": 23,
+    "forks_count": 10
+  },
+  {
+    "full_name": "TBSniller/piccap",
+    "stargazers_count": 247,
+    "open_issues_count": 13,
+    "forks_count": 27
+  },
+  {
+    "full_name": "RootMyTV/RootMyTV.github.io",
+    "stargazers_count": 1999,
+    "open_issues_count": 54,
+    "forks_count": 57
+  },
+  {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 707,
-    "open_issues_count": 15,
+    "stargazers_count": 711,
+    "open_issues_count": 18,
     "forks_count": 91
   },
   {
     "full_name": "ppamment/wledcast",
-    "stargazers_count": 10,
+    "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "esphome-econet/esphome-econet",
-    "stargazers_count": 34,
-    "open_issues_count": 18,
+    "stargazers_count": 36,
+    "open_issues_count": 17,
     "forks_count": 16
   },
   {
     "full_name": "talent-ideal/semantic-release-hex",
     "stargazers_count": 5,
-    "open_issues_count": 5,
+    "open_issues_count": 8,
     "forks_count": 0
   },
   {
     "full_name": "CrowdStrike/falcon-operator",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 11,
     "forks_count": 25
   },
@@ -38,7 +56,7 @@
   {
     "full_name": "sheerlox/import-from-esm",
     "stargazers_count": 2,
-    "open_issues_count": 7,
+    "open_issues_count": 9,
     "forks_count": 1
   },
   {
@@ -61,21 +79,21 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3030,
-    "open_issues_count": 87,
+    "stargazers_count": 3033,
+    "open_issues_count": 86,
     "forks_count": 660
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 742,
+    "stargazers_count": 744,
     "open_issues_count": 14,
     "forks_count": 100
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 9268,
-    "open_issues_count": 520,
-    "forks_count": 382
+    "stargazers_count": 9374,
+    "open_issues_count": 524,
+    "forks_count": 386
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -103,21 +121,21 @@
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 177,
-    "open_issues_count": 36,
+    "stargazers_count": 183,
+    "open_issues_count": 38,
     "forks_count": 29
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 616,
+    "stargazers_count": 629,
     "open_issues_count": 60,
-    "forks_count": 39
+    "forks_count": 41
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 12220,
+    "stargazers_count": 12235,
     "open_issues_count": 21,
-    "forks_count": 906
+    "forks_count": 907
   },
   {
     "full_name": "joshr120/open-deck",
@@ -139,8 +157,8 @@
   },
   {
     "full_name": "Rich-Harris/dts-buddy",
-    "stargazers_count": 264,
-    "open_issues_count": 8,
+    "stargazers_count": 265,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
@@ -151,7 +169,7 @@
   },
   {
     "full_name": "PricelessToolkit/MailBoxGuard",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 2,
     "forks_count": 14
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "chainguard-dev/bomshell",
-    "stargazers_count": 50,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "CycloneDX/cyclonedx-node-npm",
-    "stargazers_count": 55,
-    "open_issues_count": 13,
-    "forks_count": 15
-  },
-  {
-    "full_name": "marchaos/jest-mock-extended",
-    "stargazers_count": 748,
-    "open_issues_count": 34,
-    "forks_count": 50
   }
 ]

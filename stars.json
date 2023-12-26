@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "daggerok/gitignore-idea-runConfigurations",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Makin-Things/weather-radar-card",
+    "stargazers_count": 150,
+    "open_issues_count": 26,
+    "forks_count": 9
+  },
+  {
     "full_name": "rautesamtr/thermal_comfort_icons",
     "stargazers_count": 25,
     "open_issues_count": 1,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "dolezsa/thermal_comfort",
-    "stargazers_count": 456,
+    "stargazers_count": 458,
     "open_issues_count": 26,
     "forks_count": 91
   },
@@ -25,13 +37,13 @@
   },
   {
     "full_name": "dorny/paths-filter",
-    "stargazers_count": 1563,
-    "open_issues_count": 64,
+    "stargazers_count": 1565,
+    "open_issues_count": 63,
     "forks_count": 190
   },
   {
     "full_name": "Alia5/lovelace-expander-card",
-    "stargazers_count": 182,
+    "stargazers_count": 192,
     "open_issues_count": 23,
     "forks_count": 10
   },
@@ -43,26 +55,26 @@
   },
   {
     "full_name": "RootMyTV/RootMyTV.github.io",
-    "stargazers_count": 2014,
+    "stargazers_count": 2017,
     "open_issues_count": 55,
     "forks_count": 57
   },
   {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 715,
-    "open_issues_count": 10,
-    "forks_count": 92
+    "stargazers_count": 720,
+    "open_issues_count": 11,
+    "forks_count": 93
   },
   {
     "full_name": "ppamment/wledcast",
-    "stargazers_count": 14,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "esphome-econet/esphome-econet",
     "stargazers_count": 40,
-    "open_issues_count": 13,
+    "open_issues_count": 15,
     "forks_count": 17
   },
   {
@@ -74,7 +86,7 @@
   {
     "full_name": "CrowdStrike/falcon-operator",
     "stargazers_count": 35,
-    "open_issues_count": 10,
+    "open_issues_count": 13,
     "forks_count": 25
   },
   {
@@ -86,7 +98,7 @@
   {
     "full_name": "sheerlox/import-from-esm",
     "stargazers_count": 2,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 1
   },
   {
@@ -109,21 +121,21 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3047,
+    "stargazers_count": 3054,
     "open_issues_count": 87,
-    "forks_count": 662
+    "forks_count": 664
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 750,
+    "stargazers_count": 752,
     "open_issues_count": 15,
     "forks_count": 100
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 9798,
-    "open_issues_count": 544,
-    "forks_count": 407
+    "stargazers_count": 10116,
+    "open_issues_count": 548,
+    "forks_count": 418
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -146,37 +158,25 @@
   {
     "full_name": "ecosyste-ms/packages",
     "stargazers_count": 18,
-    "open_issues_count": 20,
+    "open_issues_count": 22,
     "forks_count": 2
   },
   {
     "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 200,
-    "open_issues_count": 41,
-    "forks_count": 32
+    "stargazers_count": 204,
+    "open_issues_count": 42,
+    "forks_count": 33
   },
   {
     "full_name": "PaulWieland/ratgdo",
-    "stargazers_count": 654,
+    "stargazers_count": 664,
     "open_issues_count": 60,
     "forks_count": 44
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 12260,
-    "open_issues_count": 21,
+    "stargazers_count": 12277,
+    "open_issues_count": 17,
     "forks_count": 908
-  },
-  {
-    "full_name": "joshr120/open-deck",
-    "stargazers_count": 108,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "pnbruckner/ha-composite-tracker",
-    "stargazers_count": 95,
-    "open_issues_count": 2,
-    "forks_count": 11
   }
 ]

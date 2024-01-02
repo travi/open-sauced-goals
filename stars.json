@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "matt8707/ha-fusion",
+    "stargazers_count": 698,
+    "open_issues_count": 27,
+    "forks_count": 17
+  },
+  {
     "full_name": "boneskull/midnight-smoker",
     "stargazers_count": 24,
-    "open_issues_count": 37,
+    "open_issues_count": 40,
     "forks_count": 1
   },
   {
     "full_name": "ga2mer/ha-zepp",
-    "stargazers_count": 43,
+    "stargazers_count": 45,
     "open_issues_count": 2,
     "forks_count": 11
   },
@@ -21,7 +27,7 @@
     "full_name": "Makin-Things/weather-radar-card",
     "stargazers_count": 152,
     "open_issues_count": 26,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "rautesamtr/thermal_comfort_icons",
@@ -31,8 +37,8 @@
   },
   {
     "full_name": "dolezsa/thermal_comfort",
-    "stargazers_count": 460,
-    "open_issues_count": 29,
+    "stargazers_count": 461,
+    "open_issues_count": 24,
     "forks_count": 92
   },
   {
@@ -43,25 +49,25 @@
   },
   {
     "full_name": "AlexandrErohin/home-assistant-flightradar24",
-    "stargazers_count": 13,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "dorny/paths-filter",
-    "stargazers_count": 1569,
+    "stargazers_count": 1568,
     "open_issues_count": 63,
     "forks_count": 191
   },
   {
     "full_name": "Alia5/lovelace-expander-card",
-    "stargazers_count": 193,
+    "stargazers_count": 196,
     "open_issues_count": 23,
     "forks_count": 10
   },
   {
     "full_name": "TBSniller/piccap",
-    "stargazers_count": 250,
+    "stargazers_count": 252,
     "open_issues_count": 13,
     "forks_count": 27
   },
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 726,
-    "open_issues_count": 11,
+    "stargazers_count": 731,
+    "open_issues_count": 12,
     "forks_count": 93
   },
   {
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "esphome-econet/esphome-econet",
-    "stargazers_count": 41,
-    "open_issues_count": 18,
-    "forks_count": 17
+    "stargazers_count": 42,
+    "open_issues_count": 14,
+    "forks_count": 18
   },
   {
     "full_name": "talent-ideal/semantic-release-hex",
@@ -110,8 +116,8 @@
   {
     "full_name": "sheerlox/import-from-esm",
     "stargazers_count": 2,
-    "open_issues_count": 6,
-    "forks_count": 1
+    "open_issues_count": 8,
+    "forks_count": 2
   },
   {
     "full_name": "amanda-mitchell/semantic-release-npm-multiple",
@@ -127,27 +133,27 @@
   },
   {
     "full_name": "grocy/grocy-pyscanner",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3055,
+    "stargazers_count": 3059,
     "open_issues_count": 87,
-    "forks_count": 664
+    "forks_count": 665
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 753,
-    "open_issues_count": 16,
+    "stargazers_count": 754,
+    "open_issues_count": 18,
     "forks_count": 100
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 10343,
-    "open_issues_count": 558,
-    "forks_count": 430
+    "stargazers_count": 10424,
+    "open_issues_count": 562,
+    "forks_count": 435
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "aderusha/HASwitchPlate",
-    "stargazers_count": 718,
+    "stargazers_count": 717,
     "open_issues_count": 1,
     "forks_count": 127
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 18,
     "open_issues_count": 25,
     "forks_count": 2
-  },
-  {
-    "full_name": "ratgdo/esphome-ratgdo",
-    "stargazers_count": 211,
-    "open_issues_count": 42,
-    "forks_count": 34
   }
 ]

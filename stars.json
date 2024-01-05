@@ -1,21 +1,21 @@
 [
   {
     "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 698,
+    "stargazers_count": 806,
     "open_issues_count": 27,
-    "forks_count": 17
+    "forks_count": 22
   },
   {
     "full_name": "boneskull/midnight-smoker",
     "stargazers_count": 24,
-    "open_issues_count": 40,
+    "open_issues_count": 41,
     "forks_count": 1
   },
   {
     "full_name": "ga2mer/ha-zepp",
     "stargazers_count": 45,
     "open_issues_count": 2,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "daggerok/gitignore-idea-runConfigurations",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "dolezsa/thermal_comfort",
-    "stargazers_count": 461,
-    "open_issues_count": 24,
-    "forks_count": 92
+    "stargazers_count": 463,
+    "open_issues_count": 27,
+    "forks_count": 93
   },
   {
     "full_name": "joes3029/letter-lighting",
@@ -49,38 +49,38 @@
   },
   {
     "full_name": "AlexandrErohin/home-assistant-flightradar24",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 17,
+    "open_issues_count": 1,
+    "forks_count": 2
   },
   {
     "full_name": "dorny/paths-filter",
-    "stargazers_count": 1568,
+    "stargazers_count": 1571,
     "open_issues_count": 63,
     "forks_count": 191
   },
   {
     "full_name": "Alia5/lovelace-expander-card",
-    "stargazers_count": 196,
+    "stargazers_count": 197,
     "open_issues_count": 23,
-    "forks_count": 10
+    "forks_count": 12
   },
   {
     "full_name": "TBSniller/piccap",
     "stargazers_count": 252,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 27
   },
   {
     "full_name": "RootMyTV/RootMyTV.github.io",
-    "stargazers_count": 2020,
+    "stargazers_count": 2025,
     "open_issues_count": 55,
     "forks_count": 57
   },
   {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 731,
-    "open_issues_count": 12,
+    "stargazers_count": 737,
+    "open_issues_count": 13,
     "forks_count": 93
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "esphome-econet/esphome-econet",
-    "stargazers_count": 42,
+    "stargazers_count": 44,
     "open_issues_count": 14,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "talent-ideal/semantic-release-hex",
@@ -104,7 +104,7 @@
   {
     "full_name": "CrowdStrike/falcon-operator",
     "stargazers_count": 35,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 25
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "modus-continens/modus",
-    "stargazers_count": 279,
+    "stargazers_count": 278,
     "open_issues_count": 29,
     "forks_count": 8
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3059,
+    "stargazers_count": 3062,
     "open_issues_count": 87,
-    "forks_count": 665
+    "forks_count": 666
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 754,
-    "open_issues_count": 18,
+    "stargazers_count": 756,
+    "open_issues_count": 17,
     "forks_count": 100
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 10424,
-    "open_issues_count": 562,
-    "forks_count": 435
+    "stargazers_count": 10582,
+    "open_issues_count": 573,
+    "forks_count": 442
   },
   {
     "full_name": "AdrianCX/hexlight",
@@ -176,7 +176,7 @@
   {
     "full_name": "ecosyste-ms/packages",
     "stargazers_count": 18,
-    "open_issues_count": 25,
+    "open_issues_count": 21,
     "forks_count": 2
   }
 ]

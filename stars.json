@@ -1,19 +1,43 @@
 [
   {
+    "full_name": "getsentry/action-github-app-token",
+    "stargazers_count": 169,
+    "open_issues_count": 18,
+    "forks_count": 88
+  },
+  {
+    "full_name": "RimacTechnology/semantic-release-monorepo",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "devops-kung-fu/bomber",
+    "stargazers_count": 401,
+    "open_issues_count": 20,
+    "forks_count": 35
+  },
+  {
+    "full_name": "snyk/parlay",
+    "stargazers_count": 84,
+    "open_issues_count": 19,
+    "forks_count": 13
+  },
+  {
     "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 871,
-    "open_issues_count": 34,
-    "forks_count": 25
+    "stargazers_count": 924,
+    "open_issues_count": 48,
+    "forks_count": 26
   },
   {
     "full_name": "boneskull/midnight-smoker",
     "stargazers_count": 24,
-    "open_issues_count": 41,
+    "open_issues_count": 40,
     "forks_count": 1
   },
   {
     "full_name": "ga2mer/ha-zepp",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 2,
     "forks_count": 12
   },
@@ -25,7 +49,7 @@
   },
   {
     "full_name": "Makin-Things/weather-radar-card",
-    "stargazers_count": 154,
+    "stargazers_count": 157,
     "open_issues_count": 26,
     "forks_count": 10
   },
@@ -37,9 +61,9 @@
   },
   {
     "full_name": "dolezsa/thermal_comfort",
-    "stargazers_count": 464,
-    "open_issues_count": 27,
-    "forks_count": 94
+    "stargazers_count": 465,
+    "open_issues_count": 29,
+    "forks_count": 96
   },
   {
     "full_name": "joes3029/letter-lighting",
@@ -49,38 +73,38 @@
   },
   {
     "full_name": "AlexandrErohin/home-assistant-flightradar24",
-    "stargazers_count": 23,
+    "stargazers_count": 31,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "dorny/paths-filter",
-    "stargazers_count": 1574,
+    "stargazers_count": 1581,
     "open_issues_count": 64,
     "forks_count": 191
   },
   {
     "full_name": "Alia5/lovelace-expander-card",
-    "stargazers_count": 203,
+    "stargazers_count": 207,
     "open_issues_count": 23,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "TBSniller/piccap",
-    "stargazers_count": 254,
+    "stargazers_count": 255,
     "open_issues_count": 14,
     "forks_count": 27
   },
   {
     "full_name": "RootMyTV/RootMyTV.github.io",
-    "stargazers_count": 2027,
+    "stargazers_count": 2032,
     "open_issues_count": 55,
     "forks_count": 57
   },
   {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 745,
-    "open_issues_count": 13,
+    "stargazers_count": 746,
+    "open_issues_count": 12,
     "forks_count": 94
   },
   {
@@ -91,7 +115,7 @@
   },
   {
     "full_name": "esphome-econet/esphome-econet",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 15,
     "forks_count": 19
   },
@@ -104,8 +128,8 @@
   {
     "full_name": "CrowdStrike/falcon-operator",
     "stargazers_count": 35,
-    "open_issues_count": 13,
-    "forks_count": 26
+    "open_issues_count": 15,
+    "forks_count": 27
   },
   {
     "full_name": "robdobsn/ScaderESP32",
@@ -129,7 +153,7 @@
     "full_name": "modus-continens/modus",
     "stargazers_count": 278,
     "open_issues_count": 29,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "grocy/grocy-pyscanner",
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3067,
-    "open_issues_count": 88,
+    "stargazers_count": 3077,
+    "open_issues_count": 89,
     "forks_count": 667
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 760,
+    "stargazers_count": 762,
     "open_issues_count": 14,
     "forks_count": 100
   },
   {
     "full_name": "usebruno/bruno",
-    "stargazers_count": 10709,
-    "open_issues_count": 585,
-    "forks_count": 447
-  },
-  {
-    "full_name": "AdrianCX/hexlight",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "aszopko/somfy-esp8266",
-    "stargazers_count": 28,
-    "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "aderusha/HASwitchPlate",
-    "stargazers_count": 717,
-    "open_issues_count": 1,
-    "forks_count": 127
-  },
-  {
-    "full_name": "ecosyste-ms/packages",
-    "stargazers_count": 18,
-    "open_issues_count": 19,
-    "forks_count": 2
+    "stargazers_count": 10833,
+    "open_issues_count": 597,
+    "forks_count": 452
   }
 ]

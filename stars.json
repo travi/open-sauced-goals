@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "danmons/retronas",
+    "stargazers_count": 571,
+    "open_issues_count": 4,
+    "forks_count": 35
+  },
+  {
     "full_name": "getsentry/action-github-app-token",
     "stargazers_count": 169,
     "open_issues_count": 18,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "RimacTechnology/semantic-release-monorepo",
-    "stargazers_count": 3,
+    "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "devops-kung-fu/bomber",
-    "stargazers_count": 401,
+    "stargazers_count": 402,
     "open_issues_count": 20,
     "forks_count": 35
   },
@@ -25,19 +31,19 @@
   },
   {
     "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 924,
-    "open_issues_count": 48,
-    "forks_count": 26
+    "stargazers_count": 1012,
+    "open_issues_count": 46,
+    "forks_count": 29
   },
   {
     "full_name": "boneskull/midnight-smoker",
-    "stargazers_count": 24,
-    "open_issues_count": 40,
+    "stargazers_count": 25,
+    "open_issues_count": 38,
     "forks_count": 1
   },
   {
     "full_name": "ga2mer/ha-zepp",
-    "stargazers_count": 46,
+    "stargazers_count": 48,
     "open_issues_count": 2,
     "forks_count": 12
   },
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "Makin-Things/weather-radar-card",
-    "stargazers_count": 157,
+    "stargazers_count": 163,
     "open_issues_count": 26,
     "forks_count": 10
   },
   {
     "full_name": "rautesamtr/thermal_comfort_icons",
-    "stargazers_count": 25,
+    "stargazers_count": 28,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "dolezsa/thermal_comfort",
-    "stargazers_count": 465,
-    "open_issues_count": 29,
-    "forks_count": 96
+    "stargazers_count": 475,
+    "open_issues_count": 26,
+    "forks_count": 97
   },
   {
     "full_name": "joes3029/letter-lighting",
@@ -73,19 +79,19 @@
   },
   {
     "full_name": "AlexandrErohin/home-assistant-flightradar24",
-    "stargazers_count": 31,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "stargazers_count": 41,
+    "open_issues_count": 2,
+    "forks_count": 1
   },
   {
     "full_name": "dorny/paths-filter",
-    "stargazers_count": 1581,
+    "stargazers_count": 1584,
     "open_issues_count": 64,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "Alia5/lovelace-expander-card",
-    "stargazers_count": 207,
+    "stargazers_count": 210,
     "open_issues_count": 23,
     "forks_count": 13
   },
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "RootMyTV/RootMyTV.github.io",
-    "stargazers_count": 2032,
-    "open_issues_count": 55,
+    "stargazers_count": 2029,
+    "open_issues_count": 56,
     "forks_count": 57
   },
   {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 746,
+    "stargazers_count": 750,
     "open_issues_count": 12,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "ppamment/wledcast",
@@ -115,20 +121,20 @@
   },
   {
     "full_name": "esphome-econet/esphome-econet",
-    "stargazers_count": 46,
-    "open_issues_count": 15,
+    "stargazers_count": 47,
+    "open_issues_count": 18,
     "forks_count": 19
   },
   {
     "full_name": "talent-ideal/semantic-release-hex",
     "stargazers_count": 5,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 0
   },
   {
     "full_name": "CrowdStrike/falcon-operator",
     "stargazers_count": 35,
-    "open_issues_count": 15,
+    "open_issues_count": 13,
     "forks_count": 27
   },
   {
@@ -140,13 +146,13 @@
   {
     "full_name": "sheerlox/import-from-esm",
     "stargazers_count": 2,
-    "open_issues_count": 9,
+    "open_issues_count": 12,
     "forks_count": 2
   },
   {
     "full_name": "amanda-mitchell/semantic-release-npm-multiple",
     "stargazers_count": 13,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 6
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "opencontainers/image-spec",
-    "stargazers_count": 3077,
+    "stargazers_count": 3082,
     "open_issues_count": 89,
-    "forks_count": 667
+    "forks_count": 669
   },
   {
     "full_name": "docker/metadata-action",
-    "stargazers_count": 762,
+    "stargazers_count": 765,
     "open_issues_count": 14,
     "forks_count": 100
-  },
-  {
-    "full_name": "usebruno/bruno",
-    "stargazers_count": 10833,
-    "open_issues_count": 597,
-    "forks_count": 452
   }
 ]

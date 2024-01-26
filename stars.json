@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "allangood/rtlamr2mqtt",
+    "stargazers_count": 240,
+    "open_issues_count": 14,
+    "forks_count": 43
+  },
+  {
     "full_name": "Deejayfool/hass-shutter-card",
     "stargazers_count": 232,
-    "open_issues_count": 64,
+    "open_issues_count": 65,
     "forks_count": 89
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 315,
+    "stargazers_count": 317,
     "open_issues_count": 18,
     "forks_count": 28
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
     "stargazers_count": 403,
-    "open_issues_count": 62,
-    "forks_count": 37
+    "open_issues_count": 63,
+    "forks_count": 39
   },
   {
     "full_name": "bokub/rgb-light-card",
-    "stargazers_count": 390,
+    "stargazers_count": 391,
     "open_issues_count": 7,
     "forks_count": 23
   },
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "danmons/retronas",
-    "stargazers_count": 578,
+    "stargazers_count": 589,
     "open_issues_count": 4,
     "forks_count": 36
   },
@@ -57,13 +63,13 @@
     "full_name": "snyk/parlay",
     "stargazers_count": 84,
     "open_issues_count": 19,
-    "forks_count": 13
+    "forks_count": 15
   },
   {
     "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 1152,
-    "open_issues_count": 60,
-    "forks_count": 35
+    "stargazers_count": 1184,
+    "open_issues_count": 65,
+    "forks_count": 37
   },
   {
     "full_name": "boneskull/midnight-smoker",
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "ga2mer/ha-zepp",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 2,
     "forks_count": 12
   },
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "dolezsa/thermal_comfort",
-    "stargazers_count": 480,
+    "stargazers_count": 482,
     "open_issues_count": 25,
     "forks_count": 97
   },
@@ -109,13 +115,13 @@
   },
   {
     "full_name": "AlexandrErohin/home-assistant-flightradar24",
-    "stargazers_count": 48,
-    "open_issues_count": 6,
+    "stargazers_count": 47,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "dorny/paths-filter",
-    "stargazers_count": 1592,
+    "stargazers_count": 1603,
     "open_issues_count": 65,
     "forks_count": 193
   },
@@ -127,20 +133,20 @@
   },
   {
     "full_name": "TBSniller/piccap",
-    "stargazers_count": 256,
-    "open_issues_count": 14,
+    "stargazers_count": 258,
+    "open_issues_count": 15,
     "forks_count": 27
   },
   {
     "full_name": "RootMyTV/RootMyTV.github.io",
-    "stargazers_count": 2037,
+    "stargazers_count": 2038,
     "open_issues_count": 56,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 765,
-    "open_issues_count": 11,
+    "stargazers_count": 766,
+    "open_issues_count": 10,
     "forks_count": 95
   },
   {
@@ -164,19 +170,13 @@
   {
     "full_name": "CrowdStrike/falcon-operator",
     "stargazers_count": 36,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 27
   },
   {
     "full_name": "robdobsn/ScaderESP32",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "sheerlox/import-from-esm",
-    "stargazers_count": 2,
-    "open_issues_count": 3,
     "forks_count": 2
   }
 ]

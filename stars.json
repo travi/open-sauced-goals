@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "mlamberts78/weather-chart-card",
+    "stargazers_count": 43,
+    "open_issues_count": 8,
+    "forks_count": 4
+  },
+  {
+    "full_name": "ikatyang/linguist-languages",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
     "full_name": "bmcclure/ha-chore-helper",
     "stargazers_count": 22,
     "open_issues_count": 8,
@@ -13,45 +25,45 @@
   },
   {
     "full_name": "Deejayfool/hass-shutter-card",
-    "stargazers_count": 232,
-    "open_issues_count": 65,
+    "stargazers_count": 234,
+    "open_issues_count": 66,
     "forks_count": 90
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 324,
+    "stargazers_count": 326,
     "open_issues_count": 16,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 406,
-    "open_issues_count": 67,
-    "forks_count": 39
+    "stargazers_count": 408,
+    "open_issues_count": 59,
+    "forks_count": 40
   },
   {
     "full_name": "bokub/rgb-light-card",
-    "stargazers_count": 392,
+    "stargazers_count": 393,
     "open_issues_count": 7,
     "forks_count": 23
   },
   {
     "full_name": "twrecked/hass-virtual",
     "stargazers_count": 128,
-    "open_issues_count": 40,
+    "open_issues_count": 39,
     "forks_count": 22
   },
   {
     "full_name": "retronas/retronas",
-    "stargazers_count": 596,
-    "open_issues_count": 5,
+    "stargazers_count": 598,
+    "open_issues_count": 3,
     "forks_count": 35
   },
   {
     "full_name": "getsentry/action-github-app-token",
     "stargazers_count": 169,
-    "open_issues_count": 18,
-    "forks_count": 89
+    "open_issues_count": 20,
+    "forks_count": 90
   },
   {
     "full_name": "RimacTechnology/semantic-release-monorepo",
@@ -62,20 +74,20 @@
   {
     "full_name": "devops-kung-fu/bomber",
     "stargazers_count": 411,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 35
   },
   {
     "full_name": "snyk/parlay",
     "stargazers_count": 84,
-    "open_issues_count": 16,
+    "open_issues_count": 13,
     "forks_count": 15
   },
   {
     "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 1234,
-    "open_issues_count": 58,
-    "forks_count": 44
+    "stargazers_count": 1254,
+    "open_issues_count": 62,
+    "forks_count": 47
   },
   {
     "full_name": "boneskull/midnight-smoker",
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "Makin-Things/weather-radar-card",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 26,
     "forks_count": 10
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "dolezsa/thermal_comfort",
-    "stargazers_count": 487,
+    "stargazers_count": 489,
     "open_issues_count": 26,
     "forks_count": 99
   },
@@ -121,19 +133,19 @@
   },
   {
     "full_name": "AlexandrErohin/home-assistant-flightradar24",
-    "stargazers_count": 48,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "dorny/paths-filter",
-    "stargazers_count": 1625,
+    "stargazers_count": 1628,
     "open_issues_count": 64,
     "forks_count": 194
   },
   {
     "full_name": "Alia5/lovelace-expander-card",
-    "stargazers_count": 216,
+    "stargazers_count": 218,
     "open_issues_count": 23,
     "forks_count": 13
   },
@@ -145,14 +157,14 @@
   },
   {
     "full_name": "RootMyTV/RootMyTV.github.io",
-    "stargazers_count": 2044,
-    "open_issues_count": 56,
+    "stargazers_count": 2049,
+    "open_issues_count": 57,
     "forks_count": 58
   },
   {
     "full_name": "awawa-dev/HyperHDR",
-    "stargazers_count": 777,
-    "open_issues_count": 11,
+    "stargazers_count": 784,
+    "open_issues_count": 8,
     "forks_count": 97
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "esphome-econet/esphome-econet",
-    "stargazers_count": 53,
-    "open_issues_count": 14,
+    "stargazers_count": 55,
+    "open_issues_count": 12,
     "forks_count": 19
-  },
-  {
-    "full_name": "talent-ideal/semantic-release-hex",
-    "stargazers_count": 5,
-    "open_issues_count": 14,
-    "forks_count": 0
-  },
-  {
-    "full_name": "CrowdStrike/falcon-operator",
-    "stargazers_count": 37,
-    "open_issues_count": 13,
-    "forks_count": 27
   }
 ]

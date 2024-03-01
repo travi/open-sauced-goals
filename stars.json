@@ -1,7 +1,7 @@
 [
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 766,
+    "stargazers_count": 767,
     "open_issues_count": 190,
     "forks_count": 219
   },
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "corporategoth/ha-powerpetdoor",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
+    "stargazers_count": 12,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 515,
+    "stargazers_count": 522,
     "open_issues_count": 0,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5622,
+    "stargazers_count": 5626,
     "open_issues_count": 92,
     "forks_count": 433
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "renovatebot/github-action",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 13,
     "forks_count": 67
   },
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "Clooos/Bubble-Card",
-    "stargazers_count": 1091,
+    "stargazers_count": 1097,
     "open_issues_count": 42,
     "forks_count": 28
   },
   {
     "full_name": "jorenn92/Maintainerr",
-    "stargazers_count": 373,
-    "open_issues_count": 18,
+    "stargazers_count": 375,
+    "open_issues_count": 12,
     "forks_count": 8
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "mlamberts78/weather-chart-card",
-    "stargazers_count": 137,
+    "stargazers_count": 141,
     "open_issues_count": 4,
     "forks_count": 10
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "bmcclure/ha-chore-helper",
-    "stargazers_count": 24,
-    "open_issues_count": 9,
+    "stargazers_count": 27,
+    "open_issues_count": 10,
     "forks_count": 4
   },
   {
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 344,
-    "open_issues_count": 16,
+    "stargazers_count": 347,
+    "open_issues_count": 18,
     "forks_count": 32
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 420,
-    "open_issues_count": 63,
+    "stargazers_count": 422,
+    "open_issues_count": 64,
     "forks_count": 44
   },
   {
     "full_name": "bokub/rgb-light-card",
-    "stargazers_count": 393,
+    "stargazers_count": 394,
     "open_issues_count": 7,
     "forks_count": 24
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "getsentry/action-github-app-token",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 19,
     "forks_count": 91
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "devops-kung-fu/bomber",
-    "stargazers_count": 422,
-    "open_issues_count": 21,
+    "stargazers_count": 423,
+    "open_issues_count": 14,
     "forks_count": 36
   },
   {
     "full_name": "snyk/parlay",
     "stargazers_count": 87,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 15
   },
   {
     "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 1391,
-    "open_issues_count": 65,
-    "forks_count": 54
+    "stargazers_count": 1400,
+    "open_issues_count": 66,
+    "forks_count": 56
   },
   {
     "full_name": "boneskull/midnight-smoker",
@@ -165,7 +165,7 @@
     "full_name": "ga2mer/ha-zepp",
     "stargazers_count": 51,
     "open_issues_count": 4,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "daggerok/gitignore-idea-runConfigurations",

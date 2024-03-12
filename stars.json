@@ -1,19 +1,31 @@
 [
   {
+    "full_name": "sbondCo/Watcharr",
+    "stargazers_count": 132,
+    "open_issues_count": 37,
+    "forks_count": 10
+  },
+  {
+    "full_name": "dibdot/DoH-IP-blocklists",
+    "stargazers_count": 106,
+    "open_issues_count": 0,
+    "forks_count": 25
+  },
+  {
     "full_name": "github/cleanowners",
-    "stargazers_count": 42,
+    "stargazers_count": 50,
     "open_issues_count": 8,
-    "forks_count": 1
+    "forks_count": 3
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 770,
+    "stargazers_count": 772,
     "open_issues_count": 190,
-    "forks_count": 220
+    "forks_count": 221
   },
   {
     "full_name": "Ezard/semantic-prs",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 8,
     "forks_count": 10
   },
@@ -25,20 +37,20 @@
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 531,
-    "open_issues_count": 2,
+    "stargazers_count": 538,
+    "open_issues_count": 1,
     "forks_count": 32
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5636,
+    "stargazers_count": 5644,
     "open_issues_count": 91,
-    "forks_count": 434
+    "forks_count": 437
   },
   {
     "full_name": "DonMcD/ultimate-plex-stack",
-    "stargazers_count": 95,
-    "open_issues_count": 5,
+    "stargazers_count": 97,
+    "open_issues_count": 7,
     "forks_count": 7
   },
   {
@@ -55,26 +67,26 @@
   },
   {
     "full_name": "Clooos/Bubble-Card",
-    "stargazers_count": 1108,
-    "open_issues_count": 44,
+    "stargazers_count": 1111,
+    "open_issues_count": 48,
     "forks_count": 28
   },
   {
     "full_name": "jorenn92/Maintainerr",
-    "stargazers_count": 388,
+    "stargazers_count": 395,
     "open_issues_count": 16,
     "forks_count": 9
   },
   {
     "full_name": "ThomasLomas/ha-starlinghomehub",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "mlamberts78/weather-chart-card",
-    "stargazers_count": 146,
-    "open_issues_count": 4,
+    "stargazers_count": 149,
+    "open_issues_count": 8,
     "forks_count": 10
   },
   {
@@ -91,43 +103,43 @@
   },
   {
     "full_name": "allangood/rtlamr2mqtt",
-    "stargazers_count": 247,
+    "stargazers_count": 249,
     "open_issues_count": 14,
     "forks_count": 44
   },
   {
     "full_name": "Deejayfool/hass-shutter-card",
-    "stargazers_count": 236,
+    "stargazers_count": 237,
     "open_issues_count": 66,
     "forks_count": 91
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 350,
-    "open_issues_count": 21,
+    "stargazers_count": 351,
+    "open_issues_count": 22,
     "forks_count": 32
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 426,
-    "open_issues_count": 67,
-    "forks_count": 44
+    "stargazers_count": 430,
+    "open_issues_count": 61,
+    "forks_count": 43
   },
   {
     "full_name": "bokub/rgb-light-card",
-    "stargazers_count": 395,
+    "stargazers_count": 396,
     "open_issues_count": 7,
     "forks_count": 24
   },
   {
     "full_name": "twrecked/hass-virtual",
-    "stargazers_count": 131,
-    "open_issues_count": 40,
+    "stargazers_count": 132,
+    "open_issues_count": 41,
     "forks_count": 23
   },
   {
     "full_name": "retronas/retronas",
-    "stargazers_count": 611,
+    "stargazers_count": 612,
     "open_issues_count": 1,
     "forks_count": 37
   },
@@ -145,8 +157,8 @@
   },
   {
     "full_name": "devops-kung-fu/bomber",
-    "stargazers_count": 425,
-    "open_issues_count": 15,
+    "stargazers_count": 426,
+    "open_issues_count": 11,
     "forks_count": 37
   },
   {
@@ -157,8 +169,8 @@
   },
   {
     "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 1456,
-    "open_issues_count": 73,
+    "stargazers_count": 1479,
+    "open_issues_count": 74,
     "forks_count": 56
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 25,
     "open_issues_count": 38,
     "forks_count": 1
-  },
-  {
-    "full_name": "ga2mer/ha-zepp",
-    "stargazers_count": 54,
-    "open_issues_count": 4,
-    "forks_count": 13
-  },
-  {
-    "full_name": "daggerok/gitignore-idea-runConfigurations",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

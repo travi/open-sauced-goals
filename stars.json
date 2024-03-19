@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "43081j/ecosystem-cleanup",
+    "stargazers_count": 104,
+    "open_issues_count": 28,
+    "forks_count": 0
+  },
+  {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 38,
-    "open_issues_count": 15,
-    "forks_count": 10
+    "stargazers_count": 51,
+    "open_issues_count": 17,
+    "forks_count": 11
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 147,
-    "open_issues_count": 39,
+    "stargazers_count": 154,
+    "open_issues_count": 42,
     "forks_count": 10
   },
   {
     "full_name": "dibdot/DoH-IP-blocklists",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "github/cleanowners",
     "stargazers_count": 54,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 3
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 772,
+    "stargazers_count": 773,
     "open_issues_count": 192,
-    "forks_count": 221
+    "forks_count": 222
   },
   {
     "full_name": "Ezard/semantic-prs",
@@ -43,56 +49,56 @@
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 541,
+    "stargazers_count": 544,
     "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5656,
-    "open_issues_count": 91,
-    "forks_count": 438
+    "stargazers_count": 5664,
+    "open_issues_count": 92,
+    "forks_count": 439
   },
   {
     "full_name": "DonMcD/ultimate-plex-stack",
-    "stargazers_count": 99,
+    "stargazers_count": 101,
     "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "renovatebot/github-action",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 13,
     "forks_count": 66
   },
   {
     "full_name": "IDmedia/hass-unraid",
-    "stargazers_count": 24,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Clooos/Bubble-Card",
-    "stargazers_count": 1114,
-    "open_issues_count": 47,
-    "forks_count": 29
+    "stargazers_count": 1137,
+    "open_issues_count": 48,
+    "forks_count": 30
   },
   {
     "full_name": "jorenn92/Maintainerr",
-    "stargazers_count": 410,
-    "open_issues_count": 18,
+    "stargazers_count": 431,
+    "open_issues_count": 21,
     "forks_count": 9
   },
   {
     "full_name": "ThomasLomas/ha-starlinghomehub",
     "stargazers_count": 3,
-    "open_issues_count": 0,
+    "open_issues_count": 3,
     "forks_count": 0
   },
   {
     "full_name": "mlamberts78/weather-chart-card",
-    "stargazers_count": 153,
-    "open_issues_count": 9,
+    "stargazers_count": 156,
+    "open_issues_count": 10,
     "forks_count": 11
   },
   {
@@ -109,27 +115,27 @@
   },
   {
     "full_name": "allangood/rtlamr2mqtt",
-    "stargazers_count": 251,
+    "stargazers_count": 261,
     "open_issues_count": 14,
     "forks_count": 44
   },
   {
     "full_name": "Deejayfool/hass-shutter-card",
-    "stargazers_count": 238,
+    "stargazers_count": 239,
     "open_issues_count": 66,
     "forks_count": 91
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 352,
+    "stargazers_count": 353,
     "open_issues_count": 22,
     "forks_count": 32
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 431,
-    "open_issues_count": 64,
-    "forks_count": 44
+    "stargazers_count": 432,
+    "open_issues_count": 67,
+    "forks_count": 45
   },
   {
     "full_name": "bokub/rgb-light-card",
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "getsentry/action-github-app-token",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 19,
     "forks_count": 91
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "devops-kung-fu/bomber",
-    "stargazers_count": 429,
-    "open_issues_count": 12,
-    "forks_count": 37
+    "stargazers_count": 430,
+    "open_issues_count": 13,
+    "forks_count": 38
   },
   {
     "full_name": "snyk/parlay",
-    "stargazers_count": 89,
-    "open_issues_count": 6,
+    "stargazers_count": 90,
+    "open_issues_count": 7,
     "forks_count": 15
-  },
-  {
-    "full_name": "matt8707/ha-fusion",
-    "stargazers_count": 1492,
-    "open_issues_count": 74,
-    "forks_count": 57
   }
 ]

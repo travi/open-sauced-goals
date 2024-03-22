@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "andrewjfreyer/monitor",
+    "stargazers_count": 1584,
+    "open_issues_count": 101,
+    "forks_count": 192
+  },
+  {
     "full_name": "43081j/ecosystem-cleanup",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 28,
     "forks_count": 0
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 51,
-    "open_issues_count": 17,
+    "stargazers_count": 54,
+    "open_issues_count": 18,
     "forks_count": 11
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 154,
+    "stargazers_count": 159,
     "open_issues_count": 42,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "dibdot/DoH-IP-blocklists",
@@ -26,50 +32,50 @@
   {
     "full_name": "github/cleanowners",
     "stargazers_count": 54,
-    "open_issues_count": 9,
+    "open_issues_count": 7,
     "forks_count": 3
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 773,
+    "stargazers_count": 774,
     "open_issues_count": 192,
     "forks_count": 222
   },
   {
     "full_name": "Ezard/semantic-prs",
-    "stargazers_count": 100,
+    "stargazers_count": 101,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "corporategoth/ha-powerpetdoor",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 544,
+    "stargazers_count": 550,
     "open_issues_count": 0,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5664,
+    "stargazers_count": 5666,
     "open_issues_count": 92,
-    "forks_count": 439
+    "forks_count": 440
   },
   {
     "full_name": "DonMcD/ultimate-plex-stack",
-    "stargazers_count": 101,
+    "stargazers_count": 105,
     "open_issues_count": 5,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "renovatebot/github-action",
-    "stargazers_count": 227,
+    "stargazers_count": 228,
     "open_issues_count": 13,
-    "forks_count": 66
+    "forks_count": 68
   },
   {
     "full_name": "IDmedia/hass-unraid",
@@ -79,14 +85,14 @@
   },
   {
     "full_name": "Clooos/Bubble-Card",
-    "stargazers_count": 1137,
-    "open_issues_count": 48,
+    "stargazers_count": 1141,
+    "open_issues_count": 50,
     "forks_count": 30
   },
   {
     "full_name": "jorenn92/Maintainerr",
-    "stargazers_count": 431,
-    "open_issues_count": 21,
+    "stargazers_count": 435,
+    "open_issues_count": 24,
     "forks_count": 9
   },
   {
@@ -97,8 +103,8 @@
   },
   {
     "full_name": "mlamberts78/weather-chart-card",
-    "stargazers_count": 156,
-    "open_issues_count": 10,
+    "stargazers_count": 157,
+    "open_issues_count": 7,
     "forks_count": 11
   },
   {
@@ -109,14 +115,14 @@
   },
   {
     "full_name": "bmcclure/ha-chore-helper",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "allangood/rtlamr2mqtt",
-    "stargazers_count": 261,
-    "open_issues_count": 14,
+    "stargazers_count": 262,
+    "open_issues_count": 15,
     "forks_count": 44
   },
   {
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 353,
+    "stargazers_count": 356,
     "open_issues_count": 22,
     "forks_count": 32
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 432,
+    "stargazers_count": 433,
     "open_issues_count": 67,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "bokub/rgb-light-card",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "devops-kung-fu/bomber",
-    "stargazers_count": 430,
-    "open_issues_count": 13,
+    "stargazers_count": 432,
+    "open_issues_count": 14,
     "forks_count": 38
-  },
-  {
-    "full_name": "snyk/parlay",
-    "stargazers_count": 90,
-    "open_issues_count": 7,
-    "forks_count": 15
   }
 ]

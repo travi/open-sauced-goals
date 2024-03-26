@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "stevejenkins/pihole-cloudsync",
+    "stargazers_count": 507,
+    "open_issues_count": 23,
+    "forks_count": 105
+  },
+  {
+    "full_name": "GollumDom/addon-repository",
+    "stargazers_count": 15,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "sequoia-pgp/fast-forward",
+    "stargazers_count": 15,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1584,
+    "stargazers_count": 1586,
     "open_issues_count": 101,
     "forks_count": 192
   },
@@ -13,21 +31,21 @@
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 54,
-    "open_issues_count": 18,
+    "stargazers_count": 58,
+    "open_issues_count": 21,
     "forks_count": 11
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 159,
-    "open_issues_count": 42,
-    "forks_count": 11
+    "stargazers_count": 167,
+    "open_issues_count": 45,
+    "forks_count": 12
   },
   {
     "full_name": "dibdot/DoH-IP-blocklists",
-    "stargazers_count": 107,
+    "stargazers_count": 109,
     "open_issues_count": 0,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "github/cleanowners",
@@ -37,9 +55,9 @@
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 774,
-    "open_issues_count": 192,
-    "forks_count": 222
+    "stargazers_count": 776,
+    "open_issues_count": 193,
+    "forks_count": 223
   },
   {
     "full_name": "Ezard/semantic-prs",
@@ -55,19 +73,19 @@
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 550,
+    "stargazers_count": 556,
     "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5666,
-    "open_issues_count": 92,
+    "stargazers_count": 5671,
+    "open_issues_count": 89,
     "forks_count": 440
   },
   {
     "full_name": "DonMcD/ultimate-plex-stack",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 5,
     "forks_count": 8
   },
@@ -75,7 +93,7 @@
     "full_name": "renovatebot/github-action",
     "stargazers_count": 228,
     "open_issues_count": 13,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "IDmedia/hass-unraid",
@@ -85,14 +103,14 @@
   },
   {
     "full_name": "Clooos/Bubble-Card",
-    "stargazers_count": 1141,
-    "open_issues_count": 50,
-    "forks_count": 30
+    "stargazers_count": 1145,
+    "open_issues_count": 52,
+    "forks_count": 32
   },
   {
     "full_name": "jorenn92/Maintainerr",
-    "stargazers_count": 435,
-    "open_issues_count": 24,
+    "stargazers_count": 464,
+    "open_issues_count": 20,
     "forks_count": 9
   },
   {
@@ -103,9 +121,9 @@
   },
   {
     "full_name": "mlamberts78/weather-chart-card",
-    "stargazers_count": 157,
-    "open_issues_count": 7,
-    "forks_count": 11
+    "stargazers_count": 159,
+    "open_issues_count": 10,
+    "forks_count": 12
   },
   {
     "full_name": "ikatyang/linguist-languages",
@@ -115,15 +133,15 @@
   },
   {
     "full_name": "bmcclure/ha-chore-helper",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "allangood/rtlamr2mqtt",
-    "stargazers_count": 262,
+    "stargazers_count": 263,
     "open_issues_count": 15,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "Deejayfool/hass-shutter-card",
@@ -133,15 +151,15 @@
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 356,
-    "open_issues_count": 22,
+    "stargazers_count": 360,
+    "open_issues_count": 23,
     "forks_count": 32
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 433,
-    "open_issues_count": 67,
-    "forks_count": 46
+    "stargazers_count": 434,
+    "open_issues_count": 69,
+    "forks_count": 47
   },
   {
     "full_name": "bokub/rgb-light-card",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "retronas/retronas",
-    "stargazers_count": 614,
+    "stargazers_count": 628,
     "open_issues_count": 1,
     "forks_count": 37
-  },
-  {
-    "full_name": "getsentry/action-github-app-token",
-    "stargazers_count": 174,
-    "open_issues_count": 19,
-    "forks_count": 91
-  },
-  {
-    "full_name": "RimacTechnology/semantic-release-monorepo",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "devops-kung-fu/bomber",
-    "stargazers_count": 432,
-    "open_issues_count": 14,
-    "forks_count": 38
   }
 ]

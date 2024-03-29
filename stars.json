@@ -15,30 +15,30 @@
     "full_name": "sequoia-pgp/fast-forward",
     "stargazers_count": 15,
     "open_issues_count": 2,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1586,
+    "stargazers_count": 1587,
     "open_issues_count": 101,
     "forks_count": 192
   },
   {
     "full_name": "43081j/ecosystem-cleanup",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 28,
     "forks_count": 0
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 58,
-    "open_issues_count": 21,
-    "forks_count": 11
+    "stargazers_count": 60,
+    "open_issues_count": 18,
+    "forks_count": 12
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 167,
-    "open_issues_count": 45,
+    "stargazers_count": 169,
+    "open_issues_count": 51,
     "forks_count": 12
   },
   {
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "github/cleanowners",
-    "stargazers_count": 54,
+    "stargazers_count": 59,
     "open_issues_count": 7,
     "forks_count": 3
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 776,
+    "stargazers_count": 777,
     "open_issues_count": 193,
     "forks_count": 223
   },
@@ -73,44 +73,44 @@
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 556,
+    "stargazers_count": 558,
     "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5671,
-    "open_issues_count": 89,
-    "forks_count": 440
+    "stargazers_count": 5675,
+    "open_issues_count": 85,
+    "forks_count": 441
   },
   {
     "full_name": "DonMcD/ultimate-plex-stack",
     "stargazers_count": 106,
     "open_issues_count": 5,
-    "forks_count": 8
+    "forks_count": 10
   },
   {
     "full_name": "renovatebot/github-action",
     "stargazers_count": 228,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 69
   },
   {
     "full_name": "IDmedia/hass-unraid",
-    "stargazers_count": 26,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 27,
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "Clooos/Bubble-Card",
-    "stargazers_count": 1145,
-    "open_issues_count": 52,
+    "stargazers_count": 1148,
+    "open_issues_count": 51,
     "forks_count": 32
   },
   {
     "full_name": "jorenn92/Maintainerr",
-    "stargazers_count": 464,
-    "open_issues_count": 20,
+    "stargazers_count": 473,
+    "open_issues_count": 23,
     "forks_count": 9
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "mlamberts78/weather-chart-card",
-    "stargazers_count": 159,
-    "open_issues_count": 10,
+    "stargazers_count": 160,
+    "open_issues_count": 11,
     "forks_count": 12
   },
   {
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "allangood/rtlamr2mqtt",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 15,
     "forks_count": 45
   },
   {
     "full_name": "Deejayfool/hass-shutter-card",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 66,
     "forks_count": 91
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 434,
-    "open_issues_count": 69,
-    "forks_count": 47
+    "stargazers_count": 436,
+    "open_issues_count": 68,
+    "forks_count": 48
   },
   {
     "full_name": "bokub/rgb-light-card",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "retronas/retronas",
-    "stargazers_count": 628,
+    "stargazers_count": 630,
     "open_issues_count": 1,
     "forks_count": 37
   }

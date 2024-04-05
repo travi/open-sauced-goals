@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "oddlama/nix-topology",
+    "stargazers_count": 94,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "zoubingwu/msw-auto-mock",
+    "stargazers_count": 211,
+    "open_issues_count": 11,
+    "forks_count": 49
+  },
+  {
     "full_name": "stevejenkins/pihole-cloudsync",
-    "stargazers_count": 508,
+    "stargazers_count": 511,
     "open_issues_count": 23,
     "forks_count": 104
   },
@@ -19,27 +31,27 @@
   },
   {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1588,
+    "stargazers_count": 1590,
     "open_issues_count": 101,
     "forks_count": 192
   },
   {
     "full_name": "43081j/ecosystem-cleanup",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 28,
     "forks_count": 0
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 63,
-    "open_issues_count": 21,
+    "stargazers_count": 65,
+    "open_issues_count": 16,
     "forks_count": 12
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 188,
-    "open_issues_count": 53,
-    "forks_count": 13
+    "stargazers_count": 194,
+    "open_issues_count": 56,
+    "forks_count": 14
   },
   {
     "full_name": "dibdot/DoH-IP-blocklists",
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "github/cleanowners",
-    "stargazers_count": 72,
-    "open_issues_count": 6,
-    "forks_count": 5
+    "stargazers_count": 80,
+    "open_issues_count": 7,
+    "forks_count": 6
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 781,
+    "stargazers_count": 782,
     "open_issues_count": 193,
-    "forks_count": 224
+    "forks_count": 225
   },
   {
     "full_name": "Ezard/semantic-prs",
@@ -79,38 +91,38 @@
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5686,
+    "stargazers_count": 5697,
     "open_issues_count": 83,
     "forks_count": 442
   },
   {
     "full_name": "DonMcD/ultimate-plex-stack",
-    "stargazers_count": 106,
+    "stargazers_count": 108,
     "open_issues_count": 5,
     "forks_count": 10
   },
   {
     "full_name": "renovatebot/github-action",
     "stargazers_count": 230,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 69
   },
   {
     "full_name": "IDmedia/hass-unraid",
-    "stargazers_count": 28,
+    "stargazers_count": 30,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "Clooos/Bubble-Card",
-    "stargazers_count": 1152,
-    "open_issues_count": 54,
+    "stargazers_count": 1157,
+    "open_issues_count": 55,
     "forks_count": 34
   },
   {
     "full_name": "jorenn92/Maintainerr",
-    "stargazers_count": 476,
-    "open_issues_count": 23,
+    "stargazers_count": 481,
+    "open_issues_count": 24,
     "forks_count": 9
   },
   {
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "mlamberts78/weather-chart-card",
-    "stargazers_count": 165,
-    "open_issues_count": 8,
-    "forks_count": 13
+    "stargazers_count": 166,
+    "open_issues_count": 10,
+    "forks_count": 15
   },
   {
     "full_name": "ikatyang/linguist-languages",
@@ -145,20 +157,20 @@
   },
   {
     "full_name": "Deejayfool/hass-shutter-card",
-    "stargazers_count": 241,
+    "stargazers_count": 243,
     "open_issues_count": 66,
     "forks_count": 91
   },
   {
     "full_name": "j-a-n/lovelace-wallpanel",
-    "stargazers_count": 360,
-    "open_issues_count": 19,
+    "stargazers_count": 362,
+    "open_issues_count": 17,
     "forks_count": 32
   },
   {
     "full_name": "dermotduffy/frigate-hass-card",
-    "stargazers_count": 437,
-    "open_issues_count": 70,
+    "stargazers_count": 439,
+    "open_issues_count": 68,
     "forks_count": 48
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 397,
     "open_issues_count": 7,
     "forks_count": 24
-  },
-  {
-    "full_name": "twrecked/hass-virtual",
-    "stargazers_count": 132,
-    "open_issues_count": 41,
-    "forks_count": 23
-  },
-  {
-    "full_name": "retronas/retronas",
-    "stargazers_count": 631,
-    "open_issues_count": 1,
-    "forks_count": 37
   }
 ]

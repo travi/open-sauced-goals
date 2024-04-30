@@ -1,7 +1,7 @@
 [
   {
     "full_name": "adonno/tagreader",
-    "stargazers_count": 1089,
+    "stargazers_count": 1092,
     "open_issues_count": 37,
     "forks_count": 171
   },
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 52,
-    "open_issues_count": 9,
+    "stargazers_count": 53,
+    "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 971,
-    "open_issues_count": 84,
-    "forks_count": 137
+    "stargazers_count": 974,
+    "open_issues_count": 85,
+    "forks_count": 138
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
     "stargazers_count": 106,
-    "open_issues_count": 25,
+    "open_issues_count": 24,
     "forks_count": 8
   },
   {
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10028,
-    "open_issues_count": 288,
+    "stargazers_count": 10048,
+    "open_issues_count": 289,
     "forks_count": 539
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 7334,
+    "stargazers_count": 7340,
     "open_issues_count": 245,
     "forks_count": 1311
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 441,
-    "open_issues_count": 13,
+    "stargazers_count": 444,
+    "open_issues_count": 14,
     "forks_count": 33
   },
   {
@@ -61,37 +61,37 @@
   },
   {
     "full_name": "ThomasPrior/LenovoSmartClock2",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 392,
-    "open_issues_count": 29,
-    "forks_count": 114
+    "stargazers_count": 395,
+    "open_issues_count": 30,
+    "forks_count": 116
   },
   {
     "full_name": "leofabri/hassio_appliance-status-monitor",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 12,
     "forks_count": 14
   },
   {
     "full_name": "michaelwoods/onstar2mqtt",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 11,
     "forks_count": 36
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 300,
-    "open_issues_count": 5,
-    "forks_count": 8
+    "stargazers_count": 309,
+    "open_issues_count": 7,
+    "forks_count": 9
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 220,
+    "stargazers_count": 222,
     "open_issues_count": 11,
     "forks_count": 49
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "sequoia-pgp/fast-forward",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -121,26 +121,26 @@
   },
   {
     "full_name": "43081j/ecosystem-cleanup",
-    "stargazers_count": 151,
+    "stargazers_count": 153,
     "open_issues_count": 41,
     "forks_count": 1
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 74,
-    "open_issues_count": 27,
+    "stargazers_count": 76,
+    "open_issues_count": 28,
     "forks_count": 12
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 229,
-    "open_issues_count": 51,
+    "stargazers_count": 247,
+    "open_issues_count": 52,
     "forks_count": 17
   },
   {
     "full_name": "dibdot/DoH-IP-blocklists",
-    "stargazers_count": 115,
-    "open_issues_count": 1,
+    "stargazers_count": 116,
+    "open_issues_count": 0,
     "forks_count": 28
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 788,
+    "stargazers_count": 790,
     "open_issues_count": 193,
     "forks_count": 229
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 596,
-    "open_issues_count": 1,
-    "forks_count": 35
+    "stargazers_count": 602,
+    "open_issues_count": 3,
+    "forks_count": 36
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5736,
+    "stargazers_count": 5743,
     "open_issues_count": 71,
-    "forks_count": 443
+    "forks_count": 445
   }
 ]

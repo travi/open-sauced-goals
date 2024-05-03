@@ -8,25 +8,25 @@
   {
     "full_name": "tclindner/npm-package-json-lint",
     "stargazers_count": 203,
-    "open_issues_count": 36,
+    "open_issues_count": 38,
     "forks_count": 34
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 974,
-    "open_issues_count": 85,
+    "stargazers_count": 976,
+    "open_issues_count": 82,
     "forks_count": 138
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
     "stargazers_count": 106,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 8
   },
   {
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10048,
-    "open_issues_count": 289,
+    "stargazers_count": 10056,
+    "open_issues_count": 291,
     "forks_count": 539
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 7340,
-    "open_issues_count": 245,
+    "stargazers_count": 7341,
+    "open_issues_count": 246,
     "forks_count": 1311
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 444,
-    "open_issues_count": 14,
-    "forks_count": 33
+    "stargazers_count": 446,
+    "open_issues_count": 15,
+    "forks_count": 34
   },
   {
     "full_name": "noqcks/pull-request-size",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 395,
-    "open_issues_count": 30,
-    "forks_count": 116
+    "stargazers_count": 402,
+    "open_issues_count": 21,
+    "forks_count": 117
   },
   {
     "full_name": "leofabri/hassio_appliance-status-monitor",
@@ -80,18 +80,18 @@
   {
     "full_name": "michaelwoods/onstar2mqtt",
     "stargazers_count": 100,
-    "open_issues_count": 11,
+    "open_issues_count": 15,
     "forks_count": 36
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 309,
-    "open_issues_count": 7,
-    "forks_count": 9
+    "stargazers_count": 319,
+    "open_issues_count": 6,
+    "forks_count": 10
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 11,
     "forks_count": 49
   },
@@ -104,7 +104,7 @@
   {
     "full_name": "GollumDom/addon-repository",
     "stargazers_count": 18,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1597,
+    "stargazers_count": 1598,
     "open_issues_count": 102,
     "forks_count": 193
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 76,
-    "open_issues_count": 28,
+    "stargazers_count": 78,
+    "open_issues_count": 29,
     "forks_count": 12
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 247,
-    "open_issues_count": 52,
+    "stargazers_count": 254,
+    "open_issues_count": 54,
     "forks_count": 17
   },
   {
@@ -158,7 +158,7 @@
   {
     "full_name": "Ezard/semantic-prs",
     "stargazers_count": 105,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 11
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 602,
-    "open_issues_count": 3,
+    "stargazers_count": 605,
+    "open_issues_count": 2,
     "forks_count": 36
   },
   {
     "full_name": "badaix/snapcast",
-    "stargazers_count": 5743,
-    "open_issues_count": 71,
+    "stargazers_count": 5749,
+    "open_issues_count": 73,
     "forks_count": 445
   }
 ]

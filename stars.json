@@ -1,31 +1,31 @@
 [
   {
     "full_name": "grafana/github-datasource",
-    "stargazers_count": 220,
-    "open_issues_count": 53,
+    "stargazers_count": 221,
+    "open_issues_count": 55,
     "forks_count": 52
   },
   {
     "full_name": "adonno/tagreader",
-    "stargazers_count": 1093,
+    "stargazers_count": 1098,
     "open_issues_count": 37,
-    "forks_count": 170
+    "forks_count": 171
   },
   {
     "full_name": "tclindner/npm-package-json-lint",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 42,
-    "forks_count": 34
+    "forks_count": 33
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 58,
-    "open_issues_count": 7,
+    "stargazers_count": 60,
+    "open_issues_count": 10,
     "forks_count": 5
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 984,
+    "stargazers_count": 987,
     "open_issues_count": 86,
     "forks_count": 137
   },
@@ -43,27 +43,27 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10101,
-    "open_issues_count": 294,
-    "forks_count": 542
+    "stargazers_count": 10125,
+    "open_issues_count": 296,
+    "forks_count": 543
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 7347,
-    "open_issues_count": 245,
+    "stargazers_count": 7348,
+    "open_issues_count": 246,
     "forks_count": 1311
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 457,
-    "open_issues_count": 16,
+    "stargazers_count": 470,
+    "open_issues_count": 7,
     "forks_count": 35
   },
   {
     "full_name": "noqcks/pull-request-size",
-    "stargazers_count": 150,
+    "stargazers_count": 152,
     "open_issues_count": 4,
-    "forks_count": 46
+    "forks_count": 38
   },
   {
     "full_name": "ThomasPrior/LenovoSmartClock2",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 413,
+    "stargazers_count": 416,
     "open_issues_count": 16,
-    "forks_count": 119
+    "forks_count": 120
   },
   {
     "full_name": "leofabri/hassio_appliance-status-monitor",
     "stargazers_count": 216,
-    "open_issues_count": 12,
-    "forks_count": 14
+    "open_issues_count": 14,
+    "forks_count": 15
   },
   {
     "full_name": "michaelwoods/onstar2mqtt",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 331,
+    "stargazers_count": 337,
     "open_issues_count": 7,
     "forks_count": 11
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 12,
     "forks_count": 50
   },
@@ -109,57 +109,57 @@
   },
   {
     "full_name": "GollumDom/addon-repository",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "sequoia-pgp/fast-forward",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1600,
+    "stargazers_count": 1603,
     "open_issues_count": 102,
     "forks_count": 193
   },
   {
     "full_name": "43081j/ecosystem-cleanup",
     "stargazers_count": 153,
-    "open_issues_count": 43,
+    "open_issues_count": 44,
     "forks_count": 1
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 79,
-    "open_issues_count": 24,
+    "stargazers_count": 81,
+    "open_issues_count": 26,
     "forks_count": 12
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 276,
-    "open_issues_count": 49,
+    "stargazers_count": 283,
+    "open_issues_count": 54,
     "forks_count": 17
   },
   {
     "full_name": "dibdot/DoH-IP-blocklists",
-    "stargazers_count": 117,
+    "stargazers_count": 120,
     "open_issues_count": 0,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "github/cleanowners",
     "stargazers_count": 92,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 793,
+    "stargazers_count": 794,
     "open_issues_count": 193,
-    "forks_count": 231
+    "forks_count": 232
   },
   {
     "full_name": "Ezard/semantic-prs",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ChuckPa/PlexDBRepair",
-    "stargazers_count": 616,
-    "open_issues_count": 2,
+    "stargazers_count": 626,
+    "open_issues_count": 1,
     "forks_count": 36
   }
 ]

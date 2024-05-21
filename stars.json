@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "foriequal0/pod-graceful-drain",
+    "stargazers_count": 236,
+    "open_issues_count": 8,
+    "forks_count": 16
+  },
+  {
     "full_name": "zheksoon/dioma",
-    "stargazers_count": 199,
+    "stargazers_count": 205,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "grafana/github-datasource",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 56,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "adonno/tagreader",
-    "stargazers_count": 1099,
-    "open_issues_count": 37,
+    "stargazers_count": 1100,
+    "open_issues_count": 39,
     "forks_count": 171
   },
   {
@@ -25,20 +31,20 @@
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 62,
+    "stargazers_count": 65,
     "open_issues_count": 10,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 989,
+    "stargazers_count": 994,
     "open_issues_count": 88,
     "forks_count": 137
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
     "stargazers_count": 108,
-    "open_issues_count": 27,
+    "open_issues_count": 25,
     "forks_count": 8
   },
   {
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10148,
-    "open_issues_count": 285,
+    "stargazers_count": 10164,
+    "open_issues_count": 276,
     "forks_count": 543
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 7354,
+    "stargazers_count": 7359,
     "open_issues_count": 248,
     "forks_count": 1311
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 471,
-    "open_issues_count": 1,
-    "forks_count": 36
+    "stargazers_count": 476,
+    "open_issues_count": 6,
+    "forks_count": 37
   },
   {
     "full_name": "noqcks/pull-request-size",
@@ -74,18 +80,18 @@
   {
     "full_name": "ThomasPrior/LenovoSmartClock2",
     "stargazers_count": 63,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 417,
+    "stargazers_count": 423,
     "open_issues_count": 17,
     "forks_count": 120
   },
   {
     "full_name": "leofabri/hassio_appliance-status-monitor",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 14,
     "forks_count": 15
   },
@@ -93,17 +99,17 @@
     "full_name": "michaelwoods/onstar2mqtt",
     "stargazers_count": 100,
     "open_issues_count": 15,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 340,
+    "stargazers_count": 346,
     "open_issues_count": 7,
     "forks_count": 11
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 227,
+    "stargazers_count": 228,
     "open_issues_count": 12,
     "forks_count": 51
   },
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "sequoia-pgp/fast-forward",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -139,14 +145,14 @@
   },
   {
     "full_name": "idaho/hassio-trash-card",
-    "stargazers_count": 84,
-    "open_issues_count": 26,
+    "stargazers_count": 86,
+    "open_issues_count": 27,
     "forks_count": 12
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 286,
-    "open_issues_count": 54,
+    "stargazers_count": 292,
+    "open_issues_count": 56,
     "forks_count": 18
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 794,
-    "open_issues_count": 193,
-    "forks_count": 232
+    "stargazers_count": 796,
+    "open_issues_count": 194,
+    "forks_count": 231
   },
   {
     "full_name": "Ezard/semantic-prs",
     "stargazers_count": 106,
     "open_issues_count": 10,
     "forks_count": 11
-  },
-  {
-    "full_name": "corporategoth/ha-powerpetdoor",
-    "stargazers_count": 15,
-    "open_issues_count": 2,
-    "forks_count": 4
   }
 ]

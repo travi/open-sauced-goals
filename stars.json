@@ -1,27 +1,27 @@
 [
   {
     "full_name": "foriequal0/pod-graceful-drain",
-    "stargazers_count": 236,
+    "stargazers_count": 238,
     "open_issues_count": 8,
     "forks_count": 16
   },
   {
     "full_name": "zheksoon/dioma",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "grafana/github-datasource",
     "stargazers_count": 222,
-    "open_issues_count": 56,
+    "open_issues_count": 48,
     "forks_count": 53
   },
   {
     "full_name": "adonno/tagreader",
-    "stargazers_count": 1100,
+    "stargazers_count": 1102,
     "open_issues_count": 39,
-    "forks_count": 171
+    "forks_count": 172
   },
   {
     "full_name": "tclindner/npm-package-json-lint",
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 65,
-    "open_issues_count": 10,
+    "stargazers_count": 68,
+    "open_issues_count": 14,
     "forks_count": 6
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 994,
-    "open_issues_count": 88,
-    "forks_count": 137
+    "stargazers_count": 996,
+    "open_issues_count": 83,
+    "forks_count": 138
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
     "stargazers_count": 108,
-    "open_issues_count": 25,
+    "open_issues_count": 22,
     "forks_count": 8
   },
   {
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10164,
-    "open_issues_count": 276,
-    "forks_count": 543
+    "stargazers_count": 10175,
+    "open_issues_count": 278,
+    "forks_count": 545
   },
   {
     "full_name": "gruntwork-io/terratest",
     "stargazers_count": 7359,
-    "open_issues_count": 248,
+    "open_issues_count": 247,
     "forks_count": 1311
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 476,
-    "open_issues_count": 6,
-    "forks_count": 37
+    "stargazers_count": 486,
+    "open_issues_count": 5,
+    "forks_count": 38
   },
   {
     "full_name": "noqcks/pull-request-size",
     "stargazers_count": 152,
-    "open_issues_count": 4,
+    "open_issues_count": 6,
     "forks_count": 38
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 423,
-    "open_issues_count": 17,
+    "stargazers_count": 427,
+    "open_issues_count": 18,
     "forks_count": 120
   },
   {
     "full_name": "leofabri/hassio_appliance-status-monitor",
     "stargazers_count": 218,
-    "open_issues_count": 14,
-    "forks_count": 15
+    "open_issues_count": 15,
+    "forks_count": 16
   },
   {
     "full_name": "michaelwoods/onstar2mqtt",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 228,
+    "stargazers_count": 230,
     "open_issues_count": 12,
     "forks_count": 51
   },
@@ -121,26 +121,26 @@
   },
   {
     "full_name": "GollumDom/addon-repository",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "sequoia-pgp/fast-forward",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1607,
+    "stargazers_count": 1608,
     "open_issues_count": 102,
     "forks_count": 193
   },
   {
     "full_name": "43081j/ecosystem-cleanup",
     "stargazers_count": 155,
-    "open_issues_count": 43,
+    "open_issues_count": 44,
     "forks_count": 1
   },
   {
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 292,
-    "open_issues_count": 56,
+    "stargazers_count": 295,
+    "open_issues_count": 49,
     "forks_count": 18
   },
   {
     "full_name": "dibdot/DoH-IP-blocklists",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 0,
     "forks_count": 31
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "EPMatt/awesome-ha-blueprints",
-    "stargazers_count": 796,
+    "stargazers_count": 798,
     "open_issues_count": 194,
     "forks_count": 231
   },
   {
     "full_name": "Ezard/semantic-prs",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 10,
     "forks_count": 11
   }

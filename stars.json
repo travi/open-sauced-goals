@@ -1,7 +1,7 @@
 [
   {
     "full_name": "f1xpl/openauto",
-    "stargazers_count": 2382,
+    "stargazers_count": 2384,
     "open_issues_count": 37,
     "forks_count": 433
   },
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "zheksoon/dioma",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "grafana/github-datasource",
     "stargazers_count": 222,
-    "open_issues_count": 49,
+    "open_issues_count": 48,
     "forks_count": 53
   },
   {
     "full_name": "adonno/tagreader",
-    "stargazers_count": 1102,
-    "open_issues_count": 39,
+    "stargazers_count": 1103,
+    "open_issues_count": 40,
     "forks_count": 172
   },
   {
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 69,
+    "stargazers_count": 71,
     "open_issues_count": 15,
     "forks_count": 6
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 997,
+    "stargazers_count": 998,
     "open_issues_count": 87,
     "forks_count": 139
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
-    "stargazers_count": 108,
+    "stargazers_count": 111,
     "open_issues_count": 22,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "alice-health/ky-hooks-change-case",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10218,
-    "open_issues_count": 281,
-    "forks_count": 548
+    "stargazers_count": 10272,
+    "open_issues_count": 283,
+    "forks_count": 549
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 7358,
+    "stargazers_count": 7362,
     "open_issues_count": 247,
-    "forks_count": 1312
+    "forks_count": 1314
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 502,
-    "open_issues_count": 6,
-    "forks_count": 38
+    "stargazers_count": 514,
+    "open_issues_count": 2,
+    "forks_count": 39
   },
   {
     "full_name": "noqcks/pull-request-size",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 430,
+    "stargazers_count": 432,
     "open_issues_count": 19,
     "forks_count": 122
   },
@@ -110,24 +110,24 @@
   {
     "full_name": "michaelwoods/onstar2mqtt",
     "stargazers_count": 101,
-    "open_issues_count": 15,
+    "open_issues_count": 12,
     "forks_count": 37
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 348,
+    "stargazers_count": 351,
     "open_issues_count": 7,
     "forks_count": 11
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 12,
     "forks_count": 51
   },
   {
     "full_name": "stevejenkins/pihole-cloudsync",
-    "stargazers_count": 514,
+    "stargazers_count": 515,
     "open_issues_count": 23,
     "forks_count": 106
   },
@@ -135,7 +135,7 @@
     "full_name": "GollumDom/addon-repository",
     "stargazers_count": 22,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "sequoia-pgp/fast-forward",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1611,
+    "stargazers_count": 1612,
     "open_issues_count": 102,
     "forks_count": 193
   },
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 298,
-    "open_issues_count": 53,
+    "stargazers_count": 300,
+    "open_issues_count": 54,
     "forks_count": 18
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "github/cleanowners",
-    "stargazers_count": 94,
+    "stargazers_count": 96,
     "open_issues_count": 6,
     "forks_count": 6
   }

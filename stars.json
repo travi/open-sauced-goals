@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "actions/attest-sbom",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "omnibor/spec",
+    "stargazers_count": 23,
+    "open_issues_count": 12,
+    "forks_count": 3
+  },
+  {
     "full_name": "LelandSindt/cullAssistant",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -19,7 +31,7 @@
   },
   {
     "full_name": "foriequal0/pod-graceful-drain",
-    "stargazers_count": 238,
+    "stargazers_count": 239,
     "open_issues_count": 8,
     "forks_count": 16
   },
@@ -31,13 +43,13 @@
   },
   {
     "full_name": "grafana/github-datasource",
-    "stargazers_count": 223,
-    "open_issues_count": 47,
+    "stargazers_count": 224,
+    "open_issues_count": 49,
     "forks_count": 53
   },
   {
     "full_name": "adonno/tagreader",
-    "stargazers_count": 1105,
+    "stargazers_count": 1108,
     "open_issues_count": 40,
     "forks_count": 173
   },
@@ -49,19 +61,19 @@
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 74,
-    "open_issues_count": 17,
+    "stargazers_count": 77,
+    "open_issues_count": 14,
     "forks_count": 6
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 1004,
-    "open_issues_count": 90,
+    "stargazers_count": 1006,
+    "open_issues_count": 91,
     "forks_count": 139
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 22,
     "forks_count": 9
   },
@@ -73,8 +85,8 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10293,
-    "open_issues_count": 286,
+    "stargazers_count": 10322,
+    "open_issues_count": 287,
     "forks_count": 551
   },
   {
@@ -85,8 +97,8 @@
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 520,
-    "open_issues_count": 3,
+    "stargazers_count": 524,
+    "open_issues_count": 1,
     "forks_count": 40
   },
   {
@@ -103,7 +115,7 @@
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 433,
+    "stargazers_count": 437,
     "open_issues_count": 19,
     "forks_count": 122
   },
@@ -116,24 +128,24 @@
   {
     "full_name": "michaelwoods/onstar2mqtt",
     "stargazers_count": 101,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 37
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 358,
+    "stargazers_count": 362,
     "open_issues_count": 7,
-    "forks_count": 13
+    "forks_count": 12
   },
   {
     "full_name": "zoubingwu/msw-auto-mock",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 12,
     "forks_count": 51
   },
   {
     "full_name": "stevejenkins/pihole-cloudsync",
-    "stargazers_count": 515,
+    "stargazers_count": 514,
     "open_issues_count": 23,
     "forks_count": 106
   },
@@ -151,14 +163,14 @@
   },
   {
     "full_name": "andrewjfreyer/monitor",
-    "stargazers_count": 1612,
+    "stargazers_count": 1611,
     "open_issues_count": 102,
     "forks_count": 193
   },
   {
     "full_name": "43081j/ecosystem-cleanup",
     "stargazers_count": 157,
-    "open_issues_count": 44,
+    "open_issues_count": 43,
     "forks_count": 1
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 86,
     "open_issues_count": 30,
     "forks_count": 12
-  },
-  {
-    "full_name": "sbondCo/Watcharr",
-    "stargazers_count": 302,
-    "open_issues_count": 55,
-    "forks_count": 18
-  },
-  {
-    "full_name": "dibdot/DoH-IP-blocklists",
-    "stargazers_count": 123,
-    "open_issues_count": 0,
-    "forks_count": 30
   }
 ]

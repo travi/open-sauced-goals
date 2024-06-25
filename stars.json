@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Luligu/matterbridge",
-    "stargazers_count": 82,
-    "open_issues_count": 1,
-    "forks_count": 10
+    "stargazers_count": 90,
+    "open_issues_count": 3,
+    "forks_count": 11
   },
   {
     "full_name": "actions/languageservices",
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 47607,
-    "open_issues_count": 692,
+    "stargazers_count": 47697,
+    "open_issues_count": 679,
     "forks_count": 1715
   },
   {
@@ -32,7 +32,7 @@
   {
     "full_name": "actions/attest-sbom",
     "stargazers_count": 9,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "f1xpl/openauto",
-    "stargazers_count": 2395,
+    "stargazers_count": 2397,
     "open_issues_count": 37,
-    "forks_count": 433
+    "forks_count": 432
   },
   {
     "full_name": "dcneiner/dougneiner.com",
@@ -67,44 +67,44 @@
   },
   {
     "full_name": "zheksoon/dioma",
-    "stargazers_count": 216,
+    "stargazers_count": 217,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "grafana/github-datasource",
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 48,
     "forks_count": 54
   },
   {
     "full_name": "adonno/tagreader",
-    "stargazers_count": 1118,
+    "stargazers_count": 1121,
     "open_issues_count": 38,
     "forks_count": 175
   },
   {
     "full_name": "tclindner/npm-package-json-lint",
-    "stargazers_count": 213,
-    "open_issues_count": 34,
+    "stargazers_count": 214,
+    "open_issues_count": 37,
     "forks_count": 33
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 86,
-    "open_issues_count": 19,
+    "stargazers_count": 92,
+    "open_issues_count": 21,
     "forks_count": 6
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 1011,
-    "open_issues_count": 88,
-    "forks_count": 139
+    "stargazers_count": 1013,
+    "open_issues_count": 91,
+    "forks_count": 140
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
-    "stargazers_count": 116,
-    "open_issues_count": 20,
+    "stargazers_count": 117,
+    "open_issues_count": 23,
     "forks_count": 9
   },
   {
@@ -115,20 +115,20 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10417,
+    "stargazers_count": 10440,
     "open_issues_count": 285,
-    "forks_count": 554
+    "forks_count": 555
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 7388,
-    "open_issues_count": 249,
-    "forks_count": 1316
+    "stargazers_count": 7389,
+    "open_issues_count": 252,
+    "forks_count": 1319
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 544,
-    "open_issues_count": 2,
+    "stargazers_count": 552,
+    "open_issues_count": 4,
     "forks_count": 40
   },
   {
@@ -146,8 +146,8 @@
   {
     "full_name": "chirpstack/chirpstack",
     "stargazers_count": 449,
-    "open_issues_count": 23,
-    "forks_count": 127
+    "open_issues_count": 22,
+    "forks_count": 129
   },
   {
     "full_name": "leofabri/hassio_appliance-status-monitor",
@@ -158,12 +158,12 @@
   {
     "full_name": "michaelwoods/onstar2mqtt",
     "stargazers_count": 101,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 37
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 388,
+    "stargazers_count": 392,
     "open_issues_count": 7,
     "forks_count": 12
   },

@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "janbiasi/rollup-plugin-sbom",
+    "stargazers_count": 6,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
     "full_name": "mozilla/hawk",
     "stargazers_count": 1903,
     "open_issues_count": 0,
@@ -13,38 +19,38 @@
   },
   {
     "full_name": "marcofugaro/browserslist-to-esbuild",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "github/ruleset-recipes",
-    "stargazers_count": 92,
+    "stargazers_count": 94,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "Luligu/matterbridge",
-    "stargazers_count": 121,
-    "open_issues_count": 3,
+    "stargazers_count": 125,
+    "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "actions/languageservices",
     "stargazers_count": 57,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 22
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 48445,
-    "open_issues_count": 684,
-    "forks_count": 1739
+    "stargazers_count": 48591,
+    "open_issues_count": 689,
+    "forks_count": 1737
   },
   {
     "full_name": "ngocjohn/vehicle-info-card",
-    "stargazers_count": 10,
-    "open_issues_count": 1,
+    "stargazers_count": 11,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "f1xpl/openauto",
-    "stargazers_count": 2407,
+    "stargazers_count": 2408,
     "open_issues_count": 37,
     "forks_count": 433
   },
@@ -91,44 +97,44 @@
   },
   {
     "full_name": "zheksoon/dioma",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 5,
     "forks_count": 3
   },
   {
     "full_name": "grafana/github-datasource",
     "stargazers_count": 227,
-    "open_issues_count": 47,
+    "open_issues_count": 48,
     "forks_count": 54
   },
   {
     "full_name": "adonno/tagreader",
     "stargazers_count": 1136,
-    "open_issues_count": 40,
+    "open_issues_count": 42,
     "forks_count": 176
   },
   {
     "full_name": "tclindner/npm-package-json-lint",
     "stargazers_count": 217,
-    "open_issues_count": 37,
+    "open_issues_count": 39,
     "forks_count": 33
   },
   {
     "full_name": "agittins/bermuda",
-    "stargazers_count": 275,
-    "open_issues_count": 18,
+    "stargazers_count": 291,
+    "open_issues_count": 20,
     "forks_count": 7
   },
   {
     "full_name": "ESPresense/ESPresense",
-    "stargazers_count": 1025,
-    "open_issues_count": 90,
+    "stargazers_count": 1029,
+    "open_issues_count": 87,
     "forks_count": 143
   },
   {
     "full_name": "ESPresense/ESPresense-companion",
     "stargazers_count": 121,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 9
   },
   {
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 10575,
-    "open_issues_count": 284,
-    "forks_count": 559
+    "stargazers_count": 10597,
+    "open_issues_count": 281,
+    "forks_count": 561
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 7405,
+    "stargazers_count": 7406,
     "open_issues_count": 249,
-    "forks_count": 1319
+    "forks_count": 1318
   },
   {
     "full_name": "Threadfin/Threadfin",
-    "stargazers_count": 589,
+    "stargazers_count": 590,
     "open_issues_count": 0,
     "forks_count": 42
   },
   {
     "full_name": "noqcks/pull-request-size",
     "stargazers_count": 154,
-    "open_issues_count": 4,
+    "open_issues_count": 7,
     "forks_count": 38
   },
   {
     "full_name": "ThomasPrior/LenovoSmartClock2",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "chirpstack/chirpstack",
-    "stargazers_count": 468,
-    "open_issues_count": 25,
-    "forks_count": 133
-  },
-  {
-    "full_name": "leofabri/hassio_appliance-status-monitor",
-    "stargazers_count": 226,
-    "open_issues_count": 15,
-    "forks_count": 16
+    "stargazers_count": 470,
+    "open_issues_count": 24,
+    "forks_count": 134
   }
 ]

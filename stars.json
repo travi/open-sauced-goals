@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "tmelliottjr/octokit-plugin-unique-issue",
+    "stargazers_count": 3,
+    "open_issues_count": 6,
+    "forks_count": 0
+  },
+  {
+    "full_name": "WJDDesigns/Ultra-Vehicle-Card",
+    "stargazers_count": 76,
+    "open_issues_count": 11,
+    "forks_count": 5
+  },
+  {
     "full_name": "shmuelzon/home-assistant-floor-plan",
-    "stargazers_count": 221,
+    "stargazers_count": 224,
     "open_issues_count": 7,
     "forks_count": 6
   },
@@ -21,12 +33,12 @@
     "full_name": "tronikos/esphome-magnetometer-water-gas-meter",
     "stargazers_count": 53,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "bemasher/rtlamr",
-    "stargazers_count": 2171,
-    "open_issues_count": 17,
+    "stargazers_count": 2173,
+    "open_issues_count": 18,
     "forks_count": 247
   },
   {
@@ -43,25 +55,25 @@
   },
   {
     "full_name": "Olen/homeassistant-plant",
-    "stargazers_count": 261,
+    "stargazers_count": 270,
     "open_issues_count": 12,
     "forks_count": 22
   },
   {
     "full_name": "Olen/home-assistant-openplantbook",
-    "stargazers_count": 103,
-    "open_issues_count": 3,
+    "stargazers_count": 113,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "licensee/licensee",
-    "stargazers_count": 766,
-    "open_issues_count": 25,
-    "forks_count": 261
+    "stargazers_count": 768,
+    "open_issues_count": 24,
+    "forks_count": 262
   },
   {
     "full_name": "shannonhochkins/ha-component-kit",
-    "stargazers_count": 567,
+    "stargazers_count": 569,
     "open_issues_count": 1,
     "forks_count": 28
   },
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "mentalilll/ha-vpd-chart",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -86,7 +98,7 @@
   {
     "full_name": "denysdovhan/ha-check-weather",
     "stargazers_count": 36,
-    "open_issues_count": 6,
+    "open_issues_count": 4,
     "forks_count": 3
   },
   {
@@ -97,13 +109,13 @@
   },
   {
     "full_name": "mozilla/hawk",
-    "stargazers_count": 1903,
+    "stargazers_count": 1904,
     "open_issues_count": 0,
     "forks_count": 168
   },
   {
     "full_name": "pre-commit-ci/pre-commit.ci",
-    "stargazers_count": 41,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -115,33 +127,33 @@
   },
   {
     "full_name": "github/ruleset-recipes",
-    "stargazers_count": 110,
+    "stargazers_count": 109,
     "open_issues_count": 0,
     "forks_count": 24
   },
   {
     "full_name": "Luligu/matterbridge",
-    "stargazers_count": 139,
-    "open_issues_count": 3,
+    "stargazers_count": 140,
+    "open_issues_count": 4,
     "forks_count": 13
   },
   {
     "full_name": "actions/languageservices",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 18,
     "forks_count": 23
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 49223,
-    "open_issues_count": 714,
-    "forks_count": 1758
+    "stargazers_count": 49349,
+    "open_issues_count": 724,
+    "forks_count": 1756
   },
   {
     "full_name": "ngocjohn/vehicle-info-card",
-    "stargazers_count": 12,
-    "open_issues_count": 1,
-    "forks_count": 3
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 4
   },
   {
     "full_name": "onlinux/OWL-CM180",
@@ -165,18 +177,6 @@
     "full_name": "LelandSindt/cullAssistant",
     "stargazers_count": 1,
     "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "f1xpl/openauto",
-    "stargazers_count": 2421,
-    "open_issues_count": 37,
-    "forks_count": 436
-  },
-  {
-    "full_name": "dcneiner/dougneiner.com",
-    "stargazers_count": 1,
-    "open_issues_count": 2,
     "forks_count": 0
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "recyclarr/recyclarr",
+    "stargazers_count": 1072,
+    "open_issues_count": 14,
+    "forks_count": 30
+  },
+  {
     "full_name": "Commifreak/unraid-appdata.backup",
     "stargazers_count": 20,
     "open_issues_count": 13,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "greghesp/ha-bambulab",
-    "stargazers_count": 846,
-    "open_issues_count": 68,
-    "forks_count": 68
+    "stargazers_count": 855,
+    "open_issues_count": 71,
+    "forks_count": 69
   },
   {
     "full_name": "ngocjohn/lunar-phase-card",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "ngocjohn/vehicle-status-card",
-    "stargazers_count": 20,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -31,43 +37,43 @@
   },
   {
     "full_name": "github/GreenSoftwareDirectory",
-    "stargazers_count": 75,
+    "stargazers_count": 80,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "phrz/lg-washer-dryer-card",
-    "stargazers_count": 295,
+    "stargazers_count": 298,
     "open_issues_count": 6,
     "forks_count": 55
   },
   {
     "full_name": "jseidl/hass-magic_areas",
     "stargazers_count": 258,
-    "open_issues_count": 7,
+    "open_issues_count": 10,
     "forks_count": 28
   },
   {
     "full_name": "MiguelAngelLV/ha-nintendo-switch",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 7834,
+    "stargazers_count": 7838,
     "open_issues_count": 128,
     "forks_count": 414
   },
   {
     "full_name": "pmongloid/flipdown-timer-card",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 12,
     "forks_count": 9
   },
   {
     "full_name": "rianadon/timer-bar-card",
-    "stargazers_count": 367,
+    "stargazers_count": 368,
     "open_issues_count": 56,
     "forks_count": 15
   },
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "ptrsr/pi-ci",
-    "stargazers_count": 639,
+    "stargazers_count": 641,
     "open_issues_count": 5,
     "forks_count": 33
   },
   {
     "full_name": "nandyalu/trailarr",
-    "stargazers_count": 99,
-    "open_issues_count": 8,
+    "stargazers_count": 101,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "eslint-stylistic/eslint-stylistic",
-    "stargazers_count": 1365,
-    "open_issues_count": 90,
-    "forks_count": 92
+    "stargazers_count": 1367,
+    "open_issues_count": 91,
+    "forks_count": 93
   },
   {
     "full_name": "stefanbuck/cookiecutter-template",
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "nisargjhaveri/WirelessAndroidAutoDongle",
-    "stargazers_count": 637,
-    "open_issues_count": 54,
+    "stargazers_count": 649,
+    "open_issues_count": 58,
     "forks_count": 69
   },
   {
     "full_name": "meatpiHQ/wican-fw",
-    "stargazers_count": 291,
+    "stargazers_count": 293,
     "open_issues_count": 103,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "tmelliottjr/octokit-plugin-unique-issue",
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "WJDDesigns/Ultra-Vehicle-Card",
-    "stargazers_count": 148,
-    "open_issues_count": 7,
-    "forks_count": 16
+    "stargazers_count": 159,
+    "open_issues_count": 6,
+    "forks_count": 17
   },
   {
     "full_name": "shmuelzon/home-assistant-floor-plan",
-    "stargazers_count": 256,
+    "stargazers_count": 257,
     "open_issues_count": 6,
     "forks_count": 7
   },
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "tronikos/esphome-magnetometer-water-gas-meter",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 1,
-    "forks_count": 15
+    "forks_count": 18
   },
   {
     "full_name": "bemasher/rtlamr",
-    "stargazers_count": 2198,
+    "stargazers_count": 2199,
     "open_issues_count": 19,
     "forks_count": 248
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "thomasloven/lovelace-flower-card",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 11,
     "forks_count": 37
-  },
-  {
-    "full_name": "Olen/homeassistant-plant",
-    "stargazers_count": 299,
-    "open_issues_count": 14,
-    "forks_count": 22
   }
 ]

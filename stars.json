@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "domalab/ha-unraid",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "Stengo/DeskPad",
-    "stargazers_count": 4392,
-    "open_issues_count": 17,
-    "forks_count": 75
+    "stargazers_count": 4702,
+    "open_issues_count": 18,
+    "forks_count": 79
   },
   {
     "full_name": "travissmithv1/dora-metrics-example",
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "bridgecrewio/yor",
-    "stargazers_count": 822,
+    "stargazers_count": 824,
     "open_issues_count": 11,
     "forks_count": 123
   },
   {
     "full_name": "recyclarr/recyclarr",
-    "stargazers_count": 1091,
-    "open_issues_count": 15,
-    "forks_count": 30
+    "stargazers_count": 1095,
+    "open_issues_count": 16,
+    "forks_count": 31
   },
   {
     "full_name": "Commifreak/unraid-appdata.backup",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "greghesp/ha-bambulab",
-    "stargazers_count": 884,
+    "stargazers_count": 889,
     "open_issues_count": 81,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "ngocjohn/lunar-phase-card",
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "ngocjohn/vehicle-status-card",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -61,21 +67,21 @@
   },
   {
     "full_name": "github/GreenSoftwareDirectory",
-    "stargazers_count": 279,
+    "stargazers_count": 281,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "phrz/lg-washer-dryer-card",
-    "stargazers_count": 305,
-    "open_issues_count": 6,
+    "stargazers_count": 306,
+    "open_issues_count": 7,
     "forks_count": 56
   },
   {
     "full_name": "jseidl/hass-magic_areas",
-    "stargazers_count": 266,
-    "open_issues_count": 11,
-    "forks_count": 28
+    "stargazers_count": 268,
+    "open_issues_count": 8,
+    "forks_count": 29
   },
   {
     "full_name": "MiguelAngelLV/ha-nintendo-switch",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 7881,
+    "stargazers_count": 7888,
     "open_issues_count": 130,
     "forks_count": 418
   },
@@ -97,8 +103,8 @@
   },
   {
     "full_name": "rianadon/timer-bar-card",
-    "stargazers_count": 372,
-    "open_issues_count": 60,
+    "stargazers_count": 374,
+    "open_issues_count": 59,
     "forks_count": 15
   },
   {
@@ -109,27 +115,27 @@
   },
   {
     "full_name": "github-community-projects/private-mirrors",
-    "stargazers_count": 130,
-    "open_issues_count": 26,
+    "stargazers_count": 132,
+    "open_issues_count": 25,
     "forks_count": 17
   },
   {
     "full_name": "ptrsr/pi-ci",
-    "stargazers_count": 651,
+    "stargazers_count": 655,
     "open_issues_count": 5,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "nandyalu/trailarr",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 9,
     "forks_count": 7
   },
   {
     "full_name": "eslint-stylistic/eslint-stylistic",
-    "stargazers_count": 1388,
-    "open_issues_count": 91,
-    "forks_count": 94
+    "stargazers_count": 1392,
+    "open_issues_count": 92,
+    "forks_count": 96
   },
   {
     "full_name": "stefanbuck/cookiecutter-template",
@@ -139,14 +145,14 @@
   },
   {
     "full_name": "nisargjhaveri/WirelessAndroidAutoDongle",
-    "stargazers_count": 677,
-    "open_issues_count": 61,
+    "stargazers_count": 679,
+    "open_issues_count": 62,
     "forks_count": 77
   },
   {
     "full_name": "meatpiHQ/wican-fw",
-    "stargazers_count": 301,
-    "open_issues_count": 112,
+    "stargazers_count": 302,
+    "open_issues_count": 109,
     "forks_count": 60
   },
   {
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "WJDDesigns/Ultra-Vehicle-Card",
-    "stargazers_count": 166,
-    "open_issues_count": 1,
+    "stargazers_count": 167,
+    "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "shmuelzon/home-assistant-floor-plan",
-    "stargazers_count": 269,
+    "stargazers_count": 279,
     "open_issues_count": 6,
     "forks_count": 8
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 22,
     "open_issues_count": 6,
     "forks_count": 2
-  },
-  {
-    "full_name": "scalvert/jest-to-vitest",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

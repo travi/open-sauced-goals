@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "gcormier/esphome-pressure",
+    "stargazers_count": 46,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "PRProd/HA-Firemote",
-    "stargazers_count": 477,
-    "open_issues_count": 14,
+    "stargazers_count": 481,
+    "open_issues_count": 15,
     "forks_count": 70
   },
   {
     "full_name": "domalab/ha-unraid",
-    "stargazers_count": 5,
-    "open_issues_count": 2,
+    "stargazers_count": 9,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "Stengo/DeskPad",
-    "stargazers_count": 4934,
+    "stargazers_count": 5017,
     "open_issues_count": 19,
-    "forks_count": 82
+    "forks_count": 84
   },
   {
     "full_name": "travissmithv1/dora-metrics-example",
@@ -27,17 +33,17 @@
     "full_name": "ataylorme/eslint-annotate-action",
     "stargazers_count": 97,
     "open_issues_count": 6,
-    "forks_count": 34
+    "forks_count": 33
   },
   {
     "full_name": "bridgecrewio/yor",
-    "stargazers_count": 824,
+    "stargazers_count": 825,
     "open_issues_count": 11,
     "forks_count": 123
   },
   {
     "full_name": "recyclarr/recyclarr",
-    "stargazers_count": 1107,
+    "stargazers_count": 1109,
     "open_issues_count": 15,
     "forks_count": 31
   },
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "greghesp/ha-bambulab",
-    "stargazers_count": 905,
-    "open_issues_count": 64,
-    "forks_count": 73
+    "stargazers_count": 921,
+    "open_issues_count": 52,
+    "forks_count": 75
   },
   {
     "full_name": "ngocjohn/lunar-phase-card",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "github/GreenSoftwareDirectory",
-    "stargazers_count": 281,
-    "open_issues_count": 1,
+    "stargazers_count": 279,
+    "open_issues_count": 0,
     "forks_count": 16
   },
   {
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "jseidl/hass-magic_areas",
-    "stargazers_count": 268,
+    "stargazers_count": 269,
     "open_issues_count": 8,
-    "forks_count": 29
+    "forks_count": 28
   },
   {
     "full_name": "MiguelAngelLV/ha-nintendo-switch",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 7892,
-    "open_issues_count": 130,
-    "forks_count": 417
+    "stargazers_count": 7897,
+    "open_issues_count": 134,
+    "forks_count": 420
   },
   {
     "full_name": "pmongloid/flipdown-timer-card",
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "rianadon/timer-bar-card",
-    "stargazers_count": 376,
-    "open_issues_count": 60,
+    "stargazers_count": 377,
+    "open_issues_count": 61,
     "forks_count": 15
   },
   {
@@ -121,26 +127,26 @@
   },
   {
     "full_name": "github-community-projects/private-mirrors",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 29,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "ptrsr/pi-ci",
-    "stargazers_count": 658,
+    "stargazers_count": 659,
     "open_issues_count": 5,
     "forks_count": 37
   },
   {
     "full_name": "nandyalu/trailarr",
-    "stargazers_count": 106,
-    "open_issues_count": 6,
+    "stargazers_count": 107,
+    "open_issues_count": 7,
     "forks_count": 7
   },
   {
     "full_name": "eslint-stylistic/eslint-stylistic",
-    "stargazers_count": 1400,
-    "open_issues_count": 96,
+    "stargazers_count": 1410,
+    "open_issues_count": 99,
     "forks_count": 97
   },
   {
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "nisargjhaveri/WirelessAndroidAutoDongle",
-    "stargazers_count": 689,
-    "open_issues_count": 65,
-    "forks_count": 80
+    "stargazers_count": 695,
+    "open_issues_count": 67,
+    "forks_count": 82
   },
   {
     "full_name": "meatpiHQ/wican-fw",
-    "stargazers_count": 303,
-    "open_issues_count": 111,
-    "forks_count": 64
+    "stargazers_count": 304,
+    "open_issues_count": 110,
+    "forks_count": 65
   },
   {
     "full_name": "tmelliottjr/octokit-plugin-unique-issue",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "WJDDesigns/Ultra-Vehicle-Card",
-    "stargazers_count": 169,
-    "open_issues_count": 2,
+    "stargazers_count": 171,
+    "open_issues_count": 3,
     "forks_count": 17
-  },
-  {
-    "full_name": "shmuelzon/home-assistant-floor-plan",
-    "stargazers_count": 287,
-    "open_issues_count": 7,
-    "forks_count": 8
   }
 ]

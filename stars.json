@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "basbruss/adaptive-cover",
+    "stargazers_count": 101,
+    "open_issues_count": 34,
+    "forks_count": 12
+  },
+  {
+    "full_name": "github/entitlements-app",
+    "stargazers_count": 426,
+    "open_issues_count": 3,
+    "forks_count": 18
+  },
+  {
     "full_name": "dylandoamaral/uptime-card",
     "stargazers_count": 266,
     "open_issues_count": 4,
@@ -13,21 +25,21 @@
   },
   {
     "full_name": "PRProd/HA-Firemote",
-    "stargazers_count": 487,
-    "open_issues_count": 12,
+    "stargazers_count": 490,
+    "open_issues_count": 15,
     "forks_count": 70
   },
   {
     "full_name": "domalab/ha-unraid",
-    "stargazers_count": 12,
-    "open_issues_count": 7,
+    "stargazers_count": 14,
+    "open_issues_count": 9,
     "forks_count": 0
   },
   {
     "full_name": "Stengo/DeskPad",
-    "stargazers_count": 5061,
+    "stargazers_count": 5115,
     "open_issues_count": 19,
-    "forks_count": 83
+    "forks_count": 86
   },
   {
     "full_name": "travissmithv1/dora-metrics-example",
@@ -44,13 +56,13 @@
   {
     "full_name": "bridgecrewio/yor",
     "stargazers_count": 825,
-    "open_issues_count": 11,
+    "open_issues_count": 8,
     "forks_count": 123
   },
   {
     "full_name": "recyclarr/recyclarr",
-    "stargazers_count": 1118,
-    "open_issues_count": 16,
+    "stargazers_count": 1121,
+    "open_issues_count": 18,
     "forks_count": 31
   },
   {
@@ -61,19 +73,19 @@
   },
   {
     "full_name": "greghesp/ha-bambulab",
-    "stargazers_count": 936,
-    "open_issues_count": 37,
+    "stargazers_count": 944,
+    "open_issues_count": 35,
     "forks_count": 81
   },
   {
     "full_name": "ngocjohn/lunar-phase-card",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "ngocjohn/vehicle-status-card",
-    "stargazers_count": 36,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -85,14 +97,14 @@
   },
   {
     "full_name": "github/GreenSoftwareDirectory",
-    "stargazers_count": 282,
-    "open_issues_count": 0,
+    "stargazers_count": 281,
+    "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "phrz/lg-washer-dryer-card",
-    "stargazers_count": 312,
-    "open_issues_count": 7,
+    "stargazers_count": 315,
+    "open_issues_count": 5,
     "forks_count": 56
   },
   {
@@ -109,19 +121,19 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 7906,
+    "stargazers_count": 7917,
     "open_issues_count": 134,
-    "forks_count": 420
+    "forks_count": 421
   },
   {
     "full_name": "pmongloid/flipdown-timer-card",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 12,
     "forks_count": 9
   },
   {
     "full_name": "rianadon/timer-bar-card",
-    "stargazers_count": 378,
+    "stargazers_count": 382,
     "open_issues_count": 61,
     "forks_count": 15
   },
@@ -133,27 +145,27 @@
   },
   {
     "full_name": "github-community-projects/private-mirrors",
-    "stargazers_count": 134,
+    "stargazers_count": 139,
     "open_issues_count": 29,
     "forks_count": 20
   },
   {
     "full_name": "ptrsr/pi-ci",
-    "stargazers_count": 661,
+    "stargazers_count": 663,
     "open_issues_count": 5,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "nandyalu/trailarr",
-    "stargazers_count": 107,
-    "open_issues_count": 8,
+    "stargazers_count": 109,
+    "open_issues_count": 7,
     "forks_count": 7
   },
   {
     "full_name": "eslint-stylistic/eslint-stylistic",
-    "stargazers_count": 1422,
-    "open_issues_count": 103,
-    "forks_count": 97
+    "stargazers_count": 1436,
+    "open_issues_count": 100,
+    "forks_count": 99
   },
   {
     "full_name": "stefanbuck/cookiecutter-template",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "nisargjhaveri/WirelessAndroidAutoDongle",
-    "stargazers_count": 699,
-    "open_issues_count": 68,
+    "stargazers_count": 703,
+    "open_issues_count": 71,
     "forks_count": 82
-  },
-  {
-    "full_name": "meatpiHQ/wican-fw",
-    "stargazers_count": 306,
-    "open_issues_count": 109,
-    "forks_count": 64
-  },
-  {
-    "full_name": "tmelliottjr/octokit-plugin-unique-issue",
-    "stargazers_count": 3,
-    "open_issues_count": 6,
-    "forks_count": 0
   }
 ]

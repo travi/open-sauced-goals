@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "geappliances/home-assistant-adapter",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "geappliances/home-assistant-bridge",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "giltayar/jsdoc-typing",
     "stargazers_count": 36,
     "open_issues_count": 1,
@@ -7,45 +19,45 @@
   },
   {
     "full_name": "basbruss/adaptive-cover",
-    "stargazers_count": 107,
+    "stargazers_count": 111,
     "open_issues_count": 36,
     "forks_count": 12
   },
   {
     "full_name": "github/entitlements-app",
-    "stargazers_count": 428,
+    "stargazers_count": 429,
     "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "dylandoamaral/uptime-card",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "gcormier/esphome-pressure",
-    "stargazers_count": 47,
+    "stargazers_count": 49,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "PRProd/HA-Firemote",
-    "stargazers_count": 515,
-    "open_issues_count": 13,
+    "stargazers_count": 520,
+    "open_issues_count": 17,
     "forks_count": 71
   },
   {
     "full_name": "domalab/ha-unraid",
-    "stargazers_count": 21,
+    "stargazers_count": 24,
     "open_issues_count": 11,
     "forks_count": 0
   },
   {
     "full_name": "Stengo/DeskPad",
-    "stargazers_count": 5216,
-    "open_issues_count": 20,
-    "forks_count": 89
+    "stargazers_count": 5248,
+    "open_issues_count": 19,
+    "forks_count": 91
   },
   {
     "full_name": "travissmithv1/dora-metrics-example",
@@ -61,31 +73,31 @@
   },
   {
     "full_name": "bridgecrewio/yor",
-    "stargazers_count": 826,
+    "stargazers_count": 827,
     "open_issues_count": 8,
     "forks_count": 123
   },
   {
     "full_name": "recyclarr/recyclarr",
-    "stargazers_count": 1134,
-    "open_issues_count": 13,
+    "stargazers_count": 1139,
+    "open_issues_count": 14,
     "forks_count": 31
   },
   {
     "full_name": "Commifreak/unraid-appdata.backup",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 14,
     "forks_count": 1
   },
   {
     "full_name": "greghesp/ha-bambulab",
-    "stargazers_count": 974,
-    "open_issues_count": 37,
+    "stargazers_count": 988,
+    "open_issues_count": 32,
     "forks_count": 85
   },
   {
     "full_name": "ngocjohn/lunar-phase-card",
-    "stargazers_count": 68,
+    "stargazers_count": 72,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "github/GreenSoftwareDirectory",
-    "stargazers_count": 282,
+    "stargazers_count": 397,
     "open_issues_count": 1,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "phrz/lg-washer-dryer-card",
@@ -115,8 +127,8 @@
   },
   {
     "full_name": "jseidl/hass-magic_areas",
-    "stargazers_count": 273,
-    "open_issues_count": 15,
+    "stargazers_count": 274,
+    "open_issues_count": 12,
     "forks_count": 28
   },
   {
@@ -127,8 +139,8 @@
   },
   {
     "full_name": "reviewdog/reviewdog",
-    "stargazers_count": 7931,
-    "open_issues_count": 136,
+    "stargazers_count": 7938,
+    "open_issues_count": 137,
     "forks_count": 422
   },
   {
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "rianadon/timer-bar-card",
-    "stargazers_count": 385,
+    "stargazers_count": 386,
     "open_issues_count": 60,
     "forks_count": 15
   },
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "github-community-projects/private-mirrors",
-    "stargazers_count": 140,
-    "open_issues_count": 28,
-    "forks_count": 20
+    "stargazers_count": 144,
+    "open_issues_count": 29,
+    "forks_count": 19
   },
   {
     "full_name": "ptrsr/pi-ci",
-    "stargazers_count": 664,
+    "stargazers_count": 665,
     "open_issues_count": 5,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "nandyalu/trailarr",
     "stargazers_count": 111,
     "open_issues_count": 8,
     "forks_count": 7
-  },
-  {
-    "full_name": "eslint-stylistic/eslint-stylistic",
-    "stargazers_count": 1447,
-    "open_issues_count": 107,
-    "forks_count": 101
-  },
-  {
-    "full_name": "stefanbuck/cookiecutter-template",
-    "stargazers_count": 47,
-    "open_issues_count": 2,
-    "forks_count": 25
   }
 ]

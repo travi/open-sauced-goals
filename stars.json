@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "EuleMitKeule/device-tools",
+    "stargazers_count": 79,
+    "open_issues_count": 6,
+    "forks_count": 6
+  },
+  {
+    "full_name": "zhbjsh/homeassistant-ssh",
+    "stargazers_count": 60,
+    "open_issues_count": 7,
+    "forks_count": 4
+  },
+  {
     "full_name": "Blueion76/FCAUconnect-HA",
     "stargazers_count": 1,
     "open_issues_count": 1,
@@ -13,19 +25,19 @@
   },
   {
     "full_name": "xLightsSequencer/xLights",
-    "stargazers_count": 578,
-    "open_issues_count": 407,
+    "stargazers_count": 579,
+    "open_issues_count": 410,
     "forks_count": 216
   },
   {
     "full_name": "intermittech/QuinLED-Firmware",
-    "stargazers_count": 77,
+    "stargazers_count": 81,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "Aleks130699/ha-fpp",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -43,8 +55,8 @@
   },
   {
     "full_name": "Morcatko/EspHome-Editor",
-    "stargazers_count": 16,
-    "open_issues_count": 7,
+    "stargazers_count": 19,
+    "open_issues_count": 8,
     "forks_count": 0
   },
   {
@@ -55,13 +67,13 @@
   },
   {
     "full_name": "Hankanman/Area-Occupancy-Detection",
-    "stargazers_count": 27,
-    "open_issues_count": 6,
-    "forks_count": 1
+    "stargazers_count": 44,
+    "open_issues_count": 3,
+    "forks_count": 2
   },
   {
     "full_name": "google/gts",
-    "stargazers_count": 5105,
+    "stargazers_count": 5104,
     "open_issues_count": 47,
     "forks_count": 208
   },
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "ShonP40/Car-Assistant",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "jneilliii/OctoPrint-BambuPrinter",
-    "stargazers_count": 150,
+    "stargazers_count": 153,
     "open_issues_count": 24,
     "forks_count": 9
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "basbruss/adaptive-cover",
-    "stargazers_count": 134,
+    "stargazers_count": 136,
     "open_issues_count": 42,
     "forks_count": 14
   },
@@ -133,19 +145,19 @@
   },
   {
     "full_name": "PRProd/HA-Firemote",
-    "stargazers_count": 559,
-    "open_issues_count": 27,
+    "stargazers_count": 563,
+    "open_issues_count": 17,
     "forks_count": 72
   },
   {
     "full_name": "domalab/ha-unraid",
-    "stargazers_count": 46,
+    "stargazers_count": 48,
     "open_issues_count": 11,
     "forks_count": 2
   },
   {
     "full_name": "Stengo/DeskPad",
-    "stargazers_count": 5522,
+    "stargazers_count": 5537,
     "open_issues_count": 21,
     "forks_count": 95
   },
@@ -158,25 +170,13 @@
   {
     "full_name": "ataylorme/eslint-annotate-action",
     "stargazers_count": 99,
-    "open_issues_count": 6,
-    "forks_count": 33
+    "open_issues_count": 7,
+    "forks_count": 34
   },
   {
     "full_name": "bridgecrewio/yor",
     "stargazers_count": 836,
     "open_issues_count": 9,
     "forks_count": 125
-  },
-  {
-    "full_name": "recyclarr/recyclarr",
-    "stargazers_count": 1183,
-    "open_issues_count": 25,
-    "forks_count": 31
-  },
-  {
-    "full_name": "Commifreak/unraid-appdata.backup",
-    "stargazers_count": 24,
-    "open_issues_count": 14,
-    "forks_count": 1
   }
 ]

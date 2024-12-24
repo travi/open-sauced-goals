@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "pvvx/ATC_MiThermometer",
+    "stargazers_count": 3123,
+    "open_issues_count": 88,
+    "forks_count": 215
+  },
+  {
     "full_name": "rkotze/git-mob-vs-code",
     "stargazers_count": 37,
     "open_issues_count": 9,
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "dogsheep/github-to-sqlite",
-    "stargazers_count": 418,
+    "stargazers_count": 420,
     "open_issues_count": 24,
     "forks_count": 44
   },
   {
     "full_name": "EuleMitKeule/device-tools",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 6,
     "forks_count": 6
   },
@@ -43,13 +49,13 @@
   },
   {
     "full_name": "xLightsSequencer/xLights",
-    "stargazers_count": 582,
-    "open_issues_count": 415,
+    "stargazers_count": 584,
+    "open_issues_count": 420,
     "forks_count": 217
   },
   {
     "full_name": "intermittech/QuinLED-Firmware",
-    "stargazers_count": 82,
+    "stargazers_count": 85,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -67,14 +73,14 @@
   },
   {
     "full_name": "jrt45840/Chore_HA",
-    "stargazers_count": 23,
+    "stargazers_count": 44,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Morcatko/EspHome-Editor",
     "stargazers_count": 23,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
@@ -85,19 +91,19 @@
   },
   {
     "full_name": "Hankanman/Area-Occupancy-Detection",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "google/gts",
-    "stargazers_count": 5107,
+    "stargazers_count": 5111,
     "open_issues_count": 47,
     "forks_count": 208
   },
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 42,
+    "stargazers_count": 44,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "jneilliii/OctoPrint-BambuPrinter",
-    "stargazers_count": 153,
+    "stargazers_count": 159,
     "open_issues_count": 24,
     "forks_count": 9
   },
   {
     "full_name": "geappliances/home-assistant-adapter",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -139,8 +145,8 @@
   },
   {
     "full_name": "basbruss/adaptive-cover",
-    "stargazers_count": 138,
-    "open_issues_count": 42,
+    "stargazers_count": 141,
+    "open_issues_count": 43,
     "forks_count": 14
   },
   {
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "dylandoamaral/uptime-card",
-    "stargazers_count": 281,
+    "stargazers_count": 282,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "gcormier/esphome-pressure",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "PRProd/HA-Firemote",
-    "stargazers_count": 564,
-    "open_issues_count": 18,
+    "stargazers_count": 566,
+    "open_issues_count": 21,
     "forks_count": 73
   },
   {
     "full_name": "domalab/ha-unraid",
-    "stargazers_count": 49,
-    "open_issues_count": 11,
+    "stargazers_count": 50,
+    "open_issues_count": 9,
     "forks_count": 2
-  },
-  {
-    "full_name": "Stengo/DeskPad",
-    "stargazers_count": 5573,
-    "open_issues_count": 21,
-    "forks_count": 96
   }
 ]

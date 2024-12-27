@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "FamousWolf/grocy-tasks-chores",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "pvvx/ATC_MiThermometer",
-    "stargazers_count": 3123,
-    "open_issues_count": 88,
-    "forks_count": 215
+    "stargazers_count": 3131,
+    "open_issues_count": 89,
+    "forks_count": 216
   },
   {
     "full_name": "rkotze/git-mob-vs-code",
@@ -25,14 +31,14 @@
   },
   {
     "full_name": "EuleMitKeule/device-tools",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "zhbjsh/homeassistant-ssh",
-    "stargazers_count": 61,
-    "open_issues_count": 6,
+    "stargazers_count": 62,
+    "open_issues_count": 4,
     "forks_count": 3
   },
   {
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "xLightsSequencer/xLights",
-    "stargazers_count": 584,
+    "stargazers_count": 587,
     "open_issues_count": 420,
     "forks_count": 217
   },
@@ -73,14 +79,14 @@
   },
   {
     "full_name": "jrt45840/Chore_HA",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Morcatko/EspHome-Editor",
     "stargazers_count": 23,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
@@ -97,13 +103,13 @@
   },
   {
     "full_name": "google/gts",
-    "stargazers_count": 5111,
+    "stargazers_count": 5110,
     "open_issues_count": 47,
     "forks_count": 208
   },
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 44,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "jneilliii/OctoPrint-BambuPrinter",
-    "stargazers_count": 159,
+    "stargazers_count": 161,
     "open_issues_count": 24,
     "forks_count": 9
   },
@@ -145,13 +151,13 @@
   },
   {
     "full_name": "basbruss/adaptive-cover",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 43,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "github/entitlements-app",
-    "stargazers_count": 430,
+    "stargazers_count": 431,
     "open_issues_count": 2,
     "forks_count": 18
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "PRProd/HA-Firemote",
-    "stargazers_count": 566,
-    "open_issues_count": 21,
-    "forks_count": 73
-  },
-  {
-    "full_name": "domalab/ha-unraid",
-    "stargazers_count": 50,
-    "open_issues_count": 9,
-    "forks_count": 2
+    "stargazers_count": 581,
+    "open_issues_count": 29,
+    "forks_count": 74
   }
 ]

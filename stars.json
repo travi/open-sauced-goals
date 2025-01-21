@@ -1,33 +1,57 @@
 [
   {
+    "full_name": "JaredC01/LabStack",
+    "stargazers_count": 361,
+    "open_issues_count": 13,
+    "forks_count": 8
+  },
+  {
+    "full_name": "geerlingguy/mini-rack",
+    "stargazers_count": 776,
+    "open_issues_count": 47,
+    "forks_count": 16
+  },
+  {
+    "full_name": "vipial1/desky-ha",
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "mdjastrzebski/pkg-stats",
+    "stargazers_count": 38,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
     "full_name": "pvvx/THB2",
-    "stargazers_count": 356,
-    "open_issues_count": 36,
+    "stargazers_count": 361,
+    "open_issues_count": 37,
     "forks_count": 32
   },
   {
     "full_name": "awesomeSBOM/awesome-sbom",
-    "stargazers_count": 497,
+    "stargazers_count": 501,
     "open_issues_count": 9,
     "forks_count": 64
   },
   {
     "full_name": "PWRFLcreative/Lightwork",
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 11,
     "forks_count": 16
   },
   {
     "full_name": "solarkennedy/awesome-esphome-components",
-    "stargazers_count": 99,
+    "stargazers_count": 102,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 23982,
-    "open_issues_count": 188,
-    "forks_count": 573
+    "stargazers_count": 24575,
+    "open_issues_count": 196,
+    "forks_count": 596
   },
   {
     "full_name": "FamousWolf/grocy-tasks-chores",
@@ -37,9 +61,9 @@
   },
   {
     "full_name": "pvvx/ATC_MiThermometer",
-    "stargazers_count": 3200,
-    "open_issues_count": 97,
-    "forks_count": 227
+    "stargazers_count": 3217,
+    "open_issues_count": 94,
+    "forks_count": 228
   },
   {
     "full_name": "rkotze/git-mob-vs-code",
@@ -57,11 +81,11 @@
     "full_name": "dogsheep/github-to-sqlite",
     "stargazers_count": 417,
     "open_issues_count": 24,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "EuleMitKeule/device-tools",
-    "stargazers_count": 92,
+    "stargazers_count": 94,
     "open_issues_count": 8,
     "forks_count": 6
   },
@@ -73,8 +97,8 @@
   },
   {
     "full_name": "Blueion76/FCAUconnect-HA",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
+    "stargazers_count": 6,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -85,13 +109,13 @@
   },
   {
     "full_name": "xLightsSequencer/xLights",
-    "stargazers_count": 597,
-    "open_issues_count": 402,
+    "stargazers_count": 598,
+    "open_issues_count": 390,
     "forks_count": 218
   },
   {
     "full_name": "intermittech/QuinLED-Firmware",
-    "stargazers_count": 93,
+    "stargazers_count": 95,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -116,7 +140,7 @@
   {
     "full_name": "Morcatko/EspHome-Editor",
     "stargazers_count": 25,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 0
   },
   {
@@ -133,50 +157,26 @@
   },
   {
     "full_name": "google/gts",
-    "stargazers_count": 5117,
+    "stargazers_count": 5118,
     "open_issues_count": 51,
     "forks_count": 208
   },
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 50,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "stargazers_count": 245,
+    "open_issues_count": 0,
+    "forks_count": 3
   },
   {
     "full_name": "ShonP40/Car-Assistant",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "TazzerMAN/increase_swap_addon",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 2,
-    "forks_count": 3
-  },
-  {
-    "full_name": "jneilliii/OctoPrint-BambuPrinter",
-    "stargazers_count": 181,
-    "open_issues_count": 26,
-    "forks_count": 8
-  },
-  {
-    "full_name": "geappliances/home-assistant-adapter",
-    "stargazers_count": 14,
-    "open_issues_count": 3,
-    "forks_count": 3
-  },
-  {
-    "full_name": "geappliances/home-assistant-bridge",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "giltayar/jsdoc-typing",
-    "stargazers_count": 36,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 4
   }
 ]

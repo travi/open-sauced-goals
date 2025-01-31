@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "sameer/svg2gcode",
+    "stargazers_count": 296,
+    "open_issues_count": 17,
+    "forks_count": 51
+  },
+  {
+    "full_name": "humanwhocodes/mentoss",
+    "stargazers_count": 37,
+    "open_issues_count": 7,
+    "forks_count": 1
+  },
+  {
     "full_name": "t0bst4r/home-assistant-matter-hub",
-    "stargazers_count": 590,
-    "open_issues_count": 73,
-    "forks_count": 25
+    "stargazers_count": 604,
+    "open_issues_count": 76,
+    "forks_count": 26
   },
   {
     "full_name": "SoftFever/OrcaSlicer",
-    "stargazers_count": 8369,
-    "open_issues_count": 946,
-    "forks_count": 989
+    "stargazers_count": 8401,
+    "open_issues_count": 956,
+    "forks_count": 996
   },
   {
     "full_name": "TengerTechnologies/Bricklayers",
-    "stargazers_count": 1458,
+    "stargazers_count": 1525,
     "open_issues_count": 40,
-    "forks_count": 298
+    "forks_count": 305
   },
   {
     "full_name": "aleksej-kuznecow/ha-immich-photos",
@@ -25,15 +37,15 @@
   },
   {
     "full_name": "JaredC01/LabStack",
-    "stargazers_count": 459,
-    "open_issues_count": 20,
-    "forks_count": 14
+    "stargazers_count": 486,
+    "open_issues_count": 22,
+    "forks_count": 16
   },
   {
     "full_name": "geerlingguy/mini-rack",
-    "stargazers_count": 1082,
-    "open_issues_count": 64,
-    "forks_count": 25
+    "stargazers_count": 1153,
+    "open_issues_count": 72,
+    "forks_count": 26
   },
   {
     "full_name": "vipial1/desky-ha",
@@ -43,13 +55,13 @@
   },
   {
     "full_name": "mdjastrzebski/pkg-stats",
-    "stargazers_count": 38,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "pvvx/THB2",
-    "stargazers_count": 367,
+    "stargazers_count": 374,
     "open_issues_count": 34,
     "forks_count": 34
   },
@@ -67,15 +79,15 @@
   },
   {
     "full_name": "solarkennedy/awesome-esphome-components",
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 25308,
-    "open_issues_count": 178,
-    "forks_count": 620
+    "stargazers_count": 25541,
+    "open_issues_count": 176,
+    "forks_count": 631
   },
   {
     "full_name": "FamousWolf/grocy-tasks-chores",
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "pvvx/ATC_MiThermometer",
-    "stargazers_count": 3234,
+    "stargazers_count": 3239,
     "open_issues_count": 94,
     "forks_count": 229
   },
@@ -97,20 +109,20 @@
   },
   {
     "full_name": "mcous/vitest-when",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "dogsheep/github-to-sqlite",
-    "stargazers_count": 417,
+    "stargazers_count": 419,
     "open_issues_count": 24,
     "forks_count": 45
   },
   {
     "full_name": "EuleMitKeule/device-tools",
     "stargazers_count": 94,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 6
   },
   {
@@ -134,12 +146,12 @@
   {
     "full_name": "xLightsSequencer/xLights",
     "stargazers_count": 610,
-    "open_issues_count": 364,
+    "open_issues_count": 357,
     "forks_count": 220
   },
   {
     "full_name": "intermittech/QuinLED-Firmware",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -164,19 +176,7 @@
   {
     "full_name": "Morcatko/EspHome-Editor",
     "stargazers_count": 27,
-    "open_issues_count": 9,
+    "open_issues_count": 6,
     "forks_count": 0
-  },
-  {
-    "full_name": "koromar/FanBuddy",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Hankanman/Area-Occupancy-Detection",
-    "stargazers_count": 57,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]

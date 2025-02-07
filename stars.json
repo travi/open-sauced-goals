@@ -1,45 +1,57 @@
 [
   {
+    "full_name": "antfu/are-we-esm",
+    "stargazers_count": 333,
+    "open_issues_count": 3,
+    "forks_count": 4
+  },
+  {
+    "full_name": "hass-uconnect/hass-uconnect",
+    "stargazers_count": 5,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "Klipper3d/klipper",
-    "stargazers_count": 9837,
+    "stargazers_count": 9855,
     "open_issues_count": 146,
-    "forks_count": 5425
+    "forks_count": 5427
   },
   {
     "full_name": "hassio-addons/addon-tailscale",
-    "stargazers_count": 229,
-    "open_issues_count": 13,
+    "stargazers_count": 233,
+    "open_issues_count": 16,
     "forks_count": 74
   },
   {
     "full_name": "sameer/svg2gcode",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 17,
     "forks_count": 51
   },
   {
     "full_name": "humanwhocodes/mentoss",
-    "stargazers_count": 83,
-    "open_issues_count": 6,
-    "forks_count": 2
+    "stargazers_count": 121,
+    "open_issues_count": 7,
+    "forks_count": 3
   },
   {
     "full_name": "t0bst4r/home-assistant-matter-hub",
-    "stargazers_count": 614,
-    "open_issues_count": 75,
+    "stargazers_count": 626,
+    "open_issues_count": 74,
     "forks_count": 26
   },
   {
     "full_name": "SoftFever/OrcaSlicer",
-    "stargazers_count": 8454,
-    "open_issues_count": 949,
-    "forks_count": 1007
+    "stargazers_count": 8488,
+    "open_issues_count": 937,
+    "forks_count": 1013
   },
   {
     "full_name": "TengerTechnologies/Bricklayers",
-    "stargazers_count": 1602,
-    "open_issues_count": 44,
-    "forks_count": 318
+    "stargazers_count": 1652,
+    "open_issues_count": 47,
+    "forks_count": 327
   },
   {
     "full_name": "aleksej-kuznecow/ha-immich-photos",
@@ -49,14 +61,14 @@
   },
   {
     "full_name": "JaredC01/LabStack",
-    "stargazers_count": 517,
+    "stargazers_count": 534,
     "open_issues_count": 19,
     "forks_count": 17
   },
   {
     "full_name": "geerlingguy/mini-rack",
-    "stargazers_count": 1250,
-    "open_issues_count": 79,
+    "stargazers_count": 1300,
+    "open_issues_count": 84,
     "forks_count": 28
   },
   {
@@ -73,13 +85,13 @@
   },
   {
     "full_name": "pvvx/THB2",
-    "stargazers_count": 377,
-    "open_issues_count": 35,
+    "stargazers_count": 380,
+    "open_issues_count": 36,
     "forks_count": 34
   },
   {
     "full_name": "awesomeSBOM/awesome-sbom",
-    "stargazers_count": 503,
+    "stargazers_count": 504,
     "open_issues_count": 9,
     "forks_count": 64
   },
@@ -91,15 +103,15 @@
   },
   {
     "full_name": "solarkennedy/awesome-esphome-components",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 25936,
-    "open_issues_count": 183,
-    "forks_count": 641
+    "stargazers_count": 26147,
+    "open_issues_count": 185,
+    "forks_count": 644
   },
   {
     "full_name": "FamousWolf/grocy-tasks-chores",
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "pvvx/ATC_MiThermometer",
-    "stargazers_count": 3243,
+    "stargazers_count": 3252,
     "open_issues_count": 95,
-    "forks_count": 231
+    "forks_count": 232
   },
   {
     "full_name": "rkotze/git-mob-vs-code",
@@ -133,13 +145,13 @@
   },
   {
     "full_name": "EuleMitKeule/device-tools",
-    "stargazers_count": 94,
+    "stargazers_count": 96,
     "open_issues_count": 9,
     "forks_count": 6
   },
   {
     "full_name": "zhbjsh/homeassistant-ssh",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 7,
     "forks_count": 3
   },
@@ -147,7 +159,7 @@
     "full_name": "Blueion76/FCAUconnect-HA",
     "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "paulino/ha-mqtt-entities",
@@ -158,25 +170,13 @@
   {
     "full_name": "xLightsSequencer/xLights",
     "stargazers_count": 612,
-    "open_issues_count": 357,
+    "open_issues_count": 359,
     "forks_count": 221
   },
   {
     "full_name": "intermittech/QuinLED-Firmware",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "Aleks130699/ha-fpp",
-    "stargazers_count": 15,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "koolsb/ha-fpp",
-    "stargazers_count": 7,
-    "open_issues_count": 7,
-    "forks_count": 6
   }
 ]

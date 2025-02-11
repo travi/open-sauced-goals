@@ -1,57 +1,69 @@
 [
   {
+    "full_name": "greghesp/ha-bambulab-cards",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "containrrr/watchtower",
+    "stargazers_count": 20898,
+    "open_issues_count": 194,
+    "forks_count": 905
+  },
+  {
     "full_name": "antfu/are-we-esm",
-    "stargazers_count": 333,
-    "open_issues_count": 3,
+    "stargazers_count": 341,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "hass-uconnect/hass-uconnect",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "Klipper3d/klipper",
-    "stargazers_count": 9855,
-    "open_issues_count": 146,
-    "forks_count": 5427
+    "stargazers_count": 9871,
+    "open_issues_count": 148,
+    "forks_count": 5435
   },
   {
     "full_name": "hassio-addons/addon-tailscale",
-    "stargazers_count": 233,
-    "open_issues_count": 16,
+    "stargazers_count": 235,
+    "open_issues_count": 15,
     "forks_count": 74
   },
   {
     "full_name": "sameer/svg2gcode",
-    "stargazers_count": 298,
+    "stargazers_count": 300,
     "open_issues_count": 17,
-    "forks_count": 51
+    "forks_count": 50
   },
   {
     "full_name": "humanwhocodes/mentoss",
-    "stargazers_count": 121,
-    "open_issues_count": 7,
+    "stargazers_count": 137,
+    "open_issues_count": 10,
     "forks_count": 3
   },
   {
     "full_name": "t0bst4r/home-assistant-matter-hub",
-    "stargazers_count": 626,
-    "open_issues_count": 74,
-    "forks_count": 26
+    "stargazers_count": 637,
+    "open_issues_count": 75,
+    "forks_count": 27
   },
   {
     "full_name": "SoftFever/OrcaSlicer",
-    "stargazers_count": 8488,
-    "open_issues_count": 937,
-    "forks_count": 1013
+    "stargazers_count": 8525,
+    "open_issues_count": 913,
+    "forks_count": 1023
   },
   {
     "full_name": "TengerTechnologies/Bricklayers",
-    "stargazers_count": 1652,
-    "open_issues_count": 47,
-    "forks_count": 327
+    "stargazers_count": 1697,
+    "open_issues_count": 50,
+    "forks_count": 338
   },
   {
     "full_name": "aleksej-kuznecow/ha-immich-photos",
@@ -61,14 +73,14 @@
   },
   {
     "full_name": "JaredC01/LabStack",
-    "stargazers_count": 534,
-    "open_issues_count": 19,
+    "stargazers_count": 557,
+    "open_issues_count": 23,
     "forks_count": 17
   },
   {
     "full_name": "geerlingguy/mini-rack",
-    "stargazers_count": 1300,
-    "open_issues_count": 84,
+    "stargazers_count": 1348,
+    "open_issues_count": 89,
     "forks_count": 28
   },
   {
@@ -80,12 +92,12 @@
   {
     "full_name": "mdjastrzebski/pkg-stats",
     "stargazers_count": 41,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "pvvx/THB2",
-    "stargazers_count": 380,
+    "stargazers_count": 386,
     "open_issues_count": 36,
     "forks_count": 34
   },
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "PWRFLcreative/Lightwork",
-    "stargazers_count": 161,
+    "stargazers_count": 162,
     "open_issues_count": 11,
     "forks_count": 16
   },
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 26147,
-    "open_issues_count": 185,
-    "forks_count": 644
+    "stargazers_count": 26414,
+    "open_issues_count": 195,
+    "forks_count": 655
   },
   {
     "full_name": "FamousWolf/grocy-tasks-chores",
@@ -121,8 +133,8 @@
   },
   {
     "full_name": "pvvx/ATC_MiThermometer",
-    "stargazers_count": 3252,
-    "open_issues_count": 95,
+    "stargazers_count": 3259,
+    "open_issues_count": 96,
     "forks_count": 232
   },
   {
@@ -139,13 +151,13 @@
   },
   {
     "full_name": "dogsheep/github-to-sqlite",
-    "stargazers_count": 418,
+    "stargazers_count": 419,
     "open_issues_count": 24,
     "forks_count": 45
   },
   {
     "full_name": "EuleMitKeule/device-tools",
-    "stargazers_count": 96,
+    "stargazers_count": 98,
     "open_issues_count": 9,
     "forks_count": 6
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "paulino/ha-mqtt-entities",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
+    "stargazers_count": 8,
+    "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "xLightsSequencer/xLights",
-    "stargazers_count": 612,
-    "open_issues_count": 359,
-    "forks_count": 221
-  },
-  {
-    "full_name": "intermittech/QuinLED-Firmware",
-    "stargazers_count": 99,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]

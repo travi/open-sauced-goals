@@ -1,44 +1,44 @@
 [
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 2800,
-    "open_issues_count": 12,
-    "forks_count": 252
+    "stargazers_count": 3096,
+    "open_issues_count": 13,
+    "forks_count": 273
   },
   {
     "full_name": "greghesp/ha-bambulab-cards",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "containrrr/watchtower",
-    "stargazers_count": 20953,
+    "stargazers_count": 20999,
     "open_issues_count": 194,
-    "forks_count": 905
+    "forks_count": 907
   },
   {
     "full_name": "antfu/are-we-esm",
-    "stargazers_count": 342,
+    "stargazers_count": 341,
     "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "hass-uconnect/hass-uconnect",
     "stargazers_count": 6,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "Klipper3d/klipper",
-    "stargazers_count": 9881,
-    "open_issues_count": 150,
-    "forks_count": 5439
+    "stargazers_count": 9894,
+    "open_issues_count": 148,
+    "forks_count": 5450
   },
   {
     "full_name": "hassio-addons/addon-tailscale",
-    "stargazers_count": 237,
-    "open_issues_count": 12,
+    "stargazers_count": 239,
+    "open_issues_count": 10,
     "forks_count": 74
   },
   {
@@ -49,25 +49,25 @@
   },
   {
     "full_name": "humanwhocodes/mentoss",
-    "stargazers_count": 143,
-    "open_issues_count": 7,
+    "stargazers_count": 145,
+    "open_issues_count": 8,
     "forks_count": 3
   },
   {
     "full_name": "t0bst4r/home-assistant-matter-hub",
-    "stargazers_count": 645,
-    "open_issues_count": 74,
-    "forks_count": 27
+    "stargazers_count": 666,
+    "open_issues_count": 72,
+    "forks_count": 28
   },
   {
     "full_name": "SoftFever/OrcaSlicer",
-    "stargazers_count": 8554,
-    "open_issues_count": 917,
-    "forks_count": 1027
+    "stargazers_count": 8604,
+    "open_issues_count": 912,
+    "forks_count": 1035
   },
   {
     "full_name": "TengerTechnologies/Bricklayers",
-    "stargazers_count": 1717,
+    "stargazers_count": 1726,
     "open_issues_count": 51,
     "forks_count": 338
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "JaredC01/LabStack",
-    "stargazers_count": 571,
-    "open_issues_count": 26,
+    "stargazers_count": 593,
+    "open_issues_count": 27,
     "forks_count": 18
   },
   {
     "full_name": "geerlingguy/mini-rack",
-    "stargazers_count": 1387,
-    "open_issues_count": 90,
-    "forks_count": 29
+    "stargazers_count": 1435,
+    "open_issues_count": 93,
+    "forks_count": 30
   },
   {
     "full_name": "vipial1/desky-ha",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pvvx/THB2",
-    "stargazers_count": 390,
+    "stargazers_count": 395,
     "open_issues_count": 35,
     "forks_count": 35
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 26627,
-    "open_issues_count": 185,
-    "forks_count": 663
+    "stargazers_count": 26886,
+    "open_issues_count": 167,
+    "forks_count": 672
   },
   {
     "full_name": "FamousWolf/grocy-tasks-chores",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "pvvx/ATC_MiThermometer",
-    "stargazers_count": 3272,
+    "stargazers_count": 3279,
     "open_issues_count": 93,
     "forks_count": 234
   },
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "mcous/vitest-when",
-    "stargazers_count": 31,
-    "open_issues_count": 0,
+    "stargazers_count": 32,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "dogsheep/github-to-sqlite",
-    "stargazers_count": 419,
+    "stargazers_count": 420,
     "open_issues_count": 24,
     "forks_count": 45
   },
   {
     "full_name": "EuleMitKeule/device-tools",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 9,
     "forks_count": 6
   },

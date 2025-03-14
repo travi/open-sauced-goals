@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "uvjim/hass_hdhomerun",
+    "stargazers_count": 37,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "MarcoGos/kleenex_pollenradar",
-    "stargazers_count": 25,
-    "open_issues_count": 1,
+    "stargazers_count": 26,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
@@ -31,14 +37,14 @@
   },
   {
     "full_name": "ManuelW77/Filaman",
-    "stargazers_count": 59,
-    "open_issues_count": 4,
-    "forks_count": 6
+    "stargazers_count": 60,
+    "open_issues_count": 6,
+    "forks_count": 7
   },
   {
     "full_name": "francois-le-ko4la/lovelace-entity-progress-card",
-    "stargazers_count": 100,
-    "open_issues_count": 3,
+    "stargazers_count": 102,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -49,51 +55,51 @@
   },
   {
     "full_name": "ccpk1/kidschores-ha-dashboard",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
+    "stargazers_count": 41,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "ad-ha/kidschores-ha",
-    "stargazers_count": 119,
-    "open_issues_count": 3,
+    "stargazers_count": 123,
+    "open_issues_count": 4,
     "forks_count": 8
   },
   {
     "full_name": "CorentinTh/it-tools",
-    "stargazers_count": 27695,
-    "open_issues_count": 661,
-    "forks_count": 3308
+    "stargazers_count": 27773,
+    "open_issues_count": 662,
+    "forks_count": 3312
   },
   {
     "full_name": "Kometa-Team/Kometa",
-    "stargazers_count": 2708,
-    "open_issues_count": 52,
+    "stargazers_count": 2710,
+    "open_issues_count": 54,
     "forks_count": 323
   },
   {
     "full_name": "thecfu/scraparr",
-    "stargazers_count": 212,
+    "stargazers_count": 213,
     "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 6816,
-    "open_issues_count": 34,
-    "forks_count": 451
+    "stargazers_count": 8590,
+    "open_issues_count": 30,
+    "forks_count": 580
   },
   {
     "full_name": "greghesp/ha-bambulab-cards",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "containrrr/watchtower",
-    "stargazers_count": 21274,
+    "stargazers_count": 21324,
     "open_issues_count": 200,
-    "forks_count": 923
+    "forks_count": 928
   },
   {
     "full_name": "antfu/are-we-esm",
@@ -104,20 +110,20 @@
   {
     "full_name": "hass-uconnect/hass-uconnect",
     "stargazers_count": 7,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "Klipper3d/klipper",
-    "stargazers_count": 9969,
-    "open_issues_count": 153,
-    "forks_count": 5470
+    "stargazers_count": 9978,
+    "open_issues_count": 157,
+    "forks_count": 5480
   },
   {
     "full_name": "hassio-addons/addon-tailscale",
     "stargazers_count": 248,
-    "open_issues_count": 13,
-    "forks_count": 75
+    "open_issues_count": 12,
+    "forks_count": 76
   },
   {
     "full_name": "sameer/svg2gcode",
@@ -127,27 +133,27 @@
   },
   {
     "full_name": "humanwhocodes/mentoss",
-    "stargazers_count": 161,
+    "stargazers_count": 164,
     "open_issues_count": 7,
     "forks_count": 4
   },
   {
     "full_name": "t0bst4r/home-assistant-matter-hub",
-    "stargazers_count": 724,
-    "open_issues_count": 92,
-    "forks_count": 32
+    "stargazers_count": 734,
+    "open_issues_count": 76,
+    "forks_count": 33
   },
   {
     "full_name": "SoftFever/OrcaSlicer",
-    "stargazers_count": 8989,
-    "open_issues_count": 961,
-    "forks_count": 1079
+    "stargazers_count": 9024,
+    "open_issues_count": 1013,
+    "forks_count": 1086
   },
   {
     "full_name": "TengerTechnologies/Bricklayers",
-    "stargazers_count": 1810,
+    "stargazers_count": 1814,
     "open_issues_count": 54,
-    "forks_count": 351
+    "forks_count": 352
   },
   {
     "full_name": "aleksej-kuznecow/ha-immich-photos",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "JaredC01/LabStack",
-    "stargazers_count": 664,
+    "stargazers_count": 675,
     "open_issues_count": 33,
     "forks_count": 20
   },
   {
     "full_name": "geerlingguy/mini-rack",
-    "stargazers_count": 1650,
-    "open_issues_count": 111,
-    "forks_count": 31
+    "stargazers_count": 1675,
+    "open_issues_count": 113,
+    "forks_count": 32
   },
   {
     "full_name": "vipial1/desky-ha",
     "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "mdjastrzebski/pkg-stats",
-    "stargazers_count": 42,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]

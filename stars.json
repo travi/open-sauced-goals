@@ -19,27 +19,27 @@
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 29255,
-    "open_issues_count": 128,
-    "forks_count": 2412
+    "stargazers_count": 29284,
+    "open_issues_count": 136,
+    "forks_count": 2415
   },
   {
     "full_name": "lovelaze/nebula-sync",
-    "stargazers_count": 643,
-    "open_issues_count": 14,
-    "forks_count": 18
+    "stargazers_count": 655,
+    "open_issues_count": 15,
+    "forks_count": 17
   },
   {
     "full_name": "alexpfau/calendar-card-pro",
-    "stargazers_count": 530,
-    "open_issues_count": 22,
-    "forks_count": 35
+    "stargazers_count": 604,
+    "open_issues_count": 25,
+    "forks_count": 36
   },
   {
     "full_name": "actions/create-github-app-token",
-    "stargazers_count": 491,
+    "stargazers_count": 495,
     "open_issues_count": 31,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "Flight-Lab/ember-mug-card",
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "OMOTE-Community/OMOTE-Firmware",
-    "stargazers_count": 1541,
+    "stargazers_count": 1543,
     "open_issues_count": 2,
-    "forks_count": 144
+    "forks_count": 146
   },
   {
     "full_name": "ast-grep/ast-grep",
-    "stargazers_count": 8438,
-    "open_issues_count": 45,
+    "stargazers_count": 8449,
+    "open_issues_count": 46,
     "forks_count": 211
   },
   {
     "full_name": "es-tooling/eslint-plugin-depend",
-    "stargazers_count": 382,
-    "open_issues_count": 8,
+    "stargazers_count": 383,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "MarcoGos/kleenex_pollenradar",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "francois-le-ko4la/lovelace-entity-progress-card",
-    "stargazers_count": 108,
-    "open_issues_count": 5,
+    "stargazers_count": 109,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
@@ -157,14 +157,14 @@
   },
   {
     "full_name": "CorentinTh/it-tools",
-    "stargazers_count": 28381,
-    "open_issues_count": 675,
-    "forks_count": 3385
+    "stargazers_count": 28506,
+    "open_issues_count": 679,
+    "forks_count": 3395
   },
   {
     "full_name": "Kometa-Team/Kometa",
-    "stargazers_count": 2736,
-    "open_issues_count": 17,
+    "stargazers_count": 2739,
+    "open_issues_count": 20,
     "forks_count": 326
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 33037,
-    "open_issues_count": 55,
-    "forks_count": 2272
+    "stargazers_count": 35437,
+    "open_issues_count": 64,
+    "forks_count": 2479
   }
 ]

@@ -1,14 +1,32 @@
 [
   {
+    "full_name": "JoshuaKGoldberg/OctoGuide",
+    "stargazers_count": 18,
+    "open_issues_count": 23,
+    "forks_count": 2
+  },
+  {
+    "full_name": "sedward5/nws_spc_outlook",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "selvalt7/modern-circular-gauge",
+    "stargazers_count": 146,
+    "open_issues_count": 5,
+    "forks_count": 0
+  },
+  {
     "full_name": "hashicorp/terraform-cdk",
-    "stargazers_count": 4967,
-    "open_issues_count": 367,
+    "stargazers_count": 4968,
+    "open_issues_count": 368,
     "forks_count": 468
   },
   {
     "full_name": "marcelhoogantink/enhanced-shutter-card",
     "stargazers_count": 31,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 3
   },
   {
@@ -19,15 +37,15 @@
   },
   {
     "full_name": "github/audit-actions-workflow-runs",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 53678,
-    "open_issues_count": 223,
-    "forks_count": 2675
+    "stargazers_count": 55026,
+    "open_issues_count": 236,
+    "forks_count": 2764
   },
   {
     "full_name": "rodpayne/home-assistant_person_location",
@@ -37,9 +55,9 @@
   },
   {
     "full_name": "WebTools-NG/WebTools-NG",
-    "stargazers_count": 813,
-    "open_issues_count": 72,
-    "forks_count": 25
+    "stargazers_count": 814,
+    "open_issues_count": 73,
+    "forks_count": 24
   },
   {
     "full_name": "ludeeus/awesomeversion",
@@ -49,14 +67,14 @@
   },
   {
     "full_name": "bingo-js/bingo",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 41,
     "forks_count": 5
   },
   {
     "full_name": "kazupon/gunshi",
-    "stargazers_count": 108,
-    "open_issues_count": 9,
+    "stargazers_count": 109,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
@@ -75,7 +93,7 @@
     "full_name": "unfoldedcircle/integration-home-assistant",
     "stargazers_count": 33,
     "open_issues_count": 15,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "JackJPowell/hass-unfoldedcircle",
@@ -85,26 +103,26 @@
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 29430,
-    "open_issues_count": 129,
+    "stargazers_count": 29457,
+    "open_issues_count": 133,
     "forks_count": 2424
   },
   {
     "full_name": "lovelaze/nebula-sync",
-    "stargazers_count": 729,
-    "open_issues_count": 11,
+    "stargazers_count": 750,
+    "open_issues_count": 14,
     "forks_count": 19
   },
   {
     "full_name": "alexpfau/calendar-card-pro",
-    "stargazers_count": 659,
-    "open_issues_count": 32,
-    "forks_count": 42
+    "stargazers_count": 673,
+    "open_issues_count": 34,
+    "forks_count": 43
   },
   {
     "full_name": "actions/create-github-app-token",
-    "stargazers_count": 510,
-    "open_issues_count": 32,
+    "stargazers_count": 514,
+    "open_issues_count": 29,
     "forks_count": 85
   },
   {
@@ -127,19 +145,19 @@
   },
   {
     "full_name": "OMOTE-Community/OMOTE-Firmware",
-    "stargazers_count": 1550,
+    "stargazers_count": 1552,
     "open_issues_count": 2,
     "forks_count": 147
   },
   {
     "full_name": "ast-grep/ast-grep",
-    "stargazers_count": 8557,
-    "open_issues_count": 51,
+    "stargazers_count": 8573,
+    "open_issues_count": 54,
     "forks_count": 217
   },
   {
     "full_name": "es-tooling/eslint-plugin-depend",
-    "stargazers_count": 386,
+    "stargazers_count": 388,
     "open_issues_count": 6,
     "forks_count": 7
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 4
-  },
-  {
-    "full_name": "MarcoGos/kleenex_pollenradar",
-    "stargazers_count": 45,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "azu/commonjs-to-es-module-codemod",
-    "stargazers_count": 87,
-    "open_issues_count": 2,
-    "forks_count": 15
-  },
-  {
-    "full_name": "nicknisi/astro-talk",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]

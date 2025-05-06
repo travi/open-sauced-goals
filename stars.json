@@ -1,45 +1,57 @@
 [
   {
+    "full_name": "cocogitto/cocogitto",
+    "stargazers_count": 851,
+    "open_issues_count": 41,
+    "forks_count": 75
+  },
+  {
+    "full_name": "patman15/BMS_BLE-HA",
+    "stargazers_count": 138,
+    "open_issues_count": 19,
+    "forks_count": 29
+  },
+  {
     "full_name": "wesbos/bracket.engineer",
-    "stargazers_count": 58,
-    "open_issues_count": 7,
-    "forks_count": 4
+    "stargazers_count": 73,
+    "open_issues_count": 8,
+    "forks_count": 5
   },
   {
     "full_name": "un-ts/eslint-plugin-import-x",
     "stargazers_count": 527,
-    "open_issues_count": 48,
+    "open_issues_count": 47,
     "forks_count": 40
   },
   {
     "full_name": "RichardLitt/Quick-tips-for-making-your-software-outlive-your-job",
     "stargazers_count": 16,
-    "open_issues_count": 12,
-    "forks_count": 14
+    "open_issues_count": 2,
+    "forks_count": 17
   },
   {
     "full_name": "JoshuaKGoldberg/OctoGuide",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 22,
     "forks_count": 2
   },
   {
     "full_name": "sedward5/nws_spc_outlook",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "selvalt7/modern-circular-gauge",
-    "stargazers_count": 148,
+    "stargazers_count": 150,
     "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "hashicorp/terraform-cdk",
     "stargazers_count": 4967,
-    "open_issues_count": 369,
-    "forks_count": 468
+    "open_issues_count": 371,
+    "forks_count": 469
   },
   {
     "full_name": "marcelhoogantink/enhanced-shutter-card",
@@ -55,15 +67,15 @@
   },
   {
     "full_name": "github/audit-actions-workflow-runs",
-    "stargazers_count": 62,
+    "stargazers_count": 64,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 55562,
-    "open_issues_count": 246,
-    "forks_count": 2812
+    "stargazers_count": 56103,
+    "open_issues_count": 252,
+    "forks_count": 2848
   },
   {
     "full_name": "rodpayne/home-assistant_person_location",
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "WebTools-NG/WebTools-NG",
-    "stargazers_count": 814,
+    "stargazers_count": 816,
     "open_issues_count": 73,
     "forks_count": 24
   },
@@ -85,14 +97,14 @@
   },
   {
     "full_name": "bingo-js/bingo",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 41,
     "forks_count": 5
   },
   {
     "full_name": "kazupon/gunshi",
-    "stargazers_count": 113,
-    "open_issues_count": 13,
+    "stargazers_count": 114,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
@@ -121,27 +133,27 @@
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 29484,
-    "open_issues_count": 121,
-    "forks_count": 2427
+    "stargazers_count": 29515,
+    "open_issues_count": 125,
+    "forks_count": 2430
   },
   {
     "full_name": "lovelaze/nebula-sync",
-    "stargazers_count": 758,
+    "stargazers_count": 768,
     "open_issues_count": 15,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "alexpfau/calendar-card-pro",
-    "stargazers_count": 684,
-    "open_issues_count": 36,
+    "stargazers_count": 752,
+    "open_issues_count": 33,
     "forks_count": 43
   },
   {
     "full_name": "actions/create-github-app-token",
-    "stargazers_count": 518,
-    "open_issues_count": 34,
-    "forks_count": 87
+    "stargazers_count": 521,
+    "open_issues_count": 30,
+    "forks_count": 88
   },
   {
     "full_name": "Flight-Lab/ember-mug-card",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "OMOTE-Community/OMOTE-Firmware",
-    "stargazers_count": 1553,
+    "stargazers_count": 1558,
     "open_issues_count": 2,
-    "forks_count": 147
-  },
-  {
-    "full_name": "ast-grep/ast-grep",
-    "stargazers_count": 8586,
-    "open_issues_count": 53,
-    "forks_count": 217
-  },
-  {
-    "full_name": "es-tooling/eslint-plugin-depend",
-    "stargazers_count": 388,
-    "open_issues_count": 6,
-    "forks_count": 6
+    "forks_count": 148
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "drkpxl/printwatch-card",
+    "stargazers_count": 18,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "bluemaex/home-assistant-addons",
     "stargazers_count": 16,
     "open_issues_count": 1,
@@ -7,8 +13,8 @@
   },
   {
     "full_name": "andreadegiovine/homeassistant-stellantis-vehicles",
-    "stargazers_count": 65,
-    "open_issues_count": 27,
+    "stargazers_count": 66,
+    "open_issues_count": 23,
     "forks_count": 15
   },
   {
@@ -19,31 +25,31 @@
   },
   {
     "full_name": "homeassistant-extras/pi-hole-card",
-    "stargazers_count": 86,
-    "open_issues_count": 1,
+    "stargazers_count": 90,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 855,
+    "stargazers_count": 857,
     "open_issues_count": 41,
     "forks_count": 75
   },
   {
     "full_name": "patman15/BMS_BLE-HA",
-    "stargazers_count": 144,
-    "open_issues_count": 18,
-    "forks_count": 29
+    "stargazers_count": 147,
+    "open_issues_count": 22,
+    "forks_count": 30
   },
   {
     "full_name": "wesbos/bracket.engineer",
-    "stargazers_count": 77,
+    "stargazers_count": 80,
     "open_issues_count": 11,
     "forks_count": 6
   },
   {
     "full_name": "un-ts/eslint-plugin-import-x",
-    "stargazers_count": 529,
+    "stargazers_count": 533,
     "open_issues_count": 47,
     "forks_count": 41
   },
@@ -51,18 +57,18 @@
     "full_name": "RichardLitt/Quick-tips-for-making-your-software-outlive-your-job",
     "stargazers_count": 19,
     "open_issues_count": 2,
-    "forks_count": 17
+    "forks_count": 16
   },
   {
     "full_name": "JoshuaKGoldberg/OctoGuide",
-    "stargazers_count": 24,
-    "open_issues_count": 24,
+    "stargazers_count": 25,
+    "open_issues_count": 25,
     "forks_count": 2
   },
   {
     "full_name": "sedward5/nws_spc_outlook",
     "stargazers_count": 2,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -73,19 +79,19 @@
   },
   {
     "full_name": "hashicorp/terraform-cdk",
-    "stargazers_count": 4970,
-    "open_issues_count": 371,
-    "forks_count": 469
+    "stargazers_count": 4971,
+    "open_issues_count": 373,
+    "forks_count": 470
   },
   {
     "full_name": "marcelhoogantink/enhanced-shutter-card",
     "stargazers_count": 33,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 2
   },
   {
     "full_name": "mrk-its/esphome-canopen",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 8,
     "forks_count": 6
   },
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 56724,
-    "open_issues_count": 257,
-    "forks_count": 2889
+    "stargazers_count": 57193,
+    "open_issues_count": 265,
+    "forks_count": 2919
   },
   {
     "full_name": "rodpayne/home-assistant_person_location",
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "WebTools-NG/WebTools-NG",
-    "stargazers_count": 817,
+    "stargazers_count": 815,
     "open_issues_count": 73,
     "forks_count": 24
   },
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "bingo-js/bingo",
-    "stargazers_count": 93,
+    "stargazers_count": 95,
     "open_issues_count": 40,
     "forks_count": 5
   },
   {
     "full_name": "kazupon/gunshi",
-    "stargazers_count": 117,
+    "stargazers_count": 120,
     "open_issues_count": 11,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "openjs-foundation/package-metadata-interoperability-collab-space",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "k3s-io/k3s",
-    "stargazers_count": 29603,
-    "open_issues_count": 184,
+    "stargazers_count": 29633,
+    "open_issues_count": 167,
     "forks_count": 2434
   },
   {
     "full_name": "lovelaze/nebula-sync",
-    "stargazers_count": 784,
+    "stargazers_count": 793,
     "open_issues_count": 17,
     "forks_count": 21
   },
   {
     "full_name": "alexpfau/calendar-card-pro",
-    "stargazers_count": 771,
-    "open_issues_count": 35,
-    "forks_count": 44
-  },
-  {
-    "full_name": "actions/create-github-app-token",
-    "stargazers_count": 525,
-    "open_issues_count": 33,
-    "forks_count": 89
+    "stargazers_count": 773,
+    "open_issues_count": 39,
+    "forks_count": 46
   }
 ]

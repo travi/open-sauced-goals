@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "bastgau/ha-pi-hole-v6",
+    "stargazers_count": 274,
+    "open_issues_count": 2,
+    "forks_count": 16
+  },
+  {
     "full_name": "erinalbers/grocy-receipt-ocr",
-    "stargazers_count": 5,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "outadoc/immich-home-assistant",
-    "stargazers_count": 97,
+    "stargazers_count": 96,
     "open_issues_count": 19,
     "forks_count": 17
   },
   {
     "full_name": "benbox69/stellantis-oauth-helper",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1554,
+    "stargazers_count": 1566,
     "open_issues_count": 41,
-    "forks_count": 68
+    "forks_count": 70
   },
   {
     "full_name": "hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors",
-    "stargazers_count": 463,
+    "stargazers_count": 465,
     "open_issues_count": 8,
     "forks_count": 119
   },
@@ -37,38 +43,38 @@
   },
   {
     "full_name": "bluemaex/home-assistant-addons",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "andreadegiovine/homeassistant-stellantis-vehicles",
-    "stargazers_count": 71,
+    "stargazers_count": 73,
     "open_issues_count": 16,
     "forks_count": 15
   },
   {
     "full_name": "upsidr/merge-gatekeeper",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 23,
     "forks_count": 19
   },
   {
     "full_name": "homeassistant-extras/pi-hole-card",
-    "stargazers_count": 98,
-    "open_issues_count": 1,
+    "stargazers_count": 101,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "cocogitto/cocogitto",
-    "stargazers_count": 865,
+    "stargazers_count": 867,
     "open_issues_count": 41,
     "forks_count": 75
   },
   {
     "full_name": "patman15/BMS_BLE-HA",
-    "stargazers_count": 153,
-    "open_issues_count": 21,
+    "stargazers_count": 154,
+    "open_issues_count": 16,
     "forks_count": 31
   },
   {
@@ -79,8 +85,8 @@
   },
   {
     "full_name": "un-ts/eslint-plugin-import-x",
-    "stargazers_count": 538,
-    "open_issues_count": 45,
+    "stargazers_count": 539,
+    "open_issues_count": 44,
     "forks_count": 41
   },
   {
@@ -103,13 +109,13 @@
   },
   {
     "full_name": "selvalt7/modern-circular-gauge",
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "hashicorp/terraform-cdk",
-    "stargazers_count": 4982,
+    "stargazers_count": 4984,
     "open_issues_count": 373,
     "forks_count": 471
   },
@@ -133,19 +139,19 @@
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 57970,
-    "open_issues_count": 264,
-    "forks_count": 2980
+    "stargazers_count": 58107,
+    "open_issues_count": 266,
+    "forks_count": 2995
   },
   {
     "full_name": "rodpayne/home-assistant_person_location",
-    "stargazers_count": 30,
-    "open_issues_count": 1,
+    "stargazers_count": 31,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "WebTools-NG/WebTools-NG",
-    "stargazers_count": 822,
+    "stargazers_count": 823,
     "open_issues_count": 73,
     "forks_count": 25
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "kazupon/gunshi",
-    "stargazers_count": 128,
-    "open_issues_count": 9,
-    "forks_count": 2
+    "stargazers_count": 131,
+    "open_issues_count": 12,
+    "forks_count": 3
   },
   {
     "full_name": "openjs-foundation/package-metadata-interoperability-collab-space",
     "stargazers_count": 34,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 4
-  },
-  {
-    "full_name": "andybochmann/ha-virtual-battery",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

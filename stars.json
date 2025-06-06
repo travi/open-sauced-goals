@@ -1,8 +1,8 @@
 [
   {
     "full_name": "jamcalli/Pulsarr",
-    "stargazers_count": 138,
-    "open_issues_count": 2,
+    "stargazers_count": 164,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "bastgau/ha-pi-hole-v6",
-    "stargazers_count": 280,
+    "stargazers_count": 286,
     "open_issues_count": 3,
     "forks_count": 16
   },
@@ -37,33 +37,33 @@
   },
   {
     "full_name": "outadoc/immich-home-assistant",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 19,
     "forks_count": 17
   },
   {
     "full_name": "benbox69/stellantis-oauth-helper",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1574,
-    "open_issues_count": 41,
+    "stargazers_count": 1577,
+    "open_issues_count": 42,
     "forks_count": 71
   },
   {
     "full_name": "hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors",
-    "stargazers_count": 467,
+    "stargazers_count": 469,
     "open_issues_count": 8,
-    "forks_count": 120
+    "forks_count": 121
   },
   {
     "full_name": "drkpxl/printwatch-card",
     "stargazers_count": 19,
     "open_issues_count": 5,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "bluemaex/home-assistant-addons",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "andreadegiovine/homeassistant-stellantis-vehicles",
-    "stargazers_count": 73,
-    "open_issues_count": 16,
+    "stargazers_count": 75,
+    "open_issues_count": 19,
     "forks_count": 15
   },
   {
     "full_name": "upsidr/merge-gatekeeper",
-    "stargazers_count": 110,
-    "open_issues_count": 23,
-    "forks_count": 19
+    "stargazers_count": 111,
+    "open_issues_count": 24,
+    "forks_count": 21
   },
   {
     "full_name": "homeassistant-extras/pi-hole-card",
@@ -92,26 +92,26 @@
   {
     "full_name": "cocogitto/cocogitto",
     "stargazers_count": 868,
-    "open_issues_count": 41,
-    "forks_count": 75
+    "open_issues_count": 42,
+    "forks_count": 74
   },
   {
     "full_name": "patman15/BMS_BLE-HA",
     "stargazers_count": 157,
-    "open_issues_count": 17,
+    "open_issues_count": 13,
     "forks_count": 31
   },
   {
     "full_name": "wesbos/bracket.engineer",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 11,
     "forks_count": 9
   },
   {
     "full_name": "un-ts/eslint-plugin-import-x",
-    "stargazers_count": 540,
-    "open_issues_count": 41,
-    "forks_count": 43
+    "stargazers_count": 546,
+    "open_issues_count": 40,
+    "forks_count": 45
   },
   {
     "full_name": "RichardLitt/Quick-tips-for-making-your-software-outlive-your-job",
@@ -128,24 +128,24 @@
   {
     "full_name": "sedward5/nws_spc_outlook",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "selvalt7/modern-circular-gauge",
-    "stargazers_count": 162,
+    "stargazers_count": 163,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "hashicorp/terraform-cdk",
-    "stargazers_count": 4988,
-    "open_issues_count": 373,
+    "stargazers_count": 4991,
+    "open_issues_count": 368,
     "forks_count": 471
   },
   {
     "full_name": "marcelhoogantink/enhanced-shutter-card",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 11,
     "forks_count": 3
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 58335,
-    "open_issues_count": 268,
-    "forks_count": 3006
+    "stargazers_count": 58624,
+    "open_issues_count": 269,
+    "forks_count": 3018
   },
   {
     "full_name": "rodpayne/home-assistant_person_location",
@@ -177,6 +177,6 @@
     "full_name": "WebTools-NG/WebTools-NG",
     "stargazers_count": 824,
     "open_issues_count": 73,
-    "forks_count": 25
+    "forks_count": 24
   }
 ]

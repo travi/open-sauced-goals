@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "ploopyco/knob",
+    "stargazers_count": 181,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "benjamin-dcs/gauge-card-pro",
-    "stargazers_count": 99,
-    "open_issues_count": 9,
+    "stargazers_count": 101,
+    "open_issues_count": 12,
     "forks_count": 4
   },
   {
     "full_name": "reylinux/Wall-Mounted-Tablet",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 31982,
-    "open_issues_count": 322,
-    "forks_count": 3351
+    "stargazers_count": 32028,
+    "open_issues_count": 326,
+    "forks_count": 3357
   },
   {
     "full_name": "subdavis/selfhosted",
@@ -25,27 +31,27 @@
   },
   {
     "full_name": "Disane87/spoolman-homeassistant",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 12,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "Rdiger-36/bambulab-ams-spoolman-filamentstatus",
-    "stargazers_count": 105,
+    "stargazers_count": 107,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Arksine/moonraker",
-    "stargazers_count": 1221,
-    "open_issues_count": 166,
+    "stargazers_count": 1224,
+    "open_issues_count": 164,
     "forks_count": 464
   },
   {
     "full_name": "MrDiamondDog/filatrack",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "McJoppy/promtail-syslog",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "danielbrendel/hortusfox-web",
-    "stargazers_count": 1074,
+    "stargazers_count": 1076,
     "open_issues_count": 23,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "forkineye/ESPixelStick",
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "mikeal/cancer-diaries",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 6,
     "forks_count": 18
   },
   {
     "full_name": "TheWhiteWolf1985/ESPHomeGuiEasy",
-    "stargazers_count": 46,
-    "open_issues_count": 5,
-    "forks_count": 5
+    "stargazers_count": 48,
+    "open_issues_count": 4,
+    "forks_count": 6
   },
   {
     "full_name": "domalab/ha-unraid-connect",
@@ -103,8 +109,8 @@
   },
   {
     "full_name": "jamcalli/Pulsarr",
-    "stargazers_count": 221,
-    "open_issues_count": 4,
+    "stargazers_count": 224,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
@@ -121,25 +127,25 @@
   },
   {
     "full_name": "rxritalin/Music-Assistant-Lovelace-UI",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "bastgau/ha-pi-hole-v6",
-    "stargazers_count": 318,
+    "stargazers_count": 321,
     "open_issues_count": 6,
     "forks_count": 16
   },
   {
     "full_name": "erinalbers/grocy-receipt-ocr",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "outadoc/immich-home-assistant",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 20,
     "forks_count": 20
   },
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1610,
+    "stargazers_count": 1618,
     "open_issues_count": 44,
     "forks_count": 69
   },
   {
     "full_name": "hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors",
-    "stargazers_count": 480,
+    "stargazers_count": 481,
     "open_issues_count": 8,
     "forks_count": 122
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 17,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "andreadegiovine/homeassistant-stellantis-vehicles",
-    "stargazers_count": 84,
-    "open_issues_count": 22,
-    "forks_count": 16
   }
 ]

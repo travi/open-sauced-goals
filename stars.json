@@ -1,14 +1,44 @@
 [
   {
+    "full_name": "cataseven/Switch-and-Timer-Bar-Card",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "wessamlauf/homeassistant-frosted-glass-themes",
+    "stargazers_count": 66,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "NilSkilz/splitflap",
+    "stargazers_count": 138,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "benbalter/ai-community-moderator",
+    "stargazers_count": 15,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "mmcc-xx/WhosAtMyFeeder",
+    "stargazers_count": 392,
+    "open_issues_count": 23,
+    "forks_count": 31
+  },
+  {
     "full_name": "ploopyco/knob",
-    "stargazers_count": 181,
+    "stargazers_count": 212,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "benjamin-dcs/gauge-card-pro",
     "stargazers_count": 101,
-    "open_issues_count": 12,
+    "open_issues_count": 14,
     "forks_count": 4
   },
   {
@@ -19,9 +49,9 @@
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 32028,
-    "open_issues_count": 326,
-    "forks_count": 3357
+    "stargazers_count": 32068,
+    "open_issues_count": 327,
+    "forks_count": 3360
   },
   {
     "full_name": "subdavis/selfhosted",
@@ -32,7 +62,7 @@
   {
     "full_name": "Disane87/spoolman-homeassistant",
     "stargazers_count": 123,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 12
   },
   {
@@ -43,13 +73,13 @@
   },
   {
     "full_name": "Arksine/moonraker",
-    "stargazers_count": 1224,
-    "open_issues_count": 164,
+    "stargazers_count": 1226,
+    "open_issues_count": 165,
     "forks_count": 464
   },
   {
     "full_name": "MrDiamondDog/filatrack",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -67,14 +97,14 @@
   },
   {
     "full_name": "danielbrendel/hortusfox-web",
-    "stargazers_count": 1076,
-    "open_issues_count": 23,
-    "forks_count": 51
+    "stargazers_count": 1082,
+    "open_issues_count": 20,
+    "forks_count": 52
   },
   {
     "full_name": "forkineye/ESPixelStick",
     "stargazers_count": 561,
-    "open_issues_count": 20,
+    "open_issues_count": 18,
     "forks_count": 173
   },
   {
@@ -97,7 +127,7 @@
   },
   {
     "full_name": "domalab/ha-unraid-connect",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 13,
     "forks_count": 0
   },
@@ -109,8 +139,8 @@
   },
   {
     "full_name": "jamcalli/Pulsarr",
-    "stargazers_count": 224,
-    "open_issues_count": 6,
+    "stargazers_count": 240,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
@@ -127,13 +157,13 @@
   },
   {
     "full_name": "rxritalin/Music-Assistant-Lovelace-UI",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "bastgau/ha-pi-hole-v6",
-    "stargazers_count": 321,
+    "stargazers_count": 328,
     "open_issues_count": 6,
     "forks_count": 16
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 102,
     "open_issues_count": 20,
     "forks_count": 20
-  },
-  {
-    "full_name": "benbox69/stellantis-oauth-helper",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1618,
-    "open_issues_count": 44,
-    "forks_count": 69
-  },
-  {
-    "full_name": "hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors",
-    "stargazers_count": 481,
-    "open_issues_count": 8,
-    "forks_count": 122
-  },
-  {
-    "full_name": "drkpxl/printwatch-card",
-    "stargazers_count": 21,
-    "open_issues_count": 5,
-    "forks_count": 6
-  },
-  {
-    "full_name": "bluemaex/home-assistant-addons",
-    "stargazers_count": 17,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]

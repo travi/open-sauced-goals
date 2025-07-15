@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "urbanframe/sunlight-intensity",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "wbyoung/lampie",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "timmaurice/lovelace-blitzortung-lightning-card",
+    "stargazers_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "TrigenSoftware/simple-release",
     "stargazers_count": 7,
     "open_issues_count": 3,
@@ -7,7 +25,7 @@
   },
   {
     "full_name": "LeoKlaus/Equilibrium",
-    "stargazers_count": 21,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,9 +37,9 @@
   },
   {
     "full_name": "wessamlauf/homeassistant-frosted-glass-themes",
-    "stargazers_count": 280,
+    "stargazers_count": 293,
     "open_issues_count": 9,
-    "forks_count": 6
+    "forks_count": 8
   },
   {
     "full_name": "NilSkilz/splitflap",
@@ -43,14 +61,14 @@
   },
   {
     "full_name": "ploopyco/knob",
-    "stargazers_count": 306,
+    "stargazers_count": 311,
     "open_issues_count": 3,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "benjamin-dcs/gauge-card-pro",
-    "stargazers_count": 107,
-    "open_issues_count": 7,
+    "stargazers_count": 110,
+    "open_issues_count": 10,
     "forks_count": 4
   },
   {
@@ -61,20 +79,20 @@
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 32167,
-    "open_issues_count": 329,
-    "forks_count": 3373
+    "stargazers_count": 32208,
+    "open_issues_count": 330,
+    "forks_count": 3377
   },
   {
     "full_name": "subdavis/selfhosted",
     "stargazers_count": 354,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "Disane87/spoolman-homeassistant",
-    "stargazers_count": 125,
-    "open_issues_count": 12,
+    "stargazers_count": 126,
+    "open_issues_count": 13,
     "forks_count": 12
   },
   {
@@ -85,13 +103,13 @@
   },
   {
     "full_name": "Arksine/moonraker",
-    "stargazers_count": 1230,
-    "open_issues_count": 167,
-    "forks_count": 467
+    "stargazers_count": 1232,
+    "open_issues_count": 166,
+    "forks_count": 469
   },
   {
     "full_name": "MrDiamondDog/filatrack",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -109,15 +127,15 @@
   },
   {
     "full_name": "danielbrendel/hortusfox-web",
-    "stargazers_count": 1089,
-    "open_issues_count": 20,
+    "stargazers_count": 1098,
+    "open_issues_count": 23,
     "forks_count": 52
   },
   {
     "full_name": "forkineye/ESPixelStick",
     "stargazers_count": 561,
     "open_issues_count": 20,
-    "forks_count": 173
+    "forks_count": 174
   },
   {
     "full_name": "webgrip/traefik-local-development",
@@ -127,20 +145,20 @@
   },
   {
     "full_name": "mikeal/cancer-diaries",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 6,
     "forks_count": 18
   },
   {
     "full_name": "TheWhiteWolf1985/ESPHomeGuiEasy",
-    "stargazers_count": 68,
-    "open_issues_count": 4,
+    "stargazers_count": 69,
+    "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "domalab/ha-unraid-connect",
     "stargazers_count": 20,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 0
   },
   {
@@ -151,7 +169,7 @@
   },
   {
     "full_name": "jamcalli/Pulsarr",
-    "stargazers_count": 268,
+    "stargazers_count": 273,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 4,
     "forks_count": 1
-  },
-  {
-    "full_name": "XDROLLOXD/ESP32_Grocy_Barcode_Scanner",
-    "stargazers_count": 18,
-    "open_issues_count": 4,
-    "forks_count": 3
-  },
-  {
-    "full_name": "rxritalin/Music-Assistant-Lovelace-UI",
-    "stargazers_count": 86,
-    "open_issues_count": 2,
-    "forks_count": 3
-  },
-  {
-    "full_name": "bastgau/ha-pi-hole-v6",
-    "stargazers_count": 341,
-    "open_issues_count": 4,
-    "forks_count": 16
   }
 ]

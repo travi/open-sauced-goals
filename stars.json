@@ -1,7 +1,43 @@
 [
   {
+    "full_name": "soloam/ha-fireflyiii-integration",
+    "stargazers_count": 45,
+    "open_issues_count": 9,
+    "forks_count": 2
+  },
+  {
+    "full_name": "felixschndr/mealie-bring-api",
+    "stargazers_count": 42,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
+    "full_name": "Ipmake/Nevu",
+    "stargazers_count": 312,
+    "open_issues_count": 4,
+    "forks_count": 11
+  },
+  {
+    "full_name": "hhftechnology/traefik-log-dashboard",
+    "stargazers_count": 140,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Kareadita/Kavita",
+    "stargazers_count": 8542,
+    "open_issues_count": 173,
+    "forks_count": 465
+  },
+  {
+    "full_name": "booklore-app/BookLore",
+    "stargazers_count": 3552,
+    "open_issues_count": 120,
+    "forks_count": 173
+  },
+  {
     "full_name": "hatl/hasscontrol",
-    "stargazers_count": 185,
+    "stargazers_count": 186,
     "open_issues_count": 9,
     "forks_count": 22
   },
@@ -19,19 +55,19 @@
   },
   {
     "full_name": "timmmmmmmmm/halagen",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "CacheControl/json-rules-engine",
-    "stargazers_count": 2864,
+    "stargazers_count": 2867,
     "open_issues_count": 65,
     "forks_count": 497
   },
   {
     "full_name": "oliverbravery/PrintGuard",
-    "stargazers_count": 138,
+    "stargazers_count": 140,
     "open_issues_count": 15,
     "forks_count": 10
   },
@@ -44,19 +80,19 @@
   {
     "full_name": "wbyoung/lampie",
     "stargazers_count": 5,
-    "open_issues_count": 7,
-    "forks_count": 1
+    "open_issues_count": 9,
+    "forks_count": 2
   },
   {
     "full_name": "timmaurice/lovelace-blitzortung-lightning-card",
-    "stargazers_count": 23,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 2
   },
   {
     "full_name": "TrigenSoftware/simple-release",
     "stargazers_count": 8,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
@@ -73,7 +109,7 @@
   },
   {
     "full_name": "wessamlauf/homeassistant-frosted-glass-themes",
-    "stargazers_count": 344,
+    "stargazers_count": 348,
     "open_issues_count": 13,
     "forks_count": 10
   },
@@ -91,20 +127,20 @@
   },
   {
     "full_name": "mmcc-xx/WhosAtMyFeeder",
-    "stargazers_count": 395,
+    "stargazers_count": 396,
     "open_issues_count": 23,
     "forks_count": 33
   },
   {
     "full_name": "ploopyco/knob",
-    "stargazers_count": 321,
+    "stargazers_count": 323,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "benjamin-dcs/gauge-card-pro",
     "stargazers_count": 112,
-    "open_issues_count": 11,
+    "open_issues_count": 13,
     "forks_count": 4
   },
   {
@@ -115,9 +151,9 @@
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 32381,
-    "open_issues_count": 337,
-    "forks_count": 3414
+    "stargazers_count": 32421,
+    "open_issues_count": 338,
+    "forks_count": 3423
   },
   {
     "full_name": "subdavis/selfhosted",
@@ -133,50 +169,14 @@
   },
   {
     "full_name": "Rdiger-36/bambulab-ams-spoolman-filamentstatus",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "full_name": "Arksine/moonraker",
-    "stargazers_count": 1236,
-    "open_issues_count": 165,
+    "stargazers_count": 1240,
+    "open_issues_count": 166,
     "forks_count": 472
-  },
-  {
-    "full_name": "MrDiamondDog/filatrack",
-    "stargazers_count": 22,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "McJoppy/promtail-syslog",
-    "stargazers_count": 16,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "phyzical/docker.versions",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "danielbrendel/hortusfox-web",
-    "stargazers_count": 1111,
-    "open_issues_count": 15,
-    "forks_count": 55
-  },
-  {
-    "full_name": "forkineye/ESPixelStick",
-    "stargazers_count": 561,
-    "open_issues_count": 20,
-    "forks_count": 174
-  },
-  {
-    "full_name": "webgrip/traefik-local-development",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

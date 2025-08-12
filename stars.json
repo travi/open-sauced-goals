@@ -1,73 +1,103 @@
 [
   {
+    "full_name": "malmeloo/FindMy.py",
+    "stargazers_count": 2204,
+    "open_issues_count": 13,
+    "forks_count": 83
+  },
+  {
+    "full_name": "fryefryefrye/Decoding-Random-Bluetooth-Address",
+    "stargazers_count": 64,
+    "open_issues_count": 1,
+    "forks_count": 15
+  },
+  {
+    "full_name": "bahdotsh/wrkflw",
+    "stargazers_count": 1289,
+    "open_issues_count": 2,
+    "forks_count": 23
+  },
+  {
+    "full_name": "zivillian/LGThinQ",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "arrudagates/ponder",
+    "stargazers_count": 45,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "tikel1/HA-isometric-animated-picture-card",
-    "stargazers_count": 444,
+    "stargazers_count": 450,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "valentinfrlch/ha-llmvision",
-    "stargazers_count": 967,
-    "open_issues_count": 30,
+    "stargazers_count": 984,
+    "open_issues_count": 31,
     "forks_count": 79
   },
   {
     "full_name": "felixwittwer/homeassistant_automaic_greenhouse",
-    "stargazers_count": 12,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "micash545/hass-selfhst-icons",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "tjhorner/upsy-desky",
-    "stargazers_count": 673,
+    "stargazers_count": 678,
     "open_issues_count": 33,
     "forks_count": 45
   },
   {
     "full_name": "donetick/donetick-hass-integration",
     "stargazers_count": 28,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "donetick/donetick",
-    "stargazers_count": 988,
-    "open_issues_count": 71,
+    "stargazers_count": 998,
+    "open_issues_count": 72,
     "forks_count": 40
   },
   {
     "full_name": "itskovacs/wingfit",
-    "stargazers_count": 188,
-    "open_issues_count": 4,
+    "stargazers_count": 196,
+    "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "hargata/lubelog",
-    "stargazers_count": 1704,
-    "open_issues_count": 63,
+    "stargazers_count": 1710,
+    "open_issues_count": 64,
     "forks_count": 90
   },
   {
     "full_name": "javedh-dev/tracktor",
-    "stargazers_count": 218,
-    "open_issues_count": 22,
-    "forks_count": 7
+    "stargazers_count": 244,
+    "open_issues_count": 23,
+    "forks_count": 8
   },
   {
     "full_name": "calibrain/calibre-web-automated-book-downloader",
-    "stargazers_count": 925,
+    "stargazers_count": 933,
     "open_issues_count": 23,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "doen1el/calibre-web-companion",
-    "stargazers_count": 207,
+    "stargazers_count": 211,
     "open_issues_count": 20,
     "forks_count": 4
   },
@@ -79,13 +109,13 @@
   },
   {
     "full_name": "corazawaf/coraza",
-    "stargazers_count": 2817,
-    "open_issues_count": 94,
-    "forks_count": 269
+    "stargazers_count": 2826,
+    "open_issues_count": 93,
+    "forks_count": 272
   },
   {
     "full_name": "soloam/ha-fireflyiii-integration",
-    "stargazers_count": 46,
+    "stargazers_count": 45,
     "open_issues_count": 9,
     "forks_count": 2
   },
@@ -96,33 +126,33 @@
     "forks_count": 5
   },
   {
-    "full_name": "Ipmake/Nevu",
-    "stargazers_count": 361,
-    "open_issues_count": 5,
+    "full_name": "Ipmake/NevuForPlex",
+    "stargazers_count": 375,
+    "open_issues_count": 4,
     "forks_count": 14
   },
   {
     "full_name": "hhftechnology/traefik-log-dashboard",
-    "stargazers_count": 244,
-    "open_issues_count": 7,
+    "stargazers_count": 251,
+    "open_issues_count": 6,
     "forks_count": 3
   },
   {
     "full_name": "Kareadita/Kavita",
-    "stargazers_count": 8577,
-    "open_issues_count": 171,
-    "forks_count": 466
+    "stargazers_count": 8609,
+    "open_issues_count": 170,
+    "forks_count": 469
   },
   {
     "full_name": "booklore-app/booklore",
-    "stargazers_count": 3765,
-    "open_issues_count": 124,
-    "forks_count": 186
+    "stargazers_count": 3831,
+    "open_issues_count": 133,
+    "forks_count": 190
   },
   {
     "full_name": "hatl/hasscontrol",
     "stargazers_count": 189,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 22
   },
   {
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "timmmmmmmmm/halagen",
-    "stargazers_count": 37,
+    "stargazers_count": 39,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "CacheControl/json-rules-engine",
-    "stargazers_count": 2876,
+    "stargazers_count": 2880,
     "open_issues_count": 66,
     "forks_count": 498
-  },
-  {
-    "full_name": "oliverbravery/PrintGuard",
-    "stargazers_count": 142,
-    "open_issues_count": 15,
-    "forks_count": 10
-  },
-  {
-    "full_name": "urbanframe/sunlight-intensity",
-    "stargazers_count": 9,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "wbyoung/lampie",
-    "stargazers_count": 5,
-    "open_issues_count": 9,
-    "forks_count": 2
-  },
-  {
-    "full_name": "timmaurice/lovelace-blitzortung-lightning-card",
-    "stargazers_count": 29,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "TrigenSoftware/simple-release",
-    "stargazers_count": 10,
-    "open_issues_count": 4,
-    "forks_count": 0
   }
 ]

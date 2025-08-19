@@ -1,5 +1,83 @@
 [
   {
+    "full_name": "meshtastic/web",
+    "stargazers_count": 459,
+    "open_issues_count": 42,
+    "forks_count": 181
+  },
+  {
+    "full_name": "meshtastic/home-assistant",
+    "stargazers_count": 153,
+    "open_issues_count": 24,
+    "forks_count": 13
+  },
+  {
+    "full_name": "Flagsmith/flagsmith",
+    "stargazers_count": 5865,
+    "open_issues_count": 458,
+    "forks_count": 454
+  },
+  {
+    "full_name": "featbit/featbit",
+    "stargazers_count": 1576,
+    "open_issues_count": 28,
+    "forks_count": 121
+  },
+  {
+    "full_name": "Tanq16/ExpenseOwl",
+    "stargazers_count": 1116,
+    "open_issues_count": 11,
+    "forks_count": 74
+  },
+  {
+    "full_name": "Lissy93/domain-locker",
+    "stargazers_count": 295,
+    "open_issues_count": 0,
+    "forks_count": 27
+  },
+  {
+    "full_name": "Wingysam/Christmas-Community",
+    "stargazers_count": 367,
+    "open_issues_count": 58,
+    "forks_count": 52
+  },
+  {
+    "full_name": "evroon/bracket",
+    "stargazers_count": 1388,
+    "open_issues_count": 35,
+    "forks_count": 110
+  },
+  {
+    "full_name": "casperklein/homeassistant-addons",
+    "stargazers_count": 36,
+    "open_issues_count": 1,
+    "forks_count": 6
+  },
+  {
+    "full_name": "advplyr/audiobookshelf",
+    "stargazers_count": 9757,
+    "open_issues_count": 747,
+    "forks_count": 677
+  },
+  {
+    "full_name": "asciinema/asciinema-server",
+    "stargazers_count": 2391,
+    "open_issues_count": 14,
+    "forks_count": 275
+  },
+  {
+    "full_name": "johanohly/AirTrail",
+    "stargazers_count": 631,
+    "open_issues_count": 6,
+    "forks_count": 32
+  },
+  {
+    "full_name": "netbox-community/netbox",
+    "stargazers_count": 18394,
+    "open_issues_count": 279,
+    "forks_count": 2813
+  },
+  {
     "full_name": "doteric/semantic-release-major-tag",
     "stargazers_count": 20,
     "open_issues_count": 1,
@@ -7,33 +85,33 @@
   },
   {
     "full_name": "iamkarlson/grocy",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
+    "stargazers_count": 3,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 9417,
+    "stargazers_count": 9427,
     "open_issues_count": 1,
     "forks_count": 186
   },
   {
     "full_name": "malmeloo/FindMy.py",
-    "stargazers_count": 2207,
-    "open_issues_count": 14,
-    "forks_count": 84
+    "stargazers_count": 2211,
+    "open_issues_count": 16,
+    "forks_count": 86
   },
   {
     "full_name": "fryefryefrye/Decoding-Random-Bluetooth-Address",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "bahdotsh/wrkflw",
-    "stargazers_count": 1421,
-    "open_issues_count": 1,
-    "forks_count": 23
+    "stargazers_count": 1640,
+    "open_issues_count": 5,
+    "forks_count": 25
   },
   {
     "full_name": "zivillian/LGThinQ",
@@ -43,25 +121,25 @@
   },
   {
     "full_name": "arrudagates/ponder",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "tikel1/HA-isometric-animated-picture-card",
-    "stargazers_count": 454,
+    "stargazers_count": 455,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "valentinfrlch/ha-llmvision",
-    "stargazers_count": 989,
+    "stargazers_count": 998,
     "open_issues_count": 31,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "felixwittwer/homeassistant_automaic_greenhouse",
-    "stargazers_count": 16,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -73,110 +151,32 @@
   },
   {
     "full_name": "tjhorner/upsy-desky",
-    "stargazers_count": 682,
+    "stargazers_count": 683,
     "open_issues_count": 34,
     "forks_count": 45
   },
   {
     "full_name": "donetick/donetick-hass-integration",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 8,
     "forks_count": 8
   },
   {
     "full_name": "donetick/donetick",
-    "stargazers_count": 1017,
-    "open_issues_count": 74,
-    "forks_count": 42
+    "stargazers_count": 1026,
+    "open_issues_count": 77,
+    "forks_count": 45
   },
   {
     "full_name": "itskovacs/wingfit",
-    "stargazers_count": 202,
+    "stargazers_count": 217,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "hargata/lubelog",
-    "stargazers_count": 1716,
+    "stargazers_count": 1726,
     "open_issues_count": 63,
-    "forks_count": 90
-  },
-  {
-    "full_name": "javedh-dev/tracktor",
-    "stargazers_count": 256,
-    "open_issues_count": 24,
-    "forks_count": 8
-  },
-  {
-    "full_name": "calibrain/calibre-web-automated-book-downloader",
-    "stargazers_count": 945,
-    "open_issues_count": 27,
-    "forks_count": 67
-  },
-  {
-    "full_name": "doen1el/calibre-web-companion",
-    "stargazers_count": 217,
-    "open_issues_count": 20,
-    "forks_count": 5
-  },
-  {
-    "full_name": "AlexxIT/DashCast",
-    "stargazers_count": 199,
-    "open_issues_count": 6,
-    "forks_count": 10
-  },
-  {
-    "full_name": "corazawaf/coraza",
-    "stargazers_count": 2836,
-    "open_issues_count": 93,
-    "forks_count": 272
-  },
-  {
-    "full_name": "soloam/ha-fireflyiii-integration",
-    "stargazers_count": 45,
-    "open_issues_count": 9,
-    "forks_count": 2
-  },
-  {
-    "full_name": "felixschndr/mealie-bring-api",
-    "stargazers_count": 43,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "Ipmake/NevuForPlex",
-    "stargazers_count": 377,
-    "open_issues_count": 5,
-    "forks_count": 16
-  },
-  {
-    "full_name": "hhftechnology/traefik-log-dashboard",
-    "stargazers_count": 258,
-    "open_issues_count": 8,
-    "forks_count": 3
-  },
-  {
-    "full_name": "Kareadita/Kavita",
-    "stargazers_count": 8623,
-    "open_issues_count": 175,
-    "forks_count": 471
-  },
-  {
-    "full_name": "booklore-app/booklore",
-    "stargazers_count": 3885,
-    "open_issues_count": 144,
-    "forks_count": 193
-  },
-  {
-    "full_name": "hatl/hasscontrol",
-    "stargazers_count": 191,
-    "open_issues_count": 10,
-    "forks_count": 22
-  },
-  {
-    "full_name": "marcokreeft87/spoolman-updater",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 91
   }
 ]

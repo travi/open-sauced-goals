@@ -1,61 +1,73 @@
 [
   {
+    "full_name": "matomo-org/matomo-log-analytics",
+    "stargazers_count": 229,
+    "open_issues_count": 89,
+    "forks_count": 119
+  },
+  {
+    "full_name": "Mostafa-Wahied/portracker",
+    "stargazers_count": 1043,
+    "open_issues_count": 15,
+    "forks_count": 24
+  },
+  {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3190,
-    "open_issues_count": 64,
-    "forks_count": 148
+    "stargazers_count": 3269,
+    "open_issues_count": 71,
+    "forks_count": 152
   },
   {
     "full_name": "lutinglt/gitea-github-theme",
-    "stargazers_count": 91,
+    "stargazers_count": 94,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "meshtastic/web",
-    "stargazers_count": 461,
-    "open_issues_count": 44,
-    "forks_count": 182
+    "stargazers_count": 466,
+    "open_issues_count": 46,
+    "forks_count": 183
   },
   {
     "full_name": "meshtastic/home-assistant",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 24,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "Flagsmith/flagsmith",
-    "stargazers_count": 5877,
-    "open_issues_count": 449,
+    "stargazers_count": 5887,
+    "open_issues_count": 447,
     "forks_count": 455
   },
   {
     "full_name": "featbit/featbit",
-    "stargazers_count": 1577,
+    "stargazers_count": 1578,
     "open_issues_count": 28,
     "forks_count": 121
   },
   {
     "full_name": "Tanq16/ExpenseOwl",
-    "stargazers_count": 1123,
+    "stargazers_count": 1138,
     "open_issues_count": 11,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "Lissy93/domain-locker",
-    "stargazers_count": 296,
+    "stargazers_count": 301,
     "open_issues_count": 1,
     "forks_count": 27
   },
   {
     "full_name": "Wingysam/Christmas-Community",
     "stargazers_count": 367,
-    "open_issues_count": 58,
-    "forks_count": 52
+    "open_issues_count": 60,
+    "forks_count": 53
   },
   {
     "full_name": "evroon/bracket",
-    "stargazers_count": 1388,
+    "stargazers_count": 1391,
     "open_issues_count": 35,
     "forks_count": 110
   },
@@ -67,27 +79,27 @@
   },
   {
     "full_name": "advplyr/audiobookshelf",
-    "stargazers_count": 9791,
-    "open_issues_count": 748,
-    "forks_count": 681
+    "stargazers_count": 9842,
+    "open_issues_count": 742,
+    "forks_count": 684
   },
   {
     "full_name": "asciinema/asciinema-server",
     "stargazers_count": 2386,
-    "open_issues_count": 14,
-    "forks_count": 275
+    "open_issues_count": 11,
+    "forks_count": 276
   },
   {
     "full_name": "johanohly/AirTrail",
-    "stargazers_count": 637,
+    "stargazers_count": 644,
     "open_issues_count": 5,
     "forks_count": 32
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 18408,
-    "open_issues_count": 276,
-    "forks_count": 2817
+    "stargazers_count": 18440,
+    "open_issues_count": 275,
+    "forks_count": 2821
   },
   {
     "full_name": "doteric/semantic-release-major-tag",
@@ -97,20 +109,20 @@
   },
   {
     "full_name": "iamkarlson/grocy",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 3,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 9441,
+    "stargazers_count": 9455,
     "open_issues_count": 1,
     "forks_count": 187
   },
   {
     "full_name": "malmeloo/FindMy.py",
-    "stargazers_count": 2217,
-    "open_issues_count": 16,
+    "stargazers_count": 2221,
+    "open_issues_count": 12,
     "forks_count": 86
   },
   {
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "bahdotsh/wrkflw",
-    "stargazers_count": 1878,
+    "stargazers_count": 1988,
     "open_issues_count": 4,
-    "forks_count": 26
+    "forks_count": 28
   },
   {
     "full_name": "zivillian/LGThinQ",
@@ -139,13 +151,13 @@
   },
   {
     "full_name": "tikel1/HA-isometric-animated-picture-card",
-    "stargazers_count": 456,
+    "stargazers_count": 459,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "valentinfrlch/ha-llmvision",
-    "stargazers_count": 1000,
+    "stargazers_count": 1006,
     "open_issues_count": 32,
     "forks_count": 80
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "tjhorner/upsy-desky",
-    "stargazers_count": 685,
-    "open_issues_count": 34,
+    "stargazers_count": 687,
+    "open_issues_count": 33,
     "forks_count": 46
-  },
-  {
-    "full_name": "donetick/donetick-hass-integration",
-    "stargazers_count": 32,
-    "open_issues_count": 8,
-    "forks_count": 8
-  },
-  {
-    "full_name": "donetick/donetick",
-    "stargazers_count": 1038,
-    "open_issues_count": 79,
-    "forks_count": 45
   }
 ]

@@ -1,13 +1,49 @@
 [
   {
-    "full_name": "polamoros/home-assistant-cards",
-    "stargazers_count": 90,
+    "full_name": "anbraten/gitea-js",
+    "stargazers_count": 43,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "gitnex-org/gitnex",
+    "stargazers_count": 66,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
+    "full_name": "louisbrulenaudet/bodyboard",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "rastogiji/grafana-autodoc",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "WebMaka/ParametricRackCageGenerator",
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "kvj/hass_Bluetooth_Proxy_Companion",
+    "stargazers_count": 29,
+    "open_issues_count": 7,
+    "forks_count": 4
+  },
+  {
+    "full_name": "polamoros/home-assistant-cards",
+    "stargazers_count": 149,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "Thokoop/billy-b-assistant",
-    "stargazers_count": 115,
+    "stargazers_count": 135,
     "open_issues_count": 3,
     "forks_count": 7
   },
@@ -20,7 +56,7 @@
   {
     "full_name": "zaggash/homelab",
     "stargazers_count": 1,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
@@ -37,38 +73,38 @@
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1056,
-    "open_issues_count": 15,
+    "stargazers_count": 1082,
+    "open_issues_count": 16,
     "forks_count": 24
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3309,
+    "stargazers_count": 3380,
     "open_issues_count": 76,
-    "forks_count": 153
+    "forks_count": 165
   },
   {
     "full_name": "lutinglt/gitea-github-theme",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "meshtastic/web",
-    "stargazers_count": 467,
-    "open_issues_count": 45,
-    "forks_count": 186
+    "stargazers_count": 469,
+    "open_issues_count": 48,
+    "forks_count": 188
   },
   {
     "full_name": "meshtastic/home-assistant",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 22,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "Flagsmith/flagsmith",
-    "stargazers_count": 5897,
-    "open_issues_count": 448,
+    "stargazers_count": 5899,
+    "open_issues_count": 445,
     "forks_count": 455
   },
   {
@@ -79,25 +115,25 @@
   },
   {
     "full_name": "Tanq16/ExpenseOwl",
-    "stargazers_count": 1146,
-    "open_issues_count": 11,
+    "stargazers_count": 1149,
+    "open_issues_count": 14,
     "forks_count": 75
   },
   {
     "full_name": "Lissy93/domain-locker",
-    "stargazers_count": 302,
+    "stargazers_count": 306,
     "open_issues_count": 1,
     "forks_count": 27
   },
   {
     "full_name": "Wingysam/Christmas-Community",
-    "stargazers_count": 368,
+    "stargazers_count": 370,
     "open_issues_count": 60,
     "forks_count": 54
   },
   {
     "full_name": "evroon/bracket",
-    "stargazers_count": 1391,
+    "stargazers_count": 1393,
     "open_issues_count": 36,
     "forks_count": 110
   },
@@ -109,27 +145,27 @@
   },
   {
     "full_name": "advplyr/audiobookshelf",
-    "stargazers_count": 9894,
-    "open_issues_count": 748,
+    "stargazers_count": 9938,
+    "open_issues_count": 756,
     "forks_count": 688
   },
   {
     "full_name": "asciinema/asciinema-server",
-    "stargazers_count": 2387,
+    "stargazers_count": 2389,
     "open_issues_count": 11,
-    "forks_count": 276
+    "forks_count": 277
   },
   {
     "full_name": "johanohly/AirTrail",
-    "stargazers_count": 649,
-    "open_issues_count": 4,
+    "stargazers_count": 679,
+    "open_issues_count": 5,
     "forks_count": 32
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 18479,
-    "open_issues_count": 275,
-    "forks_count": 2827
+    "stargazers_count": 18525,
+    "open_issues_count": 287,
+    "forks_count": 2833
   },
   {
     "full_name": "doteric/semantic-release-major-tag",
@@ -139,44 +175,8 @@
   },
   {
     "full_name": "iamkarlson/grocy",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 2,
     "forks_count": 1
-  },
-  {
-    "full_name": "marp-team/marp",
-    "stargazers_count": 9476,
-    "open_issues_count": 1,
-    "forks_count": 188
-  },
-  {
-    "full_name": "malmeloo/FindMy.py",
-    "stargazers_count": 2225,
-    "open_issues_count": 12,
-    "forks_count": 85
-  },
-  {
-    "full_name": "fryefryefrye/Decoding-Random-Bluetooth-Address",
-    "stargazers_count": 66,
-    "open_issues_count": 2,
-    "forks_count": 15
-  },
-  {
-    "full_name": "bahdotsh/wrkflw",
-    "stargazers_count": 2013,
-    "open_issues_count": 4,
-    "forks_count": 29
-  },
-  {
-    "full_name": "zivillian/LGThinQ",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "arrudagates/ponder",
-    "stargazers_count": 49,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

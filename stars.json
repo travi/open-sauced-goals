@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "theupdateframework/tuf-on-ci",
+    "stargazers_count": 40,
+    "open_issues_count": 49,
+    "forks_count": 15
+  },
+  {
     "full_name": "anbraten/gitea-js",
     "stargazers_count": 43,
     "open_issues_count": 2,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "gitnex-org/gitnex",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "louisbrulenaudet/bodyboard",
@@ -20,13 +26,13 @@
   {
     "full_name": "rastogiji/grafana-autodoc",
     "stargazers_count": 4,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
+    "stargazers_count": 13,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -37,26 +43,26 @@
   },
   {
     "full_name": "polamoros/home-assistant-cards",
-    "stargazers_count": 149,
-    "open_issues_count": 0,
+    "stargazers_count": 174,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "Thokoop/billy-b-assistant",
-    "stargazers_count": 135,
+    "stargazers_count": 139,
     "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "simongregorebner/gitea-pages",
-    "stargazers_count": 7,
-    "open_issues_count": 4,
+    "stargazers_count": 8,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "zaggash/homelab",
     "stargazers_count": 1,
-    "open_issues_count": 4,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1082,
+    "stargazers_count": 1101,
     "open_issues_count": 16,
     "forks_count": 24
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3380,
-    "open_issues_count": 76,
-    "forks_count": 165
+    "stargazers_count": 3413,
+    "open_issues_count": 77,
+    "forks_count": 168
   },
   {
     "full_name": "lutinglt/gitea-github-theme",
@@ -91,51 +97,51 @@
   },
   {
     "full_name": "meshtastic/web",
-    "stargazers_count": 469,
-    "open_issues_count": 48,
-    "forks_count": 188
+    "stargazers_count": 471,
+    "open_issues_count": 46,
+    "forks_count": 190
   },
   {
     "full_name": "meshtastic/home-assistant",
-    "stargazers_count": 157,
-    "open_issues_count": 22,
+    "stargazers_count": 159,
+    "open_issues_count": 25,
     "forks_count": 15
   },
   {
     "full_name": "Flagsmith/flagsmith",
-    "stargazers_count": 5899,
-    "open_issues_count": 445,
-    "forks_count": 455
+    "stargazers_count": 5901,
+    "open_issues_count": 442,
+    "forks_count": 454
   },
   {
     "full_name": "featbit/featbit",
-    "stargazers_count": 1579,
+    "stargazers_count": 1580,
     "open_issues_count": 28,
-    "forks_count": 121
+    "forks_count": 122
   },
   {
     "full_name": "Tanq16/ExpenseOwl",
-    "stargazers_count": 1149,
-    "open_issues_count": 14,
-    "forks_count": 75
+    "stargazers_count": 1156,
+    "open_issues_count": 13,
+    "forks_count": 76
   },
   {
     "full_name": "Lissy93/domain-locker",
-    "stargazers_count": 306,
+    "stargazers_count": 308,
     "open_issues_count": 1,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "Wingysam/Christmas-Community",
-    "stargazers_count": 370,
+    "stargazers_count": 369,
     "open_issues_count": 60,
     "forks_count": 54
   },
   {
     "full_name": "evroon/bracket",
-    "stargazers_count": 1393,
-    "open_issues_count": 36,
-    "forks_count": 110
+    "stargazers_count": 1394,
+    "open_issues_count": 38,
+    "forks_count": 112
   },
   {
     "full_name": "casperklein/homeassistant-addons",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "advplyr/audiobookshelf",
-    "stargazers_count": 9938,
+    "stargazers_count": 9978,
     "open_issues_count": 756,
-    "forks_count": 688
+    "forks_count": 695
   },
   {
     "full_name": "asciinema/asciinema-server",
-    "stargazers_count": 2389,
+    "stargazers_count": 2388,
     "open_issues_count": 11,
     "forks_count": 277
   },
   {
     "full_name": "johanohly/AirTrail",
-    "stargazers_count": 679,
-    "open_issues_count": 5,
-    "forks_count": 32
+    "stargazers_count": 683,
+    "open_issues_count": 3,
+    "forks_count": 33
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 18525,
-    "open_issues_count": 287,
-    "forks_count": 2833
+    "stargazers_count": 18548,
+    "open_issues_count": 296,
+    "forks_count": 2836
   },
   {
     "full_name": "doteric/semantic-release-major-tag",
     "stargazers_count": 20,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "iamkarlson/grocy",
-    "stargazers_count": 5,
-    "open_issues_count": 2,
-    "forks_count": 1
   }
 ]

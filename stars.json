@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "lhm0/pd_logger",
+    "stargazers_count": 17,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Foundry376/Mailspring",
+    "stargazers_count": 16670,
+    "open_issues_count": 8,
+    "forks_count": 944
+  },
+  {
+    "full_name": "rednblkx/HAP-ESPHome",
+    "stargazers_count": 207,
+    "open_issues_count": 13,
+    "forks_count": 26
+  },
+  {
     "full_name": "ahmedelhaw/ha-digitaltwin-demo",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -20,13 +38,13 @@
   {
     "full_name": "themepark-dev/theme.park",
     "stargazers_count": 2880,
-    "open_issues_count": 36,
-    "forks_count": 857
+    "open_issues_count": 37,
+    "forks_count": 855
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
     "stargazers_count": 40,
-    "open_issues_count": 51,
+    "open_issues_count": 49,
     "forks_count": 15
   },
   {
@@ -37,7 +55,7 @@
   },
   {
     "full_name": "gitnex-org/gitnex",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -55,7 +73,7 @@
   },
   {
     "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 18,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -67,14 +85,14 @@
   },
   {
     "full_name": "polamoros/home-assistant-cards",
-    "stargazers_count": 177,
+    "stargazers_count": 179,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "Thokoop/billy-b-assistant",
-    "stargazers_count": 149,
-    "open_issues_count": 3,
+    "stargazers_count": 150,
+    "open_issues_count": 5,
     "forks_count": 10
   },
   {
@@ -86,7 +104,7 @@
   {
     "full_name": "zaggash/homelab",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -103,55 +121,55 @@
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1131,
+    "stargazers_count": 1133,
     "open_issues_count": 19,
     "forks_count": 25
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3478,
-    "open_issues_count": 76,
-    "forks_count": 167
+    "stargazers_count": 3535,
+    "open_issues_count": 77,
+    "forks_count": 169
   },
   {
     "full_name": "lutinglt/gitea-github-theme",
-    "stargazers_count": 100,
-    "open_issues_count": 0,
+    "stargazers_count": 101,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "meshtastic/web",
-    "stargazers_count": 478,
+    "stargazers_count": 485,
     "open_issues_count": 46,
-    "forks_count": 192
+    "forks_count": 193
   },
   {
     "full_name": "meshtastic/home-assistant",
-    "stargazers_count": 162,
+    "stargazers_count": 165,
     "open_issues_count": 26,
     "forks_count": 16
   },
   {
     "full_name": "Flagsmith/flagsmith",
-    "stargazers_count": 5921,
-    "open_issues_count": 452,
+    "stargazers_count": 5927,
+    "open_issues_count": 460,
     "forks_count": 454
   },
   {
     "full_name": "featbit/featbit",
-    "stargazers_count": 1585,
-    "open_issues_count": 31,
+    "stargazers_count": 1587,
+    "open_issues_count": 30,
     "forks_count": 122
   },
   {
     "full_name": "Tanq16/ExpenseOwl",
-    "stargazers_count": 1164,
-    "open_issues_count": 14,
-    "forks_count": 77
+    "stargazers_count": 1168,
+    "open_issues_count": 15,
+    "forks_count": 78
   },
   {
     "full_name": "Lissy93/domain-locker",
-    "stargazers_count": 314,
+    "stargazers_count": 318,
     "open_issues_count": 2,
     "forks_count": 29
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 370,
     "open_issues_count": 60,
     "forks_count": 54
-  },
-  {
-    "full_name": "evroon/bracket",
-    "stargazers_count": 1399,
-    "open_issues_count": 38,
-    "forks_count": 113
-  },
-  {
-    "full_name": "casperklein/homeassistant-addons",
-    "stargazers_count": 38,
-    "open_issues_count": 1,
-    "forks_count": 7
-  },
-  {
-    "full_name": "advplyr/audiobookshelf",
-    "stargazers_count": 10042,
-    "open_issues_count": 762,
-    "forks_count": 699
   }
 ]

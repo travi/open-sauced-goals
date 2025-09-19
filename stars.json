@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "joseluis9595/lovelace-navbar-card",
+    "stargazers_count": 592,
+    "open_issues_count": 19,
+    "forks_count": 9
+  },
+  {
     "full_name": "lhm0/pd_logger",
-    "stargazers_count": 17,
+    "stargazers_count": 29,
     "open_issues_count": 2,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16670,
+    "stargazers_count": 16704,
     "open_issues_count": 8,
     "forks_count": 944
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 207,
-    "open_issues_count": 13,
+    "stargazers_count": 208,
+    "open_issues_count": 14,
     "forks_count": 26
   },
   {
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2880,
-    "open_issues_count": 37,
-    "forks_count": 855
+    "stargazers_count": 2883,
+    "open_issues_count": 36,
+    "forks_count": 853
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "anbraten/gitea-js",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 24,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "kvj/hass_Bluetooth_Proxy_Companion",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 7,
     "forks_count": 4
   },
@@ -98,13 +104,13 @@
   {
     "full_name": "simongregorebner/gitea-pages",
     "stargazers_count": 8,
-    "open_issues_count": 5,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "zaggash/homelab",
     "stargazers_count": 1,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -121,62 +127,56 @@
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1133,
+    "stargazers_count": 1138,
     "open_issues_count": 19,
     "forks_count": 25
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3535,
-    "open_issues_count": 77,
-    "forks_count": 169
+    "stargazers_count": 3588,
+    "open_issues_count": 78,
+    "forks_count": 173
   },
   {
     "full_name": "lutinglt/gitea-github-theme",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "meshtastic/web",
-    "stargazers_count": 485,
-    "open_issues_count": 46,
-    "forks_count": 193
+    "stargazers_count": 486,
+    "open_issues_count": 42,
+    "forks_count": 194
   },
   {
     "full_name": "meshtastic/home-assistant",
-    "stargazers_count": 165,
-    "open_issues_count": 26,
-    "forks_count": 16
+    "stargazers_count": 168,
+    "open_issues_count": 27,
+    "forks_count": 17
   },
   {
     "full_name": "Flagsmith/flagsmith",
-    "stargazers_count": 5927,
-    "open_issues_count": 460,
+    "stargazers_count": 5942,
+    "open_issues_count": 459,
     "forks_count": 454
   },
   {
     "full_name": "featbit/featbit",
-    "stargazers_count": 1587,
-    "open_issues_count": 30,
-    "forks_count": 122
+    "stargazers_count": 1592,
+    "open_issues_count": 18,
+    "forks_count": 123
   },
   {
     "full_name": "Tanq16/ExpenseOwl",
-    "stargazers_count": 1168,
+    "stargazers_count": 1176,
     "open_issues_count": 15,
-    "forks_count": 78
+    "forks_count": 80
   },
   {
     "full_name": "Lissy93/domain-locker",
-    "stargazers_count": 318,
+    "stargazers_count": 321,
     "open_issues_count": 2,
     "forks_count": 29
-  },
-  {
-    "full_name": "Wingysam/Christmas-Community",
-    "stargazers_count": 370,
-    "open_issues_count": 60,
-    "forks_count": 54
   }
 ]

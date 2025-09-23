@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "forwardemail/forwardemail.net",
+    "stargazers_count": 1355,
+    "open_issues_count": 38,
+    "forks_count": 172
+  },
+  {
+    "full_name": "BigBoot/AutoKuma",
+    "stargazers_count": 533,
+    "open_issues_count": 35,
+    "forks_count": 22
+  },
+  {
+    "full_name": "Mastermindzh/dotfiles",
+    "stargazers_count": 68,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "wymangr/hassos-addons",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 592,
-    "open_issues_count": 19,
-    "forks_count": 9
+    "stargazers_count": 615,
+    "open_issues_count": 10,
+    "forks_count": 11
   },
   {
     "full_name": "lhm0/pd_logger",
@@ -13,15 +37,15 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16704,
+    "stargazers_count": 16724,
     "open_issues_count": 8,
-    "forks_count": 944
+    "forks_count": 945
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 208,
-    "open_issues_count": 14,
-    "forks_count": 26
+    "stargazers_count": 211,
+    "open_issues_count": 15,
+    "forks_count": 27
   },
   {
     "full_name": "ahmedelhaw/ha-digitaltwin-demo",
@@ -43,15 +67,15 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2883,
+    "stargazers_count": 2884,
     "open_issues_count": 36,
-    "forks_count": 853
+    "forks_count": 854
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
     "stargazers_count": 40,
-    "open_issues_count": 49,
-    "forks_count": 15
+    "open_issues_count": 50,
+    "forks_count": 16
   },
   {
     "full_name": "anbraten/gitea-js",
@@ -61,7 +85,7 @@
   },
   {
     "full_name": "gitnex-org/gitnex",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -79,7 +103,7 @@
   },
   {
     "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 26,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -91,14 +115,14 @@
   },
   {
     "full_name": "polamoros/home-assistant-cards",
-    "stargazers_count": 179,
-    "open_issues_count": 1,
+    "stargazers_count": 180,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "Thokoop/billy-b-assistant",
-    "stargazers_count": 150,
-    "open_issues_count": 5,
+    "stargazers_count": 153,
+    "open_issues_count": 6,
     "forks_count": 10
   },
   {
@@ -110,7 +134,7 @@
   {
     "full_name": "zaggash/homelab",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -127,56 +151,32 @@
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1138,
+    "stargazers_count": 1140,
     "open_issues_count": 19,
     "forks_count": 25
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3588,
-    "open_issues_count": 78,
-    "forks_count": 173
+    "stargazers_count": 3637,
+    "open_issues_count": 79,
+    "forks_count": 175
   },
   {
     "full_name": "lutinglt/gitea-github-theme",
-    "stargazers_count": 102,
-    "open_issues_count": 1,
+    "stargazers_count": 104,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "meshtastic/web",
-    "stargazers_count": 486,
-    "open_issues_count": 42,
-    "forks_count": 194
+    "stargazers_count": 489,
+    "open_issues_count": 44,
+    "forks_count": 195
   },
   {
     "full_name": "meshtastic/home-assistant",
-    "stargazers_count": 168,
+    "stargazers_count": 172,
     "open_issues_count": 27,
     "forks_count": 17
-  },
-  {
-    "full_name": "Flagsmith/flagsmith",
-    "stargazers_count": 5942,
-    "open_issues_count": 459,
-    "forks_count": 454
-  },
-  {
-    "full_name": "featbit/featbit",
-    "stargazers_count": 1592,
-    "open_issues_count": 18,
-    "forks_count": 123
-  },
-  {
-    "full_name": "Tanq16/ExpenseOwl",
-    "stargazers_count": 1176,
-    "open_issues_count": 15,
-    "forks_count": 80
-  },
-  {
-    "full_name": "Lissy93/domain-locker",
-    "stargazers_count": 321,
-    "open_issues_count": 2,
-    "forks_count": 29
   }
 ]

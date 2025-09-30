@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "crcerror/retroflag-picase",
+    "stargazers_count": 150,
+    "open_issues_count": 0,
+    "forks_count": 34
+  },
+  {
+    "full_name": "Taxel/PlexTraktSync",
+    "stargazers_count": 1934,
+    "open_issues_count": 70,
+    "forks_count": 119
+  },
+  {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1358,
-    "open_issues_count": 37,
+    "stargazers_count": 1361,
+    "open_issues_count": 38,
     "forks_count": 172
   },
   {
     "full_name": "BigBoot/AutoKuma",
-    "stargazers_count": 534,
+    "stargazers_count": 537,
     "open_issues_count": 35,
     "forks_count": 22
   },
@@ -21,37 +33,37 @@
     "full_name": "wymangr/hassos-addons",
     "stargazers_count": 14,
     "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 619,
-    "open_issues_count": 12,
-    "forks_count": 11
-  },
-  {
-    "full_name": "lhm0/pd_logger",
-    "stargazers_count": 31,
-    "open_issues_count": 2,
     "forks_count": 1
   },
   {
+    "full_name": "joseluis9595/lovelace-navbar-card",
+    "stargazers_count": 631,
+    "open_issues_count": 12,
+    "forks_count": 12
+  },
+  {
+    "full_name": "lhm0/pd_logger",
+    "stargazers_count": 39,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16738,
+    "stargazers_count": 16756,
     "open_issues_count": 8,
-    "forks_count": 945
+    "forks_count": 942
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 16,
     "forks_count": 27
   },
   {
     "full_name": "ahmedelhaw/ha-digitaltwin-demo",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "abdalrahimnaser/homeassistant_keybridge",
@@ -67,14 +79,14 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2891,
-    "open_issues_count": 36,
+    "stargazers_count": 2893,
+    "open_issues_count": 37,
     "forks_count": 855
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
     "stargazers_count": 40,
-    "open_issues_count": 50,
+    "open_issues_count": 48,
     "forks_count": 16
   },
   {
@@ -103,7 +115,7 @@
   },
   {
     "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "Thokoop/billy-b-assistant",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 7,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "simongregorebner/gitea-pages",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "saitho/semantic-release-gitea",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 12,
     "forks_count": 11
   },
   {
     "full_name": "matomo-org/matomo-log-analytics",
-    "stargazers_count": 229,
+    "stargazers_count": 230,
     "open_issues_count": 87,
     "forks_count": 119
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1146,
+    "stargazers_count": 1153,
     "open_issues_count": 19,
     "forks_count": 25
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3647,
-    "open_issues_count": 78,
-    "forks_count": 179
+    "stargazers_count": 3679,
+    "open_issues_count": 80,
+    "forks_count": 182
   },
   {
     "full_name": "lutinglt/gitea-github-theme",
-    "stargazers_count": 104,
-    "open_issues_count": 3,
+    "stargazers_count": 105,
+    "open_issues_count": 2,
     "forks_count": 6
-  },
-  {
-    "full_name": "meshtastic/web",
-    "stargazers_count": 490,
-    "open_issues_count": 44,
-    "forks_count": 195
-  },
-  {
-    "full_name": "meshtastic/home-assistant",
-    "stargazers_count": 176,
-    "open_issues_count": 28,
-    "forks_count": 17
   }
 ]

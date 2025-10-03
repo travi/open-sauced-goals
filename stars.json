@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "adinhodovic/tailscale-exporter",
+    "stargazers_count": 28,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "crcerror/retroflag-picase",
     "stargazers_count": 150,
     "open_issues_count": 0,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "Taxel/PlexTraktSync",
-    "stargazers_count": 1934,
+    "stargazers_count": 1936,
     "open_issues_count": 70,
-    "forks_count": 119
+    "forks_count": 120
   },
   {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1361,
+    "stargazers_count": 1362,
     "open_issues_count": 38,
     "forks_count": 172
   },
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 631,
-    "open_issues_count": 12,
+    "stargazers_count": 634,
+    "open_issues_count": 13,
     "forks_count": 12
   },
   {
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16756,
+    "stargazers_count": 16755,
     "open_issues_count": 8,
     "forks_count": 942
   },
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "abdalrahimnaser/homeassistant_keybridge",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2893,
-    "open_issues_count": 37,
-    "forks_count": 855
+    "stargazers_count": 2895,
+    "open_issues_count": 38,
+    "forks_count": 856
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 48,
     "forks_count": 16
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "polamoros/home-assistant-cards",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -135,11 +141,11 @@
     "full_name": "Thokoop/billy-b-assistant",
     "stargazers_count": 155,
     "open_issues_count": 7,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "simongregorebner/gitea-pages",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "saitho/semantic-release-gitea",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 12,
     "forks_count": 11
   },
   {
     "full_name": "matomo-org/matomo-log-analytics",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 87,
     "forks_count": 119
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1153,
+    "stargazers_count": 1158,
     "open_issues_count": 19,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3679,
+    "stargazers_count": 3719,
     "open_issues_count": 80,
-    "forks_count": 182
-  },
-  {
-    "full_name": "lutinglt/gitea-github-theme",
-    "stargazers_count": 105,
-    "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 183
   }
 ]

@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "Kellojo/pihole-lists-sync-action",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "adinhodovic/tailscale-exporter",
-    "stargazers_count": 28,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1362,
-    "open_issues_count": 38,
+    "stargazers_count": 1364,
+    "open_issues_count": 37,
     "forks_count": 172
   },
   {
     "full_name": "BigBoot/AutoKuma",
-    "stargazers_count": 537,
-    "open_issues_count": 35,
-    "forks_count": 22
+    "stargazers_count": 536,
+    "open_issues_count": 37,
+    "forks_count": 23
   },
   {
     "full_name": "Mastermindzh/dotfiles",
@@ -43,25 +49,25 @@
   },
   {
     "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 634,
+    "stargazers_count": 638,
     "open_issues_count": 13,
     "forks_count": 12
   },
   {
     "full_name": "lhm0/pd_logger",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16755,
+    "stargazers_count": 16754,
     "open_issues_count": 8,
     "forks_count": 942
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 214,
+    "stargazers_count": 216,
     "open_issues_count": 16,
     "forks_count": 27
   },
@@ -85,14 +91,14 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2895,
-    "open_issues_count": 38,
+    "stargazers_count": 2890,
+    "open_issues_count": 37,
     "forks_count": 856
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
     "stargazers_count": 41,
-    "open_issues_count": 48,
+    "open_issues_count": 51,
     "forks_count": 16
   },
   {
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "gitnex-org/gitnex",
-    "stargazers_count": 70,
+    "stargazers_count": 68,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -141,7 +147,7 @@
     "full_name": "Thokoop/billy-b-assistant",
     "stargazers_count": 155,
     "open_issues_count": 7,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "simongregorebner/gitea-pages",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "mostafa-wahied/portracker",
-    "stargazers_count": 1158,
+    "stargazers_count": 1167,
     "open_issues_count": 19,
     "forks_count": 26
-  },
-  {
-    "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3719,
-    "open_issues_count": 80,
-    "forks_count": 183
   }
 ]

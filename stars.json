@@ -1,14 +1,32 @@
 [
   {
+    "full_name": "dgtlmoon/changedetection.io",
+    "stargazers_count": 27892,
+    "open_issues_count": 322,
+    "forks_count": 1551
+  },
+  {
+    "full_name": "boneskull/cenobite",
+    "stargazers_count": 1,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "henrygd/beszel",
+    "stargazers_count": 15732,
+    "open_issues_count": 295,
+    "forks_count": 487
+  },
+  {
     "full_name": "ArikShemesh/ha-simple-timer",
-    "stargazers_count": 60,
-    "open_issues_count": 6,
+    "stargazers_count": 71,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "tonyperkins/homeassistant-broadlink-manager",
-    "stargazers_count": 6,
-    "open_issues_count": 4,
+    "stargazers_count": 12,
+    "open_issues_count": 3,
     "forks_count": 0
   },
   {
@@ -31,15 +49,15 @@
   },
   {
     "full_name": "Taxel/PlexTraktSync",
-    "stargazers_count": 1938,
-    "open_issues_count": 71,
+    "stargazers_count": 1942,
+    "open_issues_count": 68,
     "forks_count": 120
   },
   {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1368,
-    "open_issues_count": 37,
-    "forks_count": 173
+    "stargazers_count": 1371,
+    "open_issues_count": 34,
+    "forks_count": 174
   },
   {
     "full_name": "BigBoot/AutoKuma",
@@ -49,33 +67,33 @@
   },
   {
     "full_name": "Mastermindzh/dotfiles",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "wymangr/hassos-addons",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 645,
-    "open_issues_count": 13,
+    "stargazers_count": 648,
+    "open_issues_count": 14,
     "forks_count": 12
   },
   {
     "full_name": "lhm0/pd_logger",
-    "stargazers_count": 40,
+    "stargazers_count": 42,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16768,
+    "stargazers_count": 16779,
     "open_issues_count": 8,
-    "forks_count": 942
+    "forks_count": 943
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
@@ -103,19 +121,19 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2893,
+    "stargazers_count": 2895,
     "open_issues_count": 37,
-    "forks_count": 856
+    "forks_count": 855
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
-    "stargazers_count": 41,
-    "open_issues_count": 49,
+    "stargazers_count": 42,
+    "open_issues_count": 50,
     "forks_count": 16
   },
   {
     "full_name": "anbraten/gitea-js",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "Thokoop/billy-b-assistant",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 7,
     "forks_count": 13
-  },
-  {
-    "full_name": "simongregorebner/gitea-pages",
-    "stargazers_count": 9,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "zaggash/homelab",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "saitho/semantic-release-gitea",
-    "stargazers_count": 26,
-    "open_issues_count": 12,
-    "forks_count": 11
   }
 ]

@@ -1,37 +1,55 @@
 [
   {
+    "full_name": "jay-oswald/ha-wican",
+    "stargazers_count": 65,
+    "open_issues_count": 10,
+    "forks_count": 11
+  },
+  {
+    "full_name": "Lissy93/networking-toolbox",
+    "stargazers_count": 657,
+    "open_issues_count": 6,
+    "forks_count": 34
+  },
+  {
+    "full_name": "netbox-community/devicetype-library",
+    "stargazers_count": 1234,
+    "open_issues_count": 39,
+    "forks_count": 1194
+  },
+  {
     "full_name": "gbmhunter/NinjaTerm",
-    "stargazers_count": 95,
-    "open_issues_count": 12,
+    "stargazers_count": 96,
+    "open_issues_count": 11,
     "forks_count": 7
   },
   {
     "full_name": "dgtlmoon/changedetection.io",
-    "stargazers_count": 28044,
-    "open_issues_count": 323,
-    "forks_count": 1555
+    "stargazers_count": 28130,
+    "open_issues_count": 324,
+    "forks_count": 1558
   },
   {
     "full_name": "boneskull/cenobite",
     "stargazers_count": 1,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "henrygd/beszel",
-    "stargazers_count": 15782,
-    "open_issues_count": 302,
-    "forks_count": 496
+    "stargazers_count": 15906,
+    "open_issues_count": 307,
+    "forks_count": 500
   },
   {
     "full_name": "ArikShemesh/ha-simple-timer",
-    "stargazers_count": 72,
+    "stargazers_count": 74,
     "open_issues_count": 7,
     "forks_count": 0
   },
   {
     "full_name": "tonyperkins/homeassistant-broadlink-manager",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 3,
     "forks_count": 0
   },
@@ -55,20 +73,20 @@
   },
   {
     "full_name": "Taxel/PlexTraktSync",
-    "stargazers_count": 1943,
-    "open_issues_count": 70,
+    "stargazers_count": 1944,
+    "open_issues_count": 71,
     "forks_count": 121
   },
   {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1375,
-    "open_issues_count": 35,
-    "forks_count": 174
+    "stargazers_count": 1381,
+    "open_issues_count": 36,
+    "forks_count": 176
   },
   {
     "full_name": "BigBoot/AutoKuma",
-    "stargazers_count": 536,
-    "open_issues_count": 39,
+    "stargazers_count": 538,
+    "open_issues_count": 40,
     "forks_count": 24
   },
   {
@@ -79,31 +97,31 @@
   },
   {
     "full_name": "wymangr/hassos-addons",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 649,
-    "open_issues_count": 14,
+    "stargazers_count": 655,
+    "open_issues_count": 15,
     "forks_count": 12
   },
   {
     "full_name": "lhm0/pd_logger",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16785,
+    "stargazers_count": 16801,
     "open_issues_count": 8,
     "forks_count": 944
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 15,
     "forks_count": 27
   },
@@ -127,14 +145,14 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2897,
+    "stargazers_count": 2903,
     "open_issues_count": 37,
     "forks_count": 856
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
     "stargazers_count": 42,
-    "open_issues_count": 49,
+    "open_issues_count": 51,
     "forks_count": 16
   },
   {
@@ -160,23 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "WebMaka/ParametricRackCageGenerator",
-    "stargazers_count": 46,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "kvj/hass_Bluetooth_Proxy_Companion",
-    "stargazers_count": 30,
-    "open_issues_count": 7,
-    "forks_count": 4
-  },
-  {
-    "full_name": "polamoros/home-assistant-cards",
-    "stargazers_count": 181,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]

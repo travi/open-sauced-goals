@@ -1,62 +1,74 @@
 [
   {
+    "full_name": "eslint/create-config",
+    "stargazers_count": 96,
+    "open_issues_count": 6,
+    "forks_count": 28
+  },
+  {
+    "full_name": "azu/setup-npm-trusted-publish",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "dmunozv04/iSponsorBlockTV",
-    "stargazers_count": 4111,
-    "open_issues_count": 63,
+    "stargazers_count": 4208,
+    "open_issues_count": 65,
     "forks_count": 182
   },
   {
     "full_name": "saihgupr/HomeAssistantTimeMachine",
-    "stargazers_count": 197,
-    "open_issues_count": 8,
-    "forks_count": 6
+    "stargazers_count": 205,
+    "open_issues_count": 10,
+    "forks_count": 7
   },
   {
     "full_name": "jay-oswald/ha-wican",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 10,
     "forks_count": 11
   },
   {
     "full_name": "Lissy93/networking-toolbox",
-    "stargazers_count": 740,
-    "open_issues_count": 2,
-    "forks_count": 40
+    "stargazers_count": 1027,
+    "open_issues_count": 3,
+    "forks_count": 73
   },
   {
     "full_name": "netbox-community/devicetype-library",
     "stargazers_count": 1236,
-    "open_issues_count": 47,
-    "forks_count": 1199
+    "open_issues_count": 39,
+    "forks_count": 1202
   },
   {
     "full_name": "gbmhunter/NinjaTerm",
     "stargazers_count": 96,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 7
   },
   {
     "full_name": "dgtlmoon/changedetection.io",
-    "stargazers_count": 28165,
-    "open_issues_count": 319,
-    "forks_count": 1564
+    "stargazers_count": 28236,
+    "open_issues_count": 316,
+    "forks_count": 1565
   },
   {
     "full_name": "boneskull/cenobite",
     "stargazers_count": 1,
-    "open_issues_count": 4,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "henrygd/beszel",
-    "stargazers_count": 16046,
-    "open_issues_count": 306,
-    "forks_count": 505
+    "stargazers_count": 16192,
+    "open_issues_count": 314,
+    "forks_count": 517
   },
   {
     "full_name": "ArikShemesh/ha-simple-timer",
-    "stargazers_count": 75,
-    "open_issues_count": 7,
+    "stargazers_count": 76,
+    "open_issues_count": 8,
     "forks_count": 0
   },
   {
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "adinhodovic/tailscale-exporter",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -85,25 +97,25 @@
   },
   {
     "full_name": "Taxel/PlexTraktSync",
-    "stargazers_count": 1945,
-    "open_issues_count": 71,
+    "stargazers_count": 1949,
+    "open_issues_count": 72,
     "forks_count": 121
   },
   {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1385,
+    "stargazers_count": 1390,
     "open_issues_count": 35,
     "forks_count": 176
   },
   {
     "full_name": "BigBoot/AutoKuma",
-    "stargazers_count": 539,
-    "open_issues_count": 42,
+    "stargazers_count": 542,
+    "open_issues_count": 36,
     "forks_count": 24
   },
   {
     "full_name": "Mastermindzh/dotfiles",
-    "stargazers_count": 69,
+    "stargazers_count": 68,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -115,8 +127,8 @@
   },
   {
     "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 662,
-    "open_issues_count": 18,
+    "stargazers_count": 667,
+    "open_issues_count": 16,
     "forks_count": 12
   },
   {
@@ -127,15 +139,15 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16808,
-    "open_issues_count": 8,
+    "stargazers_count": 16817,
+    "open_issues_count": 9,
     "forks_count": 944
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 219,
-    "open_issues_count": 15,
-    "forks_count": 28
+    "stargazers_count": 220,
+    "open_issues_count": 16,
+    "forks_count": 29
   },
   {
     "full_name": "ahmedelhaw/ha-digitaltwin-demo",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2906,
-    "open_issues_count": 37,
+    "stargazers_count": 2911,
+    "open_issues_count": 36,
     "forks_count": 856
   },
   {
     "full_name": "theupdateframework/tuf-on-ci",
     "stargazers_count": 42,
-    "open_issues_count": 51,
+    "open_issues_count": 48,
     "forks_count": 16
-  },
-  {
-    "full_name": "anbraten/gitea-js",
-    "stargazers_count": 48,
-    "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "gitnex-org/gitnex",
-    "stargazers_count": 70,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]

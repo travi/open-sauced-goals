@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "DiyYari/LightTrack-VISION",
+    "stargazers_count": 54,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
+    "full_name": "arabcoders/watchstate",
+    "stargazers_count": 1036,
+    "open_issues_count": 0,
+    "forks_count": 16
+  },
+  {
+    "full_name": "todogroup/awesome-ospo",
+    "stargazers_count": 486,
+    "open_issues_count": 7,
+    "forks_count": 68
+  },
+  {
     "full_name": "eslint/create-config",
     "stargazers_count": 96,
     "open_issues_count": 6,
@@ -13,33 +31,33 @@
   },
   {
     "full_name": "dmunozv04/iSponsorBlockTV",
-    "stargazers_count": 4208,
+    "stargazers_count": 4225,
     "open_issues_count": 65,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "saihgupr/HomeAssistantTimeMachine",
-    "stargazers_count": 205,
-    "open_issues_count": 10,
-    "forks_count": 7
+    "stargazers_count": 308,
+    "open_issues_count": 5,
+    "forks_count": 10
   },
   {
     "full_name": "jay-oswald/ha-wican",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 10,
     "forks_count": 11
   },
   {
     "full_name": "Lissy93/networking-toolbox",
-    "stargazers_count": 1027,
+    "stargazers_count": 1133,
     "open_issues_count": 3,
-    "forks_count": 73
+    "forks_count": 81
   },
   {
     "full_name": "netbox-community/devicetype-library",
-    "stargazers_count": 1236,
-    "open_issues_count": 39,
-    "forks_count": 1202
+    "stargazers_count": 1244,
+    "open_issues_count": 43,
+    "forks_count": 1205
   },
   {
     "full_name": "gbmhunter/NinjaTerm",
@@ -49,9 +67,9 @@
   },
   {
     "full_name": "dgtlmoon/changedetection.io",
-    "stargazers_count": 28236,
-    "open_issues_count": 316,
-    "forks_count": 1565
+    "stargazers_count": 28278,
+    "open_issues_count": 308,
+    "forks_count": 1572
   },
   {
     "full_name": "boneskull/cenobite",
@@ -61,14 +79,14 @@
   },
   {
     "full_name": "henrygd/beszel",
-    "stargazers_count": 16192,
-    "open_issues_count": 314,
-    "forks_count": 517
+    "stargazers_count": 16321,
+    "open_issues_count": 315,
+    "forks_count": 522
   },
   {
     "full_name": "ArikShemesh/ha-simple-timer",
-    "stargazers_count": 76,
-    "open_issues_count": 8,
+    "stargazers_count": 80,
+    "open_issues_count": 9,
     "forks_count": 0
   },
   {
@@ -85,7 +103,7 @@
   },
   {
     "full_name": "adinhodovic/tailscale-exporter",
-    "stargazers_count": 40,
+    "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -103,13 +121,13 @@
   },
   {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1390,
-    "open_issues_count": 35,
+    "stargazers_count": 1391,
+    "open_issues_count": 36,
     "forks_count": 176
   },
   {
     "full_name": "BigBoot/AutoKuma",
-    "stargazers_count": 542,
+    "stargazers_count": 543,
     "open_issues_count": 36,
     "forks_count": 24
   },
@@ -139,13 +157,13 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16817,
+    "stargazers_count": 16825,
     "open_issues_count": 9,
-    "forks_count": 944
+    "forks_count": 945
   },
   {
     "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 220,
+    "stargazers_count": 222,
     "open_issues_count": 16,
     "forks_count": 29
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "cameronhunter/ink-markdown",
-    "stargazers_count": 51,
-    "open_issues_count": 3,
-    "forks_count": 7
-  },
-  {
-    "full_name": "themepark-dev/theme.park",
-    "stargazers_count": 2911,
-    "open_issues_count": 36,
-    "forks_count": 856
-  },
-  {
-    "full_name": "theupdateframework/tuf-on-ci",
-    "stargazers_count": 42,
-    "open_issues_count": 48,
-    "forks_count": 16
   }
 ]

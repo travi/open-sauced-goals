@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "codykociemba/NoLongerEvil-Thermostat",
+    "stargazers_count": 575,
+    "open_issues_count": 13,
+    "forks_count": 25
+  },
+  {
+    "full_name": "aditya01933/SlopGuard",
+    "stargazers_count": 30,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "AnswerDotAI/llms-txt",
+    "stargazers_count": 1952,
+    "open_issues_count": 54,
+    "forks_count": 106
+  },
+  {
     "full_name": "mattjoyce/unraid-rrdtool",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -7,50 +25,50 @@
   },
   {
     "full_name": "mcreekmore/unraid-terraform",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "DiyYari/LightTrack-VISION",
-    "stargazers_count": 63,
+    "stargazers_count": 89,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 10
   },
   {
     "full_name": "arabcoders/watchstate",
-    "stargazers_count": 1066,
+    "stargazers_count": 1073,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "todogroup/awesome-ospo",
-    "stargazers_count": 486,
+    "stargazers_count": 487,
     "open_issues_count": 7,
     "forks_count": 68
   },
   {
     "full_name": "eslint/create-config",
     "stargazers_count": 95,
-    "open_issues_count": 8,
+    "open_issues_count": 11,
     "forks_count": 28
   },
   {
     "full_name": "azu/setup-npm-trusted-publish",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "dmunozv04/iSponsorBlockTV",
-    "stargazers_count": 4249,
+    "stargazers_count": 4326,
     "open_issues_count": 66,
     "forks_count": 185
   },
   {
     "full_name": "saihgupr/HomeAssistantTimeMachine",
-    "stargazers_count": 426,
-    "open_issues_count": 11,
+    "stargazers_count": 439,
+    "open_issues_count": 10,
     "forks_count": 14
   },
   {
@@ -61,27 +79,27 @@
   },
   {
     "full_name": "Lissy93/networking-toolbox",
-    "stargazers_count": 1386,
+    "stargazers_count": 1641,
     "open_issues_count": 3,
-    "forks_count": 102
+    "forks_count": 132
   },
   {
     "full_name": "netbox-community/devicetype-library",
-    "stargazers_count": 1251,
-    "open_issues_count": 47,
-    "forks_count": 1209
+    "stargazers_count": 1253,
+    "open_issues_count": 34,
+    "forks_count": 1210
   },
   {
     "full_name": "gbmhunter/NinjaTerm",
-    "stargazers_count": 97,
-    "open_issues_count": 12,
+    "stargazers_count": 98,
+    "open_issues_count": 13,
     "forks_count": 7
   },
   {
     "full_name": "dgtlmoon/changedetection.io",
-    "stargazers_count": 28340,
-    "open_issues_count": 310,
-    "forks_count": 1574
+    "stargazers_count": 28396,
+    "open_issues_count": 313,
+    "forks_count": 1577
   },
   {
     "full_name": "boneskull/cenobite",
@@ -91,13 +109,13 @@
   },
   {
     "full_name": "henrygd/beszel",
-    "stargazers_count": 16496,
-    "open_issues_count": 313,
-    "forks_count": 526
+    "stargazers_count": 16596,
+    "open_issues_count": 314,
+    "forks_count": 527
   },
   {
     "full_name": "ArikShemesh/ha-simple-timer",
-    "stargazers_count": 81,
+    "stargazers_count": 83,
     "open_issues_count": 11,
     "forks_count": 0
   },
@@ -127,25 +145,25 @@
   },
   {
     "full_name": "Taxel/PlexTraktSync",
-    "stargazers_count": 1955,
-    "open_issues_count": 71,
+    "stargazers_count": 1957,
+    "open_issues_count": 73,
     "forks_count": 121
   },
   {
     "full_name": "forwardemail/forwardemail.net",
-    "stargazers_count": 1391,
-    "open_issues_count": 37,
+    "stargazers_count": 1393,
+    "open_issues_count": 36,
     "forks_count": 176
   },
   {
     "full_name": "BigBoot/AutoKuma",
-    "stargazers_count": 545,
+    "stargazers_count": 546,
     "open_issues_count": 36,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "Mastermindzh/dotfiles",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "joseluis9595/lovelace-navbar-card",
-    "stargazers_count": 670,
-    "open_issues_count": 14,
+    "stargazers_count": 674,
+    "open_issues_count": 12,
     "forks_count": 13
-  },
-  {
-    "full_name": "lhm0/pd_logger",
-    "stargazers_count": 51,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 16834,
-    "open_issues_count": 9,
-    "forks_count": 947
-  },
-  {
-    "full_name": "rednblkx/HAP-ESPHome",
-    "stargazers_count": 222,
-    "open_issues_count": 16,
-    "forks_count": 29
   }
 ]
